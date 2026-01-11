@@ -1,0 +1,1188 @@
+name,company_number,jurisdiction_code,incorporation_date,company_type,branch,inactive,registered_address_street_address,registered_address_locality,registered_address_region,registered_address_postal_code,registered_address_country,country,started_in_year
+FEST COFFEE MISSION SP. Z O.O.,0787781936,be,2022-06-15,Entité étrangère,F,False,UL. LUBICZ 27,KRAKOW,,31-503,Pologne ( Rép. ),Belgium,2022.0
+KOON,0807287943,be,2008-10-20,Société privée à responsabilité limitée,,False,Geebroek 39,Tongeren,,3700,Belgium,Belgium,2008.0
+MAS,0597840494,be,2015-02-04,Société privée à responsabilité limitée,,False,Sint-Hubertusstraat 66,Bilzen-Hoeselt,,3730,Belgium,Belgium,2015.0
+MPULS MENEN-WERVIK,0405501174,be,1968-01-01,Société à responsabilité limitée,,False,Volkslaan 302,Menen,,8930,Belgium,Belgium,1968.0
+Nspire,0840749181,be,2011-11-02,Société privée à responsabilité limitée,,False,Morgenstraat 20,Lummen,,3560,Belgium,Belgium,2011.0
+R5,0712942179,be,2018-11-08,Société anonyme,,False,Bosveld(STG) 2,Dendermonde,,9200,Belgium,Belgium,2018.0
+SELL,0883972975,be,2006-10-04,Société à responsabilité limitée,,False,Bosdreef 35,Kapellen,,2950,Belgium,Belgium,2006.0
+UKBUM,0793816326,be,2022-10-25,Association sans but lucratif,,False,Heilig Geesthoek 35,Beveren-Kruibeke-Zwijndrecht,,2070,Belgium,Belgium,2022.0
+kweu,0803191375,be,2023-06-26,Association sans but lucratif,,False,Ter Platen 3,Gent,,9000,Belgium,Belgium,2023.0
+mpaktMasjien,0551893277,be,2014-05-05,Association sans but lucratif,,False,Kerkstraat 166,Gent,,9050,Belgium,Belgium,2014.0
+""" 'T ZEEPAARDJE-LE LIS'"" BTW GROEP",0820966428,be,2010-01-01,Activités,,False,Kleine Gasmeterstraat 2,Hamme (Vl.),,9220,Belgium,Belgium,2010.0
+""" 01-SERVICES """,0831932970,be,2010-12-16,Société privée à responsabilité limitée,,False,Clos des Chardonnerets 2,Liège,,4000,Belgium,Belgium,2010.0
+""" ACP Gray 83 "" sise rue Gray 83 à 1050 Ixelles",0755626931,be,2020-09-28,Association des copropriétaires,,False,Rue Gray 83,Ixelles,,1050,Belgium,Belgium,2020.0
+""" ARJEPA """,0884336726,be,2006-10-17,Société anonyme,,False,Rue Sainte-Marie 5,Liège,,4000,Belgium,Belgium,2006.0
+""" ASSOCIATES ENTREPRISES CONSULTANTS ACCOMPLISHMENT GROWTH "", en abrégé « AEC-AG »",0445911176,be,1991-12-10,Société à responsabilité limitée,,False,Boulevard du Souverain 348,Auderghem,,1160,Belgium,Belgium,1991.0
+""" ASSOCIATION DES COPROPRIETAIRES DE LA RESIDENCE LOUIS BERTRAND, numéros 71/73"". sise à La Louvière, rue Louis Bertra",0644586972,be,2015-12-10,Association des copropriétaires,,False,Rue Louis Bertrand(L.L) 71/73,La Louvière,,7100,Belgium,Belgium,2015.0
+""" Akontio """,0733855973,be,2019-09-09,Société à responsabilité limitée,,False,Camp de Corroy 11,Huy,,4500,Belgium,Belgium,2019.0
+""" Andrew Thirion Aménagements et Design """,1026085004,be,2025-07-31,Société à responsabilité limitée,,False,Cowan 7,Houffalize,,6662,,Belgium,2025.0
+""" ArtVan Consult """,0764308926,be,2021-02-24,Société à responsabilité limitée,,False,Rue Théophile Vander Elst 32,Watermael-Boitsfort,,1170,Belgium,Belgium,2021.0
+""" BAR DE JULE"" FOODTRUCK",0646806193,be,2016-01-01,Société ou association sans personnalité juridique,,False,Mechelseweg 356,Kapelle-op-den-Bos,,1880,Belgium,Belgium,2016.0
+""" BATIMENTO """,0822163288,be,2010-01-12,Société privée à responsabilité limitée,,True,Rue de l'escadron 609 9,Waremme,,4300,Belgium,Belgium,2010.0
+""" BENEX """,0847385664,be,2012-07-13,Société à responsabilité limitée,,False,Rue de Labliau(Hoves) 26,Silly,,7830,Belgium,Belgium,2012.0
+""" CB CERATIZIT BELGIUM """,0830793122,be,2010-11-02,Société privée à responsabilité limitée,,False,Drève du Bois de Neuville(N) 40,Neupré,,4121,Belgium,Belgium,2010.0
+""" COLLAM """,1025599212,be,2025-07-16,Société à responsabilité limitée,,False,Reibroekstraat 64,Deinze,,9850,,Belgium,2025.0
+""" CONGO NOTRE MAISON """,0831085112,be,2010-11-15,Association sans but lucratif,,False,Rue de Renory 146,Liège,,4031,Belgium,Belgium,2010.0
+""" CONRAD F MANAGEMENT""",0883910223,be,2006-10-03,Société privée à responsabilité limitée,,True,Haantjeslei 68,Antwerpen,,2018,Belgium,Belgium,2006.0
+""" Cabinet Conseil LR s.p.r.l. """,0831420157,be,2010-11-24,Société privée à responsabilité limitée,,False,Rue de Limal 55,Rixensart,,1330,Belgium,Belgium,2010.0
+""" Citoyens sans Frontières """,0831544475,be,2010-12-01,Association sans but lucratif,,False,Avenue de la Sarte 17,Chaudfontaine,,4053,Belgium,Belgium,2010.0
+""" DG LIMOUSINES""",0895493211,be,2008-02-05,Société privée à responsabilité limitée,,False,Rue Roujuste(CAR) 13,Morlanwelz,,7141,Belgium,Belgium,2008.0
+""" De Wolf - Durnez Ramen en Deuren""",0715605622,be,2018-12-07,Société à responsabilité limitée,,False,Misweg 3,Heist-op-den-Berg,,2220,Belgium,Belgium,2018.0
+""" E.M.B.I. """,0830344249,be,2010-10-18,Société privée à responsabilité limitée,,True,Rue de Remouchamps(LVG) 38,Sprimont,,4141,Belgium,Belgium,2010.0
+""" E3P """,0766313262,be,2021-04-02,Société à responsabilité limitée,,False,Rue de Richelle(RIC) 24,Visé,,4600,Belgium,Belgium,2021.0
+""" ECO CLEANING SYSTEM SPRL """,0830830338,be,2010-11-03,Société privée à responsabilité limitée,,True,Industriestrasse 25,Eupen,,4700,Belgium,Belgium,2010.0
+""" Entre Nous "" Amis du Jumelage Jumet - Saint Junien",0542413805,be,2013-11-22,Association sans but lucratif,,False,Rue De Paepe César 59,Charleroi,,6040,Belgium,Belgium,2013.0
+""" Espoir """,0409507967,be,1968-04-04,Association sans but lucratif,,False,Avenue Adolphe Lacomblé 59 - 61,Schaerbeek,,1030,Belgium,Belgium,1968.0
+""" Francis SWINNEN Management """,0822133792,be,2010-01-11,Société civile sous forme de société en commandite simple,,False,Rue des Bouleaux 13,Liège,,4031,Belgium,Belgium,2010.0
+""" Fées toi m'aimes """,0824844943,be,2010-04-09,Société privée à responsabilité limitée,,True,Rue du Pont 43,Liège,,4000,Belgium,Belgium,2010.0
+""" G & F EVENTS""",0811456270,be,2009-04-27,Société privée à responsabilité limitée,,True,Rue Georges-Willame 10,Nivelles,,1400,Belgium,Belgium,2009.0
+""" G.H. EPURATION """,0825120897,be,2010-04-01,Société ou association sans personnalité juridique,,False,Sart d'Avette(AWR) 110,Flémalle,,4400,Belgium,Belgium,2010.0
+""" GDF Impact """,0765740566,be,2021-03-26,Société à responsabilité limitée,,False,Rue Robert Thoreau 14,Woluwe-Saint-Pierre,,1150,Belgium,Belgium,2021.0
+""" GDHL """,0830987419,be,2010-11-09,Société privée à responsabilité limitée,,True,Avenue Reine Astrid 42,Waremme,,4300,Belgium,Belgium,2010.0
+""" GO&BE """,0830903978,be,2010-11-05,Société privée à responsabilité limitée,,False,Chemin de la Julienne 4,Blégny,,4671,Belgium,Belgium,2010.0
+""" Gilson """,0655876386,be,2016-07-01,Activités,,False,Avenue de la Porallée 55,Aywaille,,4920,Belgium,Belgium,2016.0
+""" H & R""",0830931890,be,2010-12-01,Activités,,False,Place des Nations-Unies 7,Liège,,4020,Belgium,Belgium,2010.0
+""" H+E """,0682920481,be,2017-10-14,Société privée à responsabilité limitée,,False,Rue Maurice Lange 14,Rebecq,,1430,Belgium,Belgium,2017.0
+""" HG PRODUCTIONS """,0830213397,be,2010-10-13,Société privée à responsabilité limitée,,True,Clos Robinson(VIS) 6,Visé,,4600,Belgium,Belgium,2010.0
+""" HOUDSTERMAATSCHAPPIJ LAURIERGRACHT "" DE BUFFEL""B.V.""",0888974415,be,2007-04-24,Entité étrangère,F,False,DIJKWACHT 49,LEIDERDORP,,2353EG,Pays-Bas,Belgium,2007.0
+""" IMMO MIJA SOL """,0822160122,be,2010-01-12,Société privée à responsabilité limitée,,True,Rue Pirnay 24,Liège,,4020,Belgium,Belgium,2010.0
+""" JM BUILDING """,0808005149,be,2008-11-21,Société privée à responsabilité limitée,,True,Rue du Rouge-Bouton 45,Ittre,,1460,Belgium,Belgium,2008.0
+""" JP DELHOUGNE Management """,0830062157,be,2010-10-07,Société civile sous forme de société en commandite simple,,False,Rue de Henne 6,Chaudfontaine,,4053,Belgium,Belgium,2010.0
+""""" А ЕНД В КОНСУЛТ """" ООД",201898201,bg,2012-02-02,Limited Liability Company (Дружество с ограничена отговорност),,False,,,,,,Bulgaria,2012.0
+""""" А и С ТРАНСПОРТ """" ООД",202155357,bg,2012-07-18,Limited Liability Company (Дружество с ограничена отговорност),,False,,,,,,Bulgaria,2012.0
+""""" АВАНГАРД СТ """" ЕООД",201896093,bg,2012-02-01,Single Limited Liability Company (Еднолично Дружество с ограничена отговорност),,False,"гр. Стара Загора, Цар Симеон Велики, No. 127, вх. А, ет. 4, ап. 4",област: Стара Загора,община: Стара Загора,6000,БЪЛГАРИЯ,Bulgaria,2012.0
+""""" АГРОГРИЙН - КАЧАМАЧКОВА"""" ЕООД",204213478,bg,2016-08-19,Single Limited Liability Company (Еднолично Дружество с ограничена отговорност),,False,,,,,,Bulgaria,2016.0
+""""" АИМ Къмършъл-85”"" ЕООД",203517706,bg,2015-04-29,Single Limited Liability Company (Еднолично Дружество с ограничена отговорност),,False,,,,,,Bulgaria,2015.0
+""""" АЙ - ФРЕШ """" ООД",201697134,bg,2011-09-03,Limited Liability Company (Дружество с ограничена отговорност),,False,,,,,,Bulgaria,2011.0
+""""" АЛЕН - СПАС СОТИРОВ 2012"" ЕООД"" ЕООД",201950139,bg,2012-03-08,Single Limited Liability Company (Еднолично Дружество с ограничена отговорност),,False,,,,,,Bulgaria,2012.0
+""""" АЛКА ГРУП """" ООД",202061178,bg,2012-05-10,Limited Liability Company (Дружество с ограничена отговорност),,False,,,,,,Bulgaria,2012.0
+""""" АМБУЛАТОРИЯ ЗА СПЕЦИАЛИЗИРАНА ИЗВЪНБОЛНИЧНА МЕДИЦИНСКА ПОМОЩ ПО ОЧНИ БОЛЕСТИ - ИНДИВИДУАЛНА ПРАКТИКА - Д-Р РАЙЧО АНДРЕЕВ - РЕФЛЕКТ"" ЕООД"" ЕООД",115529195,bg,,Single Limited Liability Company (Еднолично Дружество с ограничена отговорност),,False,,,,,,Bulgaria,
+""""" АНГОВ 83 """" ЕООД",202177542,bg,2012-08-06,Single Limited Liability Company (Еднолично Дружество с ограничена отговорност),,False,"гр. Хасково, "" БЪЛГАРИЯ "", No. 17, ет. 1, ап. 3",област: Хасково,община: Хасково,6300,БЪЛГАРИЯ,Bulgaria,2012.0
+""""" АНЕТА ГЮНДЖИЕВА-2012 """" ЕООД",202001761,bg,2012-04-03,Single Limited Liability Company (Еднолично Дружество с ограничена отговорност),,False,,,,,,Bulgaria,2012.0
+""""" АРБИТРАНС - АМГ """" ЕООД",201932803,bg,2012-02-27,Single Limited Liability Company (Еднолично Дружество с ограничена отговорност),,False,,,,,,Bulgaria,2012.0
+""""" АСО ГАРАНТ """" ЕООД",175198141,bg,,Single Limited Liability Company (Еднолично Дружество с ограничена отговорност),,False,"гр. София, район. р-н Овча купел, ж.к. Овча  купел, блок. 520, вх. В, ет. 4, ап. 46",област: София (столица),община: Столична,1632,БЪЛГАРИЯ,Bulgaria,
+""""" АТИВА- 80"""" ЕООД",202588878,bg,2013-05-22,Single Limited Liability Company (Еднолично Дружество с ограничена отговорност),,False,,,,,,Bulgaria,2013.0
+""""" БАЛКАН ТРЕЙДАРС """" ЕООД",201428760,bg,2011-02-14,Single Limited Liability Company (Еднолично Дружество с ограничена отговорност),,False,,,,,,Bulgaria,2011.0
+""""" БГ АВТОКЛУБ"""" ЕООД",203744611,bg,2015-10-19,Single Limited Liability Company (Еднолично Дружество с ограничена отговорност),,False,,,,,,Bulgaria,2015.0
+""""" БГР СТРОЙ "" ЕООД"" ЕООД",200297685,bg,2008-08-13,Single Limited Liability Company (Еднолично Дружество с ограничена отговорност),,False,,,,,,Bulgaria,2008.0
+""""" БЕБО - ВК """" ООД",201433371,bg,2011-02-15,Limited Liability Company (Дружество с ограничена отговорност),,False,,,,,,Bulgaria,2011.0
+""""" БЕСТ - ПАЙ """" ООД",201058033,bg,2010-02-19,Limited Liability Company (Дружество с ограничена отговорност),,False,,,,,,Bulgaria,2010.0
+""""" БИО ДИВАН """" ЕООД",201589500,bg,2011-06-10,Single Limited Liability Company (Еднолично Дружество с ограничена отговорност),,False,,,,,,Bulgaria,2011.0
+""""" БЛЕК СИЙ СЪНРАЙЗ """" ЕООД",201167029,bg,2010-06-01,Single Limited Liability Company (Еднолично Дружество с ограничена отговорност),,False,,,,,,Bulgaria,2010.0
+""""" БОБИ-РОС """" ЕООД",201996460,bg,2012-03-30,Single Limited Liability Company (Еднолично Дружество с ограничена отговорност),,False,,,,,,Bulgaria,2012.0
+""""" БОДИВЕС """" ООД",202066887,bg,2012-05-15,Limited Liability Company (Дружество с ограничена отговорност),,False,,,,,,Bulgaria,2012.0
+""""" БОЖИДАР 1998 """" ЕООД",202110052,bg,2012-06-15,Single Limited Liability Company (Еднолично Дружество с ограничена отговорност),,False,,,,,,Bulgaria,2012.0
+""""" БОРЕКС БИЛД"""" ЕООД",175432402,bg,,Single Limited Liability Company (Еднолично Дружество с ограничена отговорност),,False,"гр. Елин Пелин, пл. Николай Чудотворец, No. 2, ет. 3, ап. офис 7",област: София,община: Елин Пелин,2100,БЪЛГАРИЯ,Bulgaria,
+""""" БРИГАДА ГРУП """" ООД",201991100,bg,2012-03-29,Limited Liability Company (Дружество с ограничена отговорност),,False,"гр. София, район. р-н Оборище, Триадица, No. 55, ет. офис 411",област: София (столица),община: Столична,1000,БЪЛГАРИЯ,Bulgaria,2012.0
+""""" БРК - КОСМЕТИКС """" ООД",131256543,bg,,Limited Liability Company (Дружество с ограничена отговорност),,False,"гр. София, район. р-н Средец, "" Славянска "", No. 42, ет. 4, ап. 4",област: София (столица),община: Столична,1000,БЪЛГАРИЯ,Bulgaria,
+""""" БУКВИЦА"" ЕООД"" ЕООД",201734942,bg,2011-10-06,Single Limited Liability Company (Еднолично Дружество с ограничена отговорност),,False,"гр. София, Самоков, No. 1, ап. 48",област: София (столица),община: Столична,1113,БЪЛГАРИЯ,Bulgaria,2011.0
+""""" БЯЛА ВИСТА РИЗОРТ 8 """" ЕООД",203076197,bg,2014-05-27,Single Limited Liability Company (Еднолично Дружество с ограничена отговорност),,False,,,,,,Bulgaria,2014.0
+""""" ВЕЛАМАКРИ """" ООД",200336711,bg,2008-08-28,Limited Liability Company (Дружество с ограничена отговорност),,False,,,,,,Bulgaria,2008.0
+""""" ВЕРИТА М """" ЕООД",201188542,bg,2010-06-24,Single Limited Liability Company (Еднолично Дружество с ограничена отговорност),,False,,,,,,Bulgaria,2010.0
+""""" ВИНОС ДЖЕНЕРАЛ КОНТРАКТИНГ"""" ООД",202206200,bg,2012-08-28,Limited Liability Company (Дружество с ограничена отговорност),,False,"гр. София, ж.к. ""Връбница-2"", блок. 632, вх. Е, ап. 4",област: София (столица),община: Столична,1231,БЪЛГАРИЯ,Bulgaria,2012.0
+""""" ВОСТОК """" ЕООД",101637143,bg,,Single Limited Liability Company (Еднолично Дружество с ограничена отговорност),,False,,,,,,Bulgaria,
+""""" ВЮ-РА """" ЕООД",204739528,bg,2017-08-28,Single Limited Liability Company (Еднолично Дружество с ограничена отговорност),,False,,,,,,Bulgaria,2017.0
+""""" ГАГО 98 """" ЕООД",201956067,bg,2012-03-12,Single Limited Liability Company (Еднолично Дружество с ограничена отговорност),,False,"с. Крумово, ул.""Пею Яворов"", No. 15",област: Пловдив,община: Родопи,4112,БЪЛГАРИЯ,Bulgaria,2012.0
+""""" ГЕКА ""ООД"" ООД",101772917,bg,,Limited Liability Company (Дружество с ограничена отговорност),,False,,,,,,Bulgaria,
+""""" ГЕО И МИЛ-ГЕОРГИЕВ И СИЕ """" СД",123100402,bg,,General Partnership (Събирателно дружество),,False,"гр. Стара Загора, Сливница, No. 2",област: Стара Загора,община: Стара Загора,6000,БЪЛГАРИЯ,Bulgaria,
+""""" ГЕОИНЖЕНЕРИНГ """" ЕООД",101056138,bg,,Single Limited Liability Company (Еднолично Дружество с ограничена отговорност),,False,,,,,,Bulgaria,
+""""" ГЕОРГИ ДИШЛЯНОВ """" ЕООД",201995757,bg,2012-03-30,Single Limited Liability Company (Еднолично Дружество с ограничена отговорност),,False,,,,,,Bulgaria,2012.0
+""""" ГЕОРГИОС РАСИМОГЛУ """" ЕООД",201065743,bg,2010-02-26,Single Limited Liability Company (Еднолично Дружество с ограничена отговорност),,False,,,,,,Bulgaria,2010.0
+""""" ГЛОБЪЛ СОРС """" ООД",202216116,bg,2012-09-04,Limited Liability Company (Дружество с ограничена отговорност),,False,,,,,,Bulgaria,2012.0
+""""" ГРАЙФЕР ШПЕД """" ЕООД",201886409,bg,2012-01-30,Single Limited Liability Company (Еднолично Дружество с ограничена отговорност),,False,,,,,,Bulgaria,2012.0
+""""" ГРУП СКМ """" ЕООД",175198134,bg,,Single Limited Liability Company (Еднолично Дружество с ограничена отговорност),,False,"гр. София, район. р-н Красно село, ж.к. Бели  Брези, блок. 5, ап. 20",област: София (столица),община: Столична,1680,БЪЛГАРИЯ,Bulgaria,
+""""" Гри Жас Клима """" ЕООД",202077702,bg,2012-05-21,Single Limited Liability Company (Еднолично Дружество с ограничена отговорност),,False,"гр. Асеновград, ул. "" Мулдавска "", No. 5, ет. 3",област: Пловдив,община: Асеновград,4230,БЪЛГАРИЯ,Bulgaria,2012.0
+""""" Д Б ТРАНС-2012"""" ООД",202021550,bg,2012-04-18,Limited Liability Company (Дружество с ограничена отговорност),,False,,,,,,Bulgaria,2012.0
+""""" Д-р Силвия Атанасова Славова - Амбулатория за индивидуална практика за първична медицинска помощ """" ЕООД",201920904,bg,2012-02-17,Single Limited Liability Company (Еднолично Дружество с ограничена отговорност),,False,"гр. Пловдив, район. р-н Южен, ул.""Бугариево "", No. 19, ет. 3, ап. 44",област: Пловдив,община: Пловдив,4004,БЪЛГАРИЯ,Bulgaria,2012.0
+""""" ДАЛЕРИНА """" ЕООД",202202209,bg,2012-08-24,Single Limited Liability Company (Еднолично Дружество с ограничена отговорност),,False,"гр. Хасково, ”Гургулят”, No. 4, вх. В, ет. 6, ап. 72",област: Хасково,община: Хасково,6300,БЪЛГАРИЯ,Bulgaria,2012.0
+""""" ДАМ- ДАВ """" ЕООД",204195539,bg,2016-08-05,Single Limited Liability Company (Еднолично Дружество с ограничена отговорност),,False,,,,,,Bulgaria,2016.0
+""""" ДАНДО """" ЕООД",201753661,bg,2011-10-21,Single Limited Liability Company (Еднолично Дружество с ограничена отговорност),,False,,,,,,Bulgaria,2011.0
+""""" ДЕМИ - АН - ТРАНС """" ЕООД",202051294,bg,2012-05-04,Single Limited Liability Company (Еднолично Дружество с ограничена отговорност),,False,,,,,,Bulgaria,2012.0
+""" Štorije """,02921154,hr,,,,,Ruđera Boškovića 25,,Punat,51521,Croatia,Croatia,
+""" ŽELJA UMA """,02920433,hr,,,,,Mate Lovraka 40,,Velika,10410,Croatia,Croatia,
+"""Antenor""",04405056,hr,,,,,Žrnovo 234,,Žrnovo,20275,Croatia,Croatia,
+"""BASKET-GRADAC""",02730090,hr,,,,,Viskićeva 1,,Gradac,21330,Croatia,Croatia,
+"""BIBI"" D.O.O. U LIKVIDACIJI",03666280,hr,,,,,F. Beulovića 15,,Rijeka-dio,51000,Croatia,Croatia,
+"""BONKULOVIĆI"" - KORČULA",01543466,hr,,,,,Korčula,,Korčula,20260,Croatia,Croatia,
+"""BRESKORKA""",04397690,hr,,,,,Bana Josipa Jelačića 26,,Tovarnik,32249,Croatia,Croatia,
+"""BVC""",04395085,hr,,,,,Karlovačka cesta 195 b,,Zagreb,10000,Croatia,Croatia,
+"""DALONG""",03590399,hr,,,,,REMETE 28 a,,Zagreb,10000,Croatia,Croatia,
+"""DECOM""",03642488,hr,,,,,REMETINEČKA 106,,Zagreb,10000,Croatia,Croatia,
+"""DOMING""",03606589,hr,,,,,BRAĆE CVIJIĆA 32,,Zagreb,10000,Croatia,Croatia,
+"""DOSTOJAN ŽIVOT"" UDRUGA ZA ZAŠTITU LJUDSKIH PRAVA",04387040,hr,,,,,Roberta Frangeša Mihanovića 3,,Zagreb,10000,Croatia,Croatia,
+"""DRAGO""",03656055,hr,,,,,ILICA 228,,Zagreb,10000,Croatia,Croatia,
+"""Dobri duh""- terapijsko, rekreacijsko i sportsko jahanje za osobe s posebnim potrebama",02839814,hr,,,,,Stjepana Radića 121,,Majerje,42206,Croatia,Croatia,
+"""DraCon""- Dubrovačka cosplay organizacija",04350626,hr,,,,,A.G. Matoša 18,,Dubrovnik,20000,Croatia,Croatia,
+"""EKO FURKA""",04409833,hr,,,,,Ulica braće Domany 4,,Zagreb,10000,Croatia,Croatia,
+"""EM-BEDER"" D.O.O. ŽEPČE",02169711,hr,,,,,Veruda  35,,Pula,52100,Croatia,Croatia,
+"""EURO LISICA"" d.o.o.",01114034,hr,,,,,Komarska 20,,Petrijanec,42206,Croatia,Croatia,
+"""Ekipa""",04427076,hr,,,,,Doverska 22,,Split,21000,Croatia,Croatia,
+"""FEREX"" d.o.o. u likvidaciji",03681556,hr,,,,,Naselje Brist 60,,Pula,52100,Croatia,Croatia,
+"""GU"" BELJEVINA",02956845,hr,,,,,Ljudevita Gaja 50,,Beljevina,31511,Croatia,Croatia,
+"""HALILOVIĆ""",03571670,hr,,,,,PARTIZANSKI PUT 42,,Sesvete,10360,Croatia,Croatia,
+"""HOPE"" H.P.Ž.",04414012,hr,,,,,Flanatička 11,,Pula,52100,Croatia,Croatia,
+"""HRVATSKI FENIKS"" SPLIT",01977822,hr,,,,,Vrgoračka 31,,Split,21000,Croatia,Croatia,
+"""HVIDR-a"" Požeško-slavonske županije",01184873,hr,,,,,Matije Gupca 6,,Požega,34000,Croatia,Croatia,
+"""ICO-KOMERC"" D.O.O. U LIKVIDACIJI",03565467,hr,,,,,MIKULJA  21,,Novi,51250,Croatia,Croatia,
+"""INSTITUT ZA INDUSTRIJSKI RAZVOJ""",04401468,hr,,,,,Horvaćanska cesta 174,,Zagreb,10000,Croatia,Croatia,
+"""IRENET""",04411706,hr,,,,,Hrvatskih iseljenika 1,,Zagreb,10000,Croatia,Croatia,
+"""KAŠTELINA"" KAŠIĆ",04442482,hr,,,,,Kašić 43,,Kašić,22213,Croatia,Croatia,
+"""KOPRIVICE SENJ""",02956888,hr,,,,,Juriše Orlovića 1,,Senj,53270,Croatia,Croatia,
+"""KRASNICA"" BAKARAC",04339720,hr,,,,,Bakarac 32,,Bakarac,51261,Croatia,Croatia,
+"""KRISTOV STOL"" MISIJSKA EUROPSKA INICIJATIVA",02647478,hr,,,,,Savski Gaj III 8 /A,,Zagreb,10000,Croatia,Croatia,
+"""KRTEK""",04411820,hr,,,,,Stjepana Draganića 3,,Zagreb,10000,Croatia,Croatia,
+"""KUĆA SUNCA""",04416848,hr,,,,,Blaguška 93,,Kašina,10362,Croatia,Croatia,
+"""LAMPICA""",01859013,hr,,,,,Miroslava Krleže 26,,Split,21000,Croatia,Croatia,
+"""M T A""",03664953,hr,,,,,PRVE PROLETERSKE 46,,Trilj,21240,Croatia,Croatia,
+"""MALONOGOMETNI KLUB VODNJAN""",04382625,hr,,,,,Forno Grande 11,,Vodnjan,52215,Croatia,Croatia,
+"""MARICOOP"" d.o.o. u likvidaciji",03699684,hr,,,,,A.BENUSSIJA   4,,Rijeka-dio,51000,Croatia,Croatia,
+"""MEDICINSKA KONOPLJA,""",04413750,hr,,,,,Lojenov prilaz 2,,Zagreb,10000,Croatia,Croatia,
+"""MLADI OPĆINE BRDOVEC""",04451236,hr,,,,,Matije Gupca 32,,Brdovec,10291,Croatia,Croatia,
+"""NENO"" D.O.O. U LIKVIDACIJI",03685497,hr,,,,,Puntižela 84,,Pula,52100,Croatia,Croatia,
+"""NOW EAST"" d.o.o. u likvidaciji",03690113,hr,,,,,Ližnjan 329,,Ližnjan,52203,Croatia,Croatia,
+"""PAG-STARE UŽANCE""",04406818,hr,,,,,Metajna 116 A,,Metajna,53296,Croatia,Croatia,
+"""PISCI TEATAR FILM""",04410238,hr,,,,,Pavla Hatza 11,,Zagreb,10000,Croatia,Croatia,
+"""POKRETOM DO CILJA""",04413598,hr,,,,,Horvaćanska 162,,Zagreb,10000,Croatia,Croatia,
+"""Patriot""",04433602,hr,,,,,Stjepana Radića 2 b,,Dervišaga,34000,Croatia,Croatia,
+"""RITAM ŽIVOTA"" SISAK",04442245,hr,,,,,Ante Starčevića 1 A,,Sisak,44000,Croatia,Croatia,
+"""SINJSKA ALKA""",04436016,hr,,,,,Dragašev prolaz 24,,Sinj,21230,Croatia,Croatia,
+"""SPORTART""",01920162,hr,,,,,Mate Balote 63,,Rijeka-dio,51000,Croatia,Croatia,
+"""Sveti Vid""",04454073,hr,,,,,Vodovađa  bb,,Vodovađa,20216,Croatia,Croatia,
+""" L.I.T.A.T."" HOLDING CO LIMITED",HE159256,cy,2005-04-04,Limited Company,,False,"Μάξιμου Μιχαηλίδη, 6,
+MAXIMOS PLAZA, TOWER 3, Floor 1, Flat/Office 101
+3106, Λεμεσός, Κύπρος",,,,Cyprus,Cyprus,2005.0
+""" OH YES"" SNACKS LIMITED",HE123357,cy,2001-08-28,Limited Company,,False,"Μακεδονίας, 39,
+Αγ. Ιωάννης
+3070, Λεμεσός, Κύπρος",,,,Cyprus,Cyprus,2001.0
+""" SURE IN "" INSURANCE AGENTS AND CONSULTANTS LTD",HE107848,cy,1999-12-31,Limited Company,,False,"Ικονίου, 12Α,
+Floor 1, Flat/Office 101
+Στρόβολος
+2029, Λευκωσία, Κύπρος",,,,Cyprus,Cyprus,1999.0
+""" THEODORA"" SERVICES LIMITED",HE236961,cy,2008-08-28,Limited Company,,True,"Νεφέλης, 3,
+Στρόβολος
+2058, Λευκωσία, Κύπρος",,,,Cyprus,Cyprus,2008.0
+""" TOP TABLE "" RESTAURANTS LIMITED",HE114784,cy,2000-09-26,Limited Company,,True,"Κέννετυ, 12-14,
+KENNEDY BUSINESS CENTRE, Floor 6, Flat/Office 601
+1087, Λευκωσία, Κύπρος",,,,Cyprus,Cyprus,2000.0
+""" ΧΑΡΤΟΒΑΣΙΛΕΙΟ "" ΛΙΜΙΤΕΔ",HE132897,cy,2002-09-12,Limited Company,,True,"Μαρίας Συγκλητικής, 24,
+8010, Πάφος, Κύπρος",,,,Cyprus,Cyprus,2002.0
+"""A & K PAPADOPOULLOS LEATHER AND SHOE SUPPLIERS LIMITED""",HE16685,cy,1981-12-21,Limited Company,,True,"Σούτσου, 2,
+Λευκωσία, Κύπρος",,,,Cyprus,Cyprus,1981.0
+"""A"" SPINE INVESTMENTS LIMITED",HE279810,cy,2010-12-31,Limited Company,,False,"Μυκηνών, 10,
+Floor 4, Flat/Office 41
+1065, Λευκωσία, Κύπρος",,,,Cyprus,Cyprus,2010.0
+"""A. & A. HOTELS LIMITED""",HE18207,cy,1982-09-17,Limited Company,,True,"PAPHOS BEACH HOTEL,
+Πάφος, Κύπρος",,,,Cyprus,Cyprus,1982.0
+"""A. & J.C. LIMITED""",HE10163,cy,1977-11-03,Limited Company,,True,,,,,,Cyprus,1977.0
+"""A. PILAVAKIS AND BROTHERS LIMITED""",HE14829,cy,1980-11-10,Limited Company,,True,"Αθαλάσσης, 99,
+Στρόβολος
+Λευκωσία, Κύπρος",,,,Cyprus,Cyprus,1980.0
+"""A.E.C. ASSOCIATED EUROPEAN CONSULTANCIES LIMITED""",HE14214,cy,1980-06-12,Limited Company,,True,,,,,,Cyprus,1980.0
+"""A.K."" EDIBLE OIL INDUSTRIES LIMITED",HE4014,cy,1972-01-05,Limited Company,,True,,,,,,Cyprus,1972.0
+"""A.S. AIR CONTROL LIMITED""",HE16383,cy,1981-10-24,Limited Company,,False,"Προπυλαίων, 46,
+Βιομηχανική Περιοχή Στροβόλου, Στρόβολος
+2033, Λευκωσία, Κύπρος",,,,Cyprus,Cyprus,1981.0
+"""A.S. ARTEMIS"" MARITIME COMPANY LIMITED",HE4973,cy,1972-12-30,Limited Company,,True,,,,,,Cyprus,1972.0
+"""A.S.P. BIOLOGIKOS COSMOS"" EMPORIUM LTD",HE227276,cy,2008-04-11,Limited Company,,False,"Τέμπων, 23,
+Floor 2, Flat/Office 201
+'Εγκωμη
+2408, Λευκωσία, Κύπρος",,,,Cyprus,Cyprus,2008.0
+"""AB"" SPINE INVESTMENTS LIMITED",HE311817,cy,2012-09-13,Limited Company,,True,"Μυκηνών, 10,
+Floor 4, Flat/Office 41
+1065, Λευκωσία, Κύπρος",,,,Cyprus,Cyprus,2012.0
+"""ACTIVE LEBANON SECURITIES TRADING LIMITED""",HE19076,cy,1983-02-19,Limited Company,,True,,,,,,Cyprus,1983.0
+"""AD"" SPINE INVESTMENTS LIMITED",HE311789,cy,2012-09-13,Limited Company,,True,"Μυκηνών, 10,
+Floor 4, Flat/Office 41
+1065, Λευκωσία, Κύπρος",,,,Cyprus,Cyprus,2012.0
+"""ADELA ESTATES LIMITED""",HE14221,cy,1980-06-14,Limited Company,,False,"Θεοφάνη Θεοδότου, 18,
+ZENA BUILDING, Floor 1, Flat/Office 109
+1065, Λευκωσία, Κύπρος",,,,Cyprus,Cyprus,1980.0
+"""ADRIANAPOLIS CONSULTING AND CONSTRUCTION CO. LIMITED""",HE14961,cy,1980-12-06,Limited Company,,True,,,,,,Cyprus,1980.0
+"""ADSCORE MARKETING LIMITED""",HE208367,cy,2007-09-19,Limited Company,,False,"Αρχ. Κυπριανού, 56,
+Ξυλοτύμπου
+7510, Λάρνακα, Κύπρος",,,,Cyprus,Cyprus,2007.0
+"""ADVANCE"" MEDICAL SUPPLIES LIMITED",HE28572,cy,1986-12-31,Limited Company,,True,"Ελευθερουπόλεως, 11Α,
+'Εγκωμη
+Λευκωσία, Κύπρος",,,,Cyprus,Cyprus,1986.0
+"""AKMAR COMPANY LIMITED""",HE16702,cy,1981-12-28,Limited Company,,True,,,,,,Cyprus,1981.0
+"""AKYELTHEA"" CONSTRUCTIONS LIMITED",HE59355,cy,1993-12-31,Limited Company,,True,"Γανιμίδη, 3,
+Λάρνακα, Κύπρος",,,,Cyprus,Cyprus,1993.0
+"""AL MANAR RESTAURANT LIMITED""",HE14737,cy,1980-10-21,Limited Company,,True,,,,,,Cyprus,1980.0
+"""AL MUKHTALIF"" FOR PRESS, PUBLICATION AND DISTRIBUTION LIMITED",HE39533,cy,1990-03-28,Limited Company,,True,"Διαγόρου, 29,
+Floor 2, Flat/Office 201
+1097, Λευκωσία, Κύπρος",,,,Cyprus,Cyprus,1990.0
+"""ALEXANDER"" LEASINGS (CYPRUS) LIMITED",HE195550,cy,2007-03-29,Limited Company,,True,"Πανδώρας, 21,
+HADJIMATHEOU-YIANNOURI COURT, Floor 2, Flat/Office 10
+6042, Λάρνακα, Κύπρος",,,,Cyprus,Cyprus,2007.0
+"""ALFA - SCAN SHIPPING CO LIMITED""",HE28936,cy,1987-02-19,Limited Company,,True,,,,,,Cyprus,1987.0
+"""ALFA"" ADVERTISING AGENCY LIMITED",HE50630,cy,1992-08-17,Limited Company,,True,"Μιχ. Γιωργαλλά, 7,
+RIVER COURT, Floor 3, Flat/Office 14
+1095, Λευκωσία, Κύπρος",,,,Cyprus,Cyprus,1992.0
+"""ALKANA"" PROPERTIES LIMITED",HE48548,cy,1992-04-10,Limited Company,,True,,,,,,Cyprus,1992.0
+"""ALPINE HOUSE"" DEVELOPERS LIMITED",HE18736,cy,1982-12-18,Limited Company,,False,"Αρχιεπισκόπου Κυπριανού, 37,
+Flat/Office 5
+Στρόβολος
+2059, Λευκωσία, Κύπρος",,,,Cyprus,Cyprus,1982.0
+"""ALSOS"" ATHLETIC ΤALENT SCOUTS LIMITED",HE111970,cy,2000-06-05,Limited Company,,True,"Σπύρου Αραούζου, 163,
+LORDOS WATERFRONT, Floor 2, Flat/Office 201
+3036, Λεμεσός, Κύπρος",,,,Cyprus,Cyprus,2000.0
+"""ALUSWISSE ALUMINIUM LIMITED""",HE14329,cy,1980-07-05,Limited Company,,True,"Παγκρατίου, 2,
+Νεά Βιομηχανική Περιοχή Στροβόλου
+Λευκωσία, Κύπρος",,,,Cyprus,Cyprus,1980.0
+"""AMER HOLDINGS LIMITED""",HE18135,cy,1982-08-31,Limited Company,,False,"Βασίλειου Βουλγαροκτόνου, 8,
+ZAVALLI PRESS, Floor 3,
+1010, Λευκωσία, Κύπρος",,,,Cyprus,Cyprus,1982.0
+"""AMOROSA"" WINE AND SPIRITS LIMITED",HE2677,cy,1969-07-29,Limited Company,,True,,,,,,Cyprus,1969.0
+"""AN-CLAIR"" - DEVELOPERS LIMITED",HE55692,cy,1993-06-02,Limited Company,,False,"Ν. Νικολαϊδη & Πίνδου,
+Πάφος, Κύπρος",,,,Cyprus,Cyprus,1993.0
+"""AN-FI-PA"" LIMITED",HE59179,cy,1993-12-27,Limited Company,,False,"Νεοφύτου Γεωργίου, 1-2,
+DIAMANTO COURT,
+8062, Πάφος, Κύπρος",,,,Cyprus,Cyprus,1993.0
+"""ANASTASIA"" MEDICAL CENTER LIMITED",HE132564,cy,2002-08-27,Limited Company,,True,"Αδώνιδος, 36,
+8010, Πάφος, Κύπρος",,,,Cyprus,Cyprus,2002.0
+"""ANCHOR"" GENERAL SURVEYING & ASSESSING BUREAU LIMITED",HE2512,cy,1969-05-20,Limited Company,,True,,,,,,Cyprus,1969.0
+"""ANDAMA"" HOUSING COMPANY LIMITED",HE6334,cy,1974-01-29,Limited Company,,True,,,,,,Cyprus,1974.0
+"""ANDREAS & ZOE THEOCHARIDE "" HOLDINGS LIMITED",HE255377,cy,2009-09-28,Limited Company,,True,"Ιωάννη Στυλιανού, 6,
+Floor 2, Flat/Office 202
+2003, Λευκωσία, Κύπρος",,,,Cyprus,Cyprus,2009.0
+"""ANDREAS & ZOE"" HOLDINGS LIMITED",HE257121,cy,2009-11-02,Limited Company,,True,"Ιωάννη Στυλιανού, 6,
+Floor 2, Flat/Office 202
+2003, Λευκωσία, Κύπρος",,,,Cyprus,Cyprus,2009.0
+"""ANDREAS SOPHOCLIDES & CO. LIMITED""",HE15077,cy,1980-12-31,Limited Company,,False,"Ζήνας Ντε Τύρας, 12Α-Β,
+Λευκωσία, Κύπρος",,,,Cyprus,Cyprus,1980.0
+"""ANDREAS TSIGARIDES"" SUCCESORS HOLDINGS LIMITED",HE156135,cy,2004-12-31,Limited Company,,False,"Χρ. Εργατούδη, 39,
+Λεμεσός, Κύπρος",,,,Cyprus,Cyprus,2004.0
+"""ANDREAS Κ. CHRISTODOULOU & CO ENTERPRISES LTD""",HE279968,cy,2011-01-12,Limited Company,,True,"Ευαγόρα Παλληκαρίδη, 45,
+8010, Πάφος, Κύπρος",,,,Cyprus,Cyprus,2011.0
+"""ANEMAYIA"" CARS, MOTORBIKES & BICYCLES RENTALS LIMITED",HE151186,cy,2004-08-11,Limited Company,,False,"Μακαρίου,
+JGL FLATS & SHOPS, Flat/Office 3
+Πύλα
+7081, Λάρνακα, Κύπρος",,,,Cyprus,Cyprus,2004.0
+"""ANGEL"" TOWER DISPENSERS COMPANY",S3463,cy,1967-08-25,Partnership,,False,"Ζακύνθου, 11,
+Λεμεσός, Κύπρος",,,,Cyprus,Cyprus,1967.0
+"""ANOTHER PLANET"" ENTERPRISES LIMITED",HE129874,cy,2002-05-08,Limited Company,,False,"Αρχ. Μακαρίου ΙΙΙ, 14,
+MITSI BUILDING 2, Floor 2, Flat/Office 2
+1065, Λευκωσία, Κύπρος",,,,Cyprus,Cyprus,2002.0
+"""ANTHOKIPOURIKI (CYPRUS) LIMITED""",HE8886,cy,1977-01-28,Limited Company,,True,,,,,,Cyprus,1977.0
+1AIKIDOS na podporu práv občanů v ekonomické a sociální oblastio.s.,22815490,cz,2010-02-23,Spolek,,False,"[{:Adresa=>{:dod=>nil, :ID_adresy=>"""", :Kod_statu=>"""", :Nazev_statu=>"""", :Nazev_obce=>"""", :Nazev_ulice=>"""", :Cislo_do_adresy=>""""}}]",,,,Czech Republic,Czech Republic,2010.0
+SOPEX - Sdružení Občanů Poškozených Exekucemi o.s.,22862340,cz,2010-07-13,Spolek,,False,"[{:Adresa=>{:dod=>nil, :ID_adresy=>"""", :Kod_statu=>"""", :Nazev_statu=>"""", :Nazev_obce=>"""", :Nazev_ulice=>"""", :Cislo_do_adresy=>""""}}]",,,,Czech Republic,Czech Republic,2010.0
+"VAMOS, o.s.",22672478,cz,2007-10-10,Spolek,,False,"[{:Adresa=>{:dod=>nil, :ID_adresy=>"""", :Kod_statu=>"""", :Nazev_statu=>"""", :Nazev_obce=>"""", :Nazev_ulice=>"""", :Cislo_do_adresy=>""""}}]",,,,Czech Republic,Czech Republic,2007.0
+""" 111 "" spol.s.r.o.",61456977,cz,1994-06-09,Společnost s ručením omezeným,,False,,,,,,Czech Republic,1994.0
+""" 2 K """,16311981,cz,1991-04-11,Podnikající fyzická osoba,,True,"[{:Adresa=>{:dod=>nil, :ID_adresy=>"""", :Kod_statu=>"""", :Nazev_statu=>"""", :Nazev_obce=>"""", :Nazev_ulice=>"""", :Cislo_do_adresy=>""""}}]",,,,Czech Republic,Czech Republic,1991.0
+""" 2 K HOLZ, spol. s r.o. "" - v likvidaci",45356181,cz,1992-04-01,Společnost s ručením omezeným,,True,,,,,,Czech Republic,1992.0
+""" 2J "",spol. s r.o.",16949862,cz,1991-11-21,Společnost s ručením omezeným,,True,"[{:Adresa=>{:dod=>nil, :ID_adresy=>"""", :Kod_statu=>"""", :Nazev_statu=>"""", :Nazev_obce=>"""", :Nazev_ulice=>"""", :Cislo_do_adresy=>""""}}]",,,,Czech Republic,Czech Republic,1991.0
+""" 3 AAA - spol. s r.o. "" v likvidaci",49825135,cz,1994-11-10,Společnost s ručením omezeným,,False,,,,,,Czech Republic,1994.0
+""" 3 RM "" spol. s r.o.",63667606,cz,1995-05-18,Společnost s ručením omezeným,,False,"[{:Adresa=>{:dod=>nil, :ID_adresy=>"""", :Kod_statu=>"""", :Nazev_statu=>"""", :Nazev_obce=>"""", :Nazev_ulice=>"""", :Cislo_do_adresy=>""""}}]",,,,Czech Republic,Czech Republic,1995.0
+""" 42 "", s.r.o.",61060062,cz,1996-01-30,Společnost s ručením omezeným,,False,"[{:Adresa=>{:dod=>nil, :ID_adresy=>"""", :Kod_statu=>"""", :Nazev_statu=>"""", :Nazev_obce=>"""", :Nazev_ulice=>"""", :Cislo_do_adresy=>""""}}]",,,,Czech Republic,Czech Republic,1996.0
+""" 99 """,15679861,cz,1991-05-07,Podnikající fyzická osoba,,True,"[{:Adresa=>{:dod=>nil, :ID_adresy=>"""", :Kod_statu=>"""", :Nazev_statu=>"""", :Nazev_obce=>"""", :Nazev_ulice=>"""", :Cislo_do_adresy=>""""}}]",,,,Czech Republic,Czech Republic,1991.0
+""" A - Z ZBIROH, v.o.s.""",45355151,cz,1992-03-30,Veřejná obchodní společnost,,False,,,,,,Czech Republic,1992.0
+""" A B C K A Z E T O Š T U K A "" společnost s ručením omezeným (spol. s r.o.), v likvidaci",49815733,cz,1993-11-04,Společnost s ručením omezeným,,True,,,,,,Czech Republic,1993.0
+""" A B H "" spol. s r. o.",46578692,cz,1992-05-26,Společnost s ručením omezeným,,False,"[{:Adresa=>{:dod=>nil, :ID_adresy=>"""", :Kod_statu=>"""", :Nazev_statu=>"""", :Nazev_obce=>"""", :Nazev_ulice=>"""", :Cislo_do_adresy=>""""}}]",,,,Czech Republic,Czech Republic,1992.0
+""" A C E , spol. s r.o. """,44566719,cz,1992-03-16,Společnost s ručením omezeným,,True,"[{:Adresa=>{:dod=>nil, :ID_adresy=>"""", :Kod_statu=>"""", :Nazev_statu=>"""", :Nazev_obce=>"""", :Nazev_ulice=>"""", :Cislo_do_adresy=>""""}}]",,,,Czech Republic,Czech Republic,1992.0
+""" A L L E G R O "" s.r.o.",48951862,cz,1994-06-24,Společnost s ručením omezeným,,False,"[{:Adresa=>{:dod=>nil, :ID_adresy=>"""", :Kod_statu=>"""", :Nazev_statu=>"""", :Nazev_obce=>"""", :Nazev_ulice=>"""", :Cislo_do_adresy=>""""}}]",,,,Czech Republic,Czech Republic,1994.0
+""" A L P s.r.o. """,62411250,cz,1994-12-23,Společnost s ručením omezeným,,False,"[{:Adresa=>{:dod=>nil, :ID_adresy=>"""", :Kod_statu=>"""", :Nazev_statu=>"""", :Nazev_obce=>"""", :Nazev_ulice=>"""", :Cislo_do_adresy=>""""}}]",,,,Czech Republic,Czech Republic,1994.0
+""" A M P E K , společnost s ručením omezeným"" (spol. s r. o.) ""v likvidaci""",42866634,cz,1991-11-22,Společnost s ručením omezeným,,True,,,,,,Czech Republic,1991.0
+""" A N R O "" spol. s r.o. v likvidaci",64945995,cz,1996-01-24,Společnost s ručením omezeným,,False,,,,,,Czech Republic,1996.0
+""" A N T I K V A R E I N A R T "" veřejná obchodní společnost",00525243,cz,1990-07-13,Veřejná obchodní společnost,,False,,,,,,Czech Republic,1990.0
+""" A Q U A Komořany s.r.o. """,64653331,cz,1996-03-04,Společnost s ručením omezeným,,True,"[{:Adresa=>{:dod=>nil, :ID_adresy=>"""", :Kod_statu=>"""", :Nazev_statu=>"""", :Nazev_obce=>"""", :Nazev_ulice=>"""", :Cislo_do_adresy=>""""}}]",,,,Czech Republic,Czech Republic,1996.0
+""" A Q U A P O L spol. s r.o. """,47283581,cz,1992-08-06,Společnost s ručením omezeným,,False,"[{:Adresa=>{:dod=>nil, :ID_adresy=>"""", :Kod_statu=>"""", :Nazev_statu=>"""", :Nazev_obce=>"""", :Nazev_ulice=>"""", :Cislo_do_adresy=>""""}}]",,,,Czech Republic,Czech Republic,1992.0
+""" A R A "" spol. s r.o. - v likvidaci",46976833,cz,1992-10-12,Společnost s ručením omezeným,,True,,,,,,Czech Republic,1992.0
+""" A R C H I T E K T A """,11469650,cz,1991-11-18,Podnikající fyzická osoba,,True,"[{:Adresa=>{:dod=>nil, :ID_adresy=>"""", :Kod_statu=>"""", :Nazev_statu=>"""", :Nazev_obce=>"""", :Nazev_ulice=>"""", :Cislo_do_adresy=>""""}}]",,,,Czech Republic,Czech Republic,1991.0
+""" A R E T """,40246591,cz,1991-07-03,Podnikající fyzická osoba,,True,"[{:Adresa=>{:dod=>nil, :ID_adresy=>"""", :Kod_statu=>"""", :Nazev_statu=>"""", :Nazev_obce=>"""", :Nazev_ulice=>"""", :Cislo_do_adresy=>""""}}]",,,,Czech Republic,Czech Republic,1991.0
+""" A R M E X """,13337785,cz,1991-04-29,Podnikající fyzická osoba,,True,"[{:Adresa=>{:dod=>nil, :ID_adresy=>"""", :Kod_statu=>"""", :Nazev_statu=>"""", :Nazev_obce=>"""", :Nazev_ulice=>"""", :Cislo_do_adresy=>""""}}]",,,,Czech Republic,Czech Republic,1991.0
+""" A S T R A "" výroba prádla a oděvů, společnost s ručením omezeným",45537534,cz,1992-03-17,Společnost s ručením omezeným,,True,"[{:Adresa=>{:dod=>nil, :ID_adresy=>"""", :Kod_statu=>"""", :Nazev_statu=>"""", :Nazev_obce=>"""", :Nazev_ulice=>"""", :Cislo_do_adresy=>""""}}]",,,,Czech Republic,Czech Republic,1992.0
+""" A T E M II. Litvínov s.r.o. "" v likvidaci",62243209,cz,1994-12-22,Společnost s ručením omezeným,,False,,,,,,Czech Republic,1994.0
+""" A T R I X Opava "" , spol. s r. o.",48400998,cz,1993-05-03,Společnost s ručením omezeným,,True,"[{:Adresa=>{:dod=>nil, :ID_adresy=>"""", :Kod_statu=>"""", :Nazev_statu=>"""", :Nazev_obce=>"""", :Nazev_ulice=>"""", :Cislo_do_adresy=>""""}}]",,,,Czech Republic,Czech Republic,1993.0
+""" A V A N S "" , družstvo pro obchod a služby v likvidaci",00535834,cz,1990-07-26,Družstvo,,True,,,,,,Czech Republic,1990.0
+""" A uction House "", s.r.o.",25358359,cz,1996-10-01,Společnost s ručením omezeným,,False,,,,,,Czech Republic,1996.0
+""" A. Burger """,12554171,cz,1990-12-27,Podnikající fyzická osoba,,False,,,,,,Czech Republic,1990.0
+""" ABC MEDICA, spol. s r. o. "" - v likvidaci",41033582,cz,1991-09-12,Společnost s ručením omezeným,,True,,,,,,Czech Republic,1991.0
+""" ADAM """,13496867,cz,1991-01-21,Podnikající fyzická osoba,,True,,,,,,Czech Republic,1991.0
+""" ADB reality s.r.o. "", v likvidaci",48293024,cz,1993-07-12,Společnost s ručením omezeným,,True,,,,,,Czech Republic,1993.0
+""" ADENA, spol. s r.o """,45791767,cz,1992-10-23,Společnost s ručením omezeným,,True,"[{:Adresa=>{:dod=>nil, :ID_adresy=>"""", :Kod_statu=>"""", :Nazev_statu=>"""", :Nazev_obce=>"""", :Nazev_ulice=>"""", :Cislo_do_adresy=>""""}}]",,,,Czech Republic,Czech Republic,1992.0
+""" ADM - TRADING SERVIS s r.o. "", v likvidaci",49619489,cz,1993-11-05,Společnost s ručením omezeným,,True,,,,,,Czech Republic,1993.0
+""" AG spol. s r.o. """,18383441,cz,1991-05-15,Společnost s ručením omezeným,,True,"[{:Adresa=>{:dod=>nil, :ID_adresy=>"""", :Kod_statu=>"""", :Nazev_statu=>"""", :Nazev_obce=>"""", :Nazev_ulice=>"""", :Cislo_do_adresy=>""""}}]",,,,Czech Republic,Czech Republic,1991.0
+""" AGRONA-Z, spol. s r.o. "" v likvidaci",63320916,cz,1995-07-18,Společnost s ručením omezeným,,False,,,,,,Czech Republic,1995.0
+""" AKZ - Veřejná obchodní společnost """,14705419,cz,1991-03-08,Společnost s ručením omezeným,,True,"[{:Adresa=>{:dod=>nil, :ID_adresy=>"""", :Kod_statu=>"""", :Nazev_statu=>"""", :Nazev_obce=>"""", :Nazev_ulice=>"""", :Cislo_do_adresy=>""""}}]",,,,Czech Republic,Czech Republic,1991.0
+""" AKÁT,veřejná obchodní společnost "" v likvidaci",41034538,cz,1991-07-18,Veřejná obchodní společnost,,False,,,,,,Czech Republic,1991.0
+""" ALFA GAME, společnost s ručením omezeným "", v likvidaci",48268640,cz,1993-03-31,Společnost s ručením omezeným,,True,,,,,,Czech Republic,1993.0
+""" ALLMOST spol. s r.o. """,60280506,cz,1994-03-28,Společnost s ručením omezeným,,False,"[{:Adresa=>{:dod=>nil, :ID_adresy=>"""", :Kod_statu=>"""", :Nazev_statu=>"""", :Nazev_obce=>"""", :Nazev_ulice=>"""", :Cislo_do_adresy=>""""}}]",,,,Czech Republic,Czech Republic,1994.0
+""" AMETIST """,10424334,cz,1990-09-27,Podnikající fyzická osoba,,True,"[{:Adresa=>{:dod=>nil, :ID_adresy=>"""", :Kod_statu=>"""", :Nazev_statu=>"""", :Nazev_obce=>"""", :Nazev_ulice=>"""", :Cislo_do_adresy=>""""}}]",,,,Czech Republic,Czech Republic,1990.0
+""" ANNA "" v. o. s. v likvidaci",00557005,cz,1990-10-22,Veřejná obchodní společnost,,False,,,,,,Czech Republic,1990.0
+""" ANTANA "" spol. s r.o. """,47283220,cz,1992-08-07,Společnost s ručením omezeným,,False,,,,,,Czech Republic,1992.0
+""" APATYKA SPOL. s r.o. """,64085201,cz,1995-07-18,Společnost s ručením omezeným,,False,"[{:Adresa=>{:dod=>nil, :ID_adresy=>"""", :Kod_statu=>"""", :Nazev_statu=>"""", :Nazev_obce=>"""", :Nazev_ulice=>"""", :Cislo_do_adresy=>""""}}]",,,,Czech Republic,Czech Republic,1995.0
+""" APIS ET HERBA """,12277932,cz,1991-01-25,Podnikající fyzická osoba,,True,"[{:Adresa=>{:dod=>nil, :ID_adresy=>"""", :Kod_statu=>"""", :Nazev_statu=>"""", :Nazev_obce=>"""", :Nazev_ulice=>"""", :Cislo_do_adresy=>""""}}]",,,,Czech Republic,Czech Republic,1991.0
+""" AQUA - PETRÁK """,15893758,cz,1990-12-20,Podnikající fyzická osoba,,True,"[{:Adresa=>{:dod=>nil, :ID_adresy=>"""", :Kod_statu=>"""", :Nazev_statu=>"""", :Nazev_obce=>"""", :Nazev_ulice=>"""", :Cislo_do_adresy=>""""}}]",,,,Czech Republic,Czech Republic,1990.0
+""" AQUATERM - PLUS, s.r.o."" v likvidaci",47539119,cz,1993-03-17,Společnost s ručením omezeným,,True,,,,,,Czech Republic,1993.0
+Act A/S,43854968,dk,2023-02-10,Aktieselskab,,False,Sandtoften 9,Gentofte,,2820,Denmark,Denmark,2023.0
+JUST Capital ApS,45869156,dk,2025-09-04,Anpartsselskab,,False,"c/o Urban Group ApS
+Mosevej 5, 5",Risskov,,8240,Denmark,Denmark,2025.0
+""" Føns strandkiosk""",34991324,dk,2013-05-01,Enkeltmandsvirksomhed,,True,"c/o Fønsskovvej 48,5580 Nørre Aaby
+Føns Strandvej 9",Nørre Aaby,,5580,Denmark,Denmark,2013.0
+""" Hvad hvis det bliver Et Hit Records""",26771099,dk,2002-10-01,Interessentskab,,True,"c/o Emil De Waal
+Sankt Peders Stræde 20, 4",København K,,1453,Denmark,Denmark,2002.0
+""" Jun "" v/ Mia Jun Jacobsen",26137632,dk,2001-08-27,Enkeltmandsvirksomhed,,True,Rantzausgade 42,København N,,2200,Denmark,Denmark,2001.0
+""" KLUBBEN """,32490735,dk,2009-11-05,Frivillig forening,,True,"Østerled 5, kl",Horsens,,8700,Denmark,Denmark,2009.0
+""" LAC FINANS ApS """,11941346,dk,1988-01-22,Anpartsselskab,,True,Rævebakken 6,Jyllinge,,4040,Denmark,Denmark,1988.0
+""" La Brasserie "" v/Mehnet Dogan & Serkan Dogan",26949092,dk,2003-01-01,Interessentskab,,True,Stengade 22,Helsingør,,3000,Denmark,Denmark,2003.0
+""" RS 73 Annika "" v/Kim Lykke Petersen",26141435,dk,2001-08-15,Enkeltmandsvirksomhed,,True,Plantagevej 2,Glesborg,,8585,Denmark,Denmark,2001.0
+""" Sjøk´len """,32710972,dk,2010-02-23,Frivillig forening,,True,"c/o c/o H.J.Andersen
+Nestors Alle 47",Hvidovre,,2650,Denmark,Denmark,2010.0
+""" Thats-Leif "" v.Leif Jacobsen",31239354,dk,2008-01-01,Enkeltmandsvirksomhed,,True,Nyborgvej 19,Ringe,,5750,Denmark,Denmark,2008.0
+""" Top Cut "" v/Birgith Rye Lind",31125944,dk,2007-12-01,Enkeltmandsvirksomhed,,True,"Søndermarken 58, 1",Espergærde,,3060,Denmark,Denmark,2007.0
+""" gå tur venner"" Næstved",30890302,dk,2007-10-02,Frivillig forening,,True,"c/o Lillian Jørgensen
+Skyttemarksvej 77",Næstved,,4700,Denmark,Denmark,2007.0
+""" Øster Hestbæk Vikarservice"" v/ Ryan Nørmark Madsen",35007768,dk,2013-02-01,Enkeltmandsvirksomhed,,True,Bækvej 18,Struer,,7600,Denmark,Denmark,2013.0
+"""...with a twist of lemon""",34500835,dk,2012-06-05,Frivillig forening,,True,"c/o Morten Boutrup
+Grønløkke Allé 42",Tranbjerg J,,8310,Denmark,Denmark,2012.0
+"""0104FS A/S""",14519688,dk,1990-10-01,Aktieselskab,,True,Roskildevej 38,Frederikssund,,3600,Denmark,Denmark,1990.0
+"""300-vejens Rytterlaug""",30940997,dk,2007-11-19,Frivillig forening,,True,"c/o Marianne Mortensen
+Ryttervænget 306",Fredensborg,,3480,Denmark,Denmark,2007.0
+"""3900 NUUK""",37479578,dk,2016-07-01,Enkeltmandsvirksomhed,,True,"c/o Joanne Elena Petersen
+Tuapannguit 11",Nuuk,,3900,Greenland,Denmark,2016.0
+"""4.A.-2009"" Rolighedsskolen",32525628,dk,2009-12-07,Frivillig forening,,True,"c/o Thisted kommune
+Kastanievej 80",Thisted,,7700,Denmark,Denmark,2009.0
+"""42"" four T Two JC v/Per H Sørensen",25890949,dk,2001-01-01,Enkeltmandsvirksomhed,,True,Ny Strandvej 36,Espergærde,,3060,Denmark,Denmark,2001.0
+"""47"" - ""Bills Pub""/ Conni Lykke Barrett",26602610,dk,2002-06-01,Enkeltmandsvirksomhed,,True,Kongensgade 47,Odense C,,5000,Denmark,Denmark,2002.0
+"""77"" v/Flemming Sørensen",27654622,dk,2004-03-01,Enkeltmandsvirksomhed,,True,Holstebrovej 77,Viborg,,8800,Denmark,Denmark,2004.0
+"""7th Street"" No 2 ApS",45764257,dk,2025-07-22,Anpartsselskab,,False,Lergravsvej 59,København S,,2300,Denmark,Denmark,2025.0
+"""A"" ApS",29008876,dk,2005-09-22,Anpartsselskab,,True,"c/o Henrik Loudrup
+Blokhusvej 17",Solrød Strand,,2680,Denmark,Denmark,2005.0
+"""A.P. PLEJEHJEMSSERVICE ApS""",13607591,dk,1989-10-01,Anpartsselskab,,True,Håndværkervej 2,Vestervig,,7770,Denmark,Denmark,1989.0
+"""A/S KEHLET RADIO OG TV LEMVIG""",12759592,dk,1989-01-01,Aktieselskab,,True,Vestergade 4,Lemvig,,7620,Denmark,Denmark,1989.0
+"""A/S NR. 175335 W.N. ØRBÆK""",12519338,dk,1988-10-01,Aktieselskab,,True,Tjørnevej 6,Ørbæk,,5853,Denmark,Denmark,1988.0
+"""ADMINISTRATIONSSELSKABET AF 24.9.2002"" UNDER STIFTELSE",26823625,dk,2002-09-24,Enhed under oprettelse i Erhvervsstyrelsen,,True,"9, 2",,,,Denmark,Denmark,2002.0
+"""AFF-BYG v/Uldis Freibergs""",34849277,dk,2013-02-10,Enkeltmandsvirksomhed,,True,"c/o uldis freibergs
+Kulsviervej 42",Hillerød,,3400,Denmark,Denmark,2013.0
+"""AJA"" v/Dorthe Heilmann",34067503,dk,2012-10-01,Enkeltmandsvirksomhed,,False,Tuapannguit 13,Nuuk,,3900,Greenland,Denmark,2012.0
+"""AKTIESELSKABET AF 23. JANUAR 1969""",10585112,dk,1969-01-23,Aktieselskab,,True,Pilehøj Vænge 8,Birkerød,,3460,Denmark,Denmark,1969.0
+"""AKTIESELSKABET ESP AF 22. NOVEMBER 1989""",34599718,dk,1971-12-28,Aktieselskab,,True,Gammel Køge Landevej 486,Hvidovre,,2650,Denmark,Denmark,1971.0
+"""ALEXANDRA GROUP INTERNATIONAL LTD. ApS""",13927146,dk,1990-01-01,Anpartsselskab,,True,Udbyhøjvej 107,Randers C,,8900,Denmark,Denmark,1990.0
+"""ALLCON ApS""",10278139,dk,1986-05-10,Anpartsselskab,,True,Bechgaardsvej 16,Vejle,,7100,Denmark,Denmark,1986.0
+"""ANDREASSEN LINDEBALLE HOLDING ApS""",20233435,dk,1997-06-16,Anpartsselskab,,True,Baldersvej 1,Gadbjerg,,7321,Denmark,Denmark,1997.0
+"""ANPARTSSELSKABET SØNDAG 16.8.1987",55360219,dk,1976-06-16,Anpartsselskab,,True,Jernbanegade 26,Sønderborg,,6400,Denmark,Denmark,1976.0
+"""ARNOLD THOMSEN A/S"" ESBJERG",47009928,dk,1973-09-28,Aktieselskab,,True,Glentevej 13,Esbjerg Ø,,6705,Denmark,Denmark,1973.0
+"""ARSEDA"" v/Arnas Urnikas",30425553,dk,2007-05-15,Enkeltmandsvirksomhed,,True,"c/o Adamonis
+Gemmet 4, 3",København NV,,2400,Denmark,Denmark,2007.0
+"""Aalisartoq Joorut""",30186095,dk,1973-01-01,Enkeltmandsvirksomhed,,False,"c/o v/ Jørgen Nielsen
+Alanngunnguit 9
+Postboks 60",Ilulissat,,3952,Greenland,Denmark,1973.0
+"""Aalisartoq"" Ole Zeeb",36194898,dk,2015-11-04,Enkeltmandsvirksomhed,,False,Saqqaq ,Ilulissat,,3952,Greenland,Denmark,2015.0
+"""Adam"" v/Adam Skladanek",29704260,dk,2006-08-14,Anden udenlandsk virksomhed,,True,Rungsted Strandvej 313,Hørsholm,,2970,Denmark,Denmark,2006.0
+"""Adbud"" Malerfirmaet v/Adam Kazimierz Adamski",32005756,dk,2009-03-15,Enkeltmandsvirksomhed,,True,Paltholmterrasserne 33,Farum,,3520,Denmark,Denmark,2009.0
+"""Aggartuihoq""",31298490,dk,2012-11-01,Enkeltmandsvirksomhed,,False,"c/o v/ Aaqqiuunnguaq Qaerngâq
+Qaanaaq 
+Postboks 54",Qaanaaq,,3971,Greenland,Denmark,2012.0
+"""Aktuelt i Gl. Rye""",29879508,dk,2006-08-31,Forening,,False,"c/o Søren Berg Glasius
+Hedevej 1",Ry,,8680,Denmark,Denmark,2006.0
+"""Albers"" /Bianca Albers Verup",21191833,dk,1998-10-05,Enkeltmandsvirksomhed,,True,"c/o Bianca Albers
+Aagade 1, 2",Vejle,,7100,Denmark,Denmark,1998.0
+"""Alextomservice"" Firma Tjenester I/S",31380030,dk,2008-03-14,Anden udenlandsk virksomhed,,True,"c/o Scheelsminde A/S
+Rostrupsvej 7",Aalborg,,9000,Denmark,Denmark,2008.0
+"""Alloriarfik""",25026985,dk,2008-02-01,Enkeltmandsvirksomhed,,True,"c/o v/Juliane K. Fleischer
+Tatsip Aqquserna ",Upernavik,,3962,Greenland,Denmark,2008.0
+"""Altid klar"" socialrådgivning.dk",33912625,dk,2011-12-01,Enkeltmandsvirksomhed,,True,"c/o Henriette Pedersen
+Ringvejen 11",Samsø,,8305,Denmark,Denmark,2011.0
+"""Ammerivik""",25747259,dk,2005-07-01,Enkeltmandsvirksomhed,,True,"c/o v/ Karl Petersen
+Ukkusissat 
+Postboks 26",Uummannaq,,3961,Greenland,Denmark,2005.0
+"""Angajoraq""",25743784,dk,2004-05-01,Enkeltmandsvirksomhed,,True,"c/o v/ Kurt Christensen
+Qeeqi 13",Sisimiut,,3911,Greenland,Denmark,2004.0
+ 0iva Aalto Oy,2996949-9,fi,2019-06-10,Osakeyhtiö,,True,Nuijamiestentie 3 B,HELSINKI,,00400,Finland,Finland,2019.0
+ Aarre Avustajat Oy,2969310-3,fi,2019-02-04,Osakeyhtiö,,,Pitkämäenkatu 13,TURKU,,20250,Finland,Finland,2019.0
+ Suomen Avustajapalvelut Oy,2872955-7,fi,2017-12-19,Osakeyhtiö,,,Nuijamiestentie 3 B,HELSINKI,,00400,Finland,Finland,2017.0
+Huippuhoiva Oy,3420598-7,fi,2024-02-05,Osakeyhtiö,,,Raiviosuonmäki 4,VANTAA,,01620,Finland,Finland,2024.0
+noob Analytics Oy,2203774-4,fi,2008-09-02,Osakeyhtiö,,True,,,,,,Finland,2008.0
+noob Digital Helsinki Oy,2203773-6,fi,2008-09-02,Osakeyhtiö,,True,,,,,,Finland,2008.0
+noob Digital Tampere Oy,2377436-7,fi,2011-01-14,Osakeyhtiö,,True,Salmisaarenkatu 1 B,HELSINKI,,00180,Finland,Finland,2011.0
+noob Films Oy,2377429-5,fi,2011-01-14,Osakeyhtiö,,True,Salmisaarenkatu 1 B,HELSINKI,,00180,Finland,Finland,2011.0
+noob Hosting Oy,2377432-4,fi,2011-01-14,Osakeyhtiö,,True,Salmisaarenkatu 1 B,HELSINKI,,00180,Finland,Finland,2011.0
+noob Oy,2056020-8,fi,2006-09-06,Osakeyhtiö,,True,Salmisaarenkatu 1 B,HELSINKI,,00180,Finland,Finland,2006.0
+"""AMAHORO"" Toiminta Ruandan sovinnon puolesta ry",2183668-3,fi,2008-03-14,Aatteellinen yhdistys,,,,,,,,Finland,2008.0
+"""Bailey Dairy Products Polska"" Spolka z ograniczona odpowied...",1943543-4,fi,,Ulkomainen yhteisö,F,,,,,,,Finland,
+"""Bo & Co"" T-Mi Boris Volkov",1374045-4,fi,1998-01-03,Yksityinen elinkeinonharjoittaja,,,,,,,,Finland,1998.0
+"""Danila Master"" matkailu & palvelu",2156592-4,fi,2007-11-14,Yksityinen elinkeinonharjoittaja,,,"Jokostie 1 B 7
+99830 SAARISELKÄ",,,,Finland,Finland,2007.0
+"""ESTLITA"" UAB",2297714-6,fi,,Ulkomainen yhteisö,F,,,,,,,Finland,
+"""Farsons"" Kommandiittiyhtiö Gustav Lackman & Seth Lackman Kommanditbolag",0103760-6,fi,1978-03-15,Kommandiittiyhtiö,,,,,,,,Finland,1978.0
+"""It"" Style",2625680-5,fi,2014-06-06,Yksityinen elinkeinonharjoittaja,,,"Nervanderinkatu 5 D
+00100 HELSINKI",,,,Finland,Finland,2014.0
+"""Jarem"" Sp. zo.o",2456110-1,fi,,Ulkomainen yhteisö,F,,,,,,,Finland,
+"""K"" Line (Finland) Oy",1936087-4,fi,2004-12-23,Osakeyhtiö,,True,Lautatarhankatu 6,HELSINKI,,00580,Finland,Finland,2004.0
+"""KUPPI NURIN""-KERAMIIKKAA",1869908-3,fi,2003-12-17,Yksityinen elinkeinonharjoittaja,,,"Kirkkotie 4, Muistola
+04300 TUUSULA",,,,Finland,Finland,2003.0
+"""Libi"" The Fund For Strengthening Israel'S Defence",1612853-5,fi,2000-08-18,Ulkomainen yhteisö,F,True,,,,,,Finland,2000.0
+"""N"" Vision Oy",2840896-4,fi,2017-09-05,Osakeyhtiö,,,Aapelinkatu 6 C 27,ESPOO,,02230,Finland,Finland,2017.0
+"""Prad"" Serwis Elektryczny Ryszard Nowak",2004098-2,fi,,Ulkomainen yhteisö,F,,,,,,,Finland,
+"""Quick Stitch""",2341278-8,fi,,Yksityinen elinkeinonharjoittaja,,,,,,,,Finland,
+"""Sangiorgio Alessandro"" Suomen sivuliike",1717593-1,fi,2001-08-10,Sivuliike,,,,,,,,Finland,2001.0
+"""Shanssi""",1701767-7,fi,2001-04-05,Yksityinen elinkeinonharjoittaja,,,,,,,,Finland,2001.0
+"""Uusi"" Reinforced Oy",3385205-8,fi,,Osakeyhtiö,,,,,,,,Finland,
+"""WINTERHUR"" SCHWEIZERISCHE VERSICHERUNGS-GESELLSCHAFT",1594812-8,fi,2000-04-13,Muut oikeushenkilöt,,,,,,,,Finland,2000.0
+"""Äs-sänääbil"" arabilaisen kulttuurin yhdistys",2017950-3,fi,2006-02-07,Aatteellinen yhdistys,,,"Puistomäki 1 A 6
+02610 ESPOO",,,,Finland,Finland,2006.0
+& Two Words Oy,3457862-8,fi,2024-07-03,Osakeyhtiö,,,,,,,,Finland,2024.0
+(It's Not) Rocket Science Oy,3019310-6,fi,2019-08-22,Osakeyhtiö,,True,Mikkolantie 1 A 333 b,HELSINKI,,00640,Finland,Finland,2019.0
+(Mc - Service Huolto center) Lillkvist Pehr-Johan,1425766-7,fi,1998-01-03,Yksityinen elinkeinonharjoittaja,,,,,,,,Finland,1998.0
+(PARTURI-KAMPAAMO) MARJU KOSKIMIES tmi,1319003-4,fi,1998-01-03,Yksityinen elinkeinonharjoittaja,,,"Eerikinkatu 13 C
+20100 TURKU",,,,Finland,Finland,1998.0
+(Tmi) Lassi Kansikas,2683328-9,fi,2015-03-23,Yksityinen elinkeinonharjoittaja,,,"Mäkelänkatu 86 D 40
+00610 HELSINKI",,,,Finland,Finland,2015.0
+(i show you) crazy Oy,3181110-5,fi,2021-01-20,Osakeyhtiö,,,Kalevalantie 8 C 34,ESPOO,,02100,Finland,Finland,2021.0
++ Beauty Oy,2650630-9,fi,2014-10-27,Osakeyhtiö,,,,,,,,Finland,2014.0
+- ADA OY,3289416-8,fi,2022-08-12,Osakeyhtiö,,,Nuijamiestentie 3 B,HELSINKI,,00400,Finland,Finland,2022.0
+- tf - Autokiilto,2408043-9,fi,,Yksityinen elinkeinonharjoittaja,,,,,,,,Finland,
+-BRÄNDÖVIK NÄTFABRIK OHLS & OHLS KOMMANDITBOLAG KONKURSBO,0918090-9,fi,,Konkurssipesä,,,,,,,,Finland,
+-tf-STORE,1876678-4,fi,,Yksityinen elinkeinonharjoittaja,,,,,,,,Finland,
+...'tanssi jatkuu'... Pelastakaa Ballerinat ry,2670561-5,fi,2015-01-27,Aatteellinen yhdistys,,,,,,,,Finland,2015.0
+.UUROJEN TUKI R.Y.,0205332-5,fi,1978-06-30,Aatteellinen yhdistys,,,,,,,,Finland,1978.0
+0&K Design Ky,0889628-6,fi,,Kommandiittiyhtiö,,,,,,,,Finland,
+0-koodi Oy,2799674-1,fi,2017-01-23,Osakeyhtiö,,,Eerikinkatu 29 C 52,HELSINKI,,00180,Finland,Finland,2017.0
+0.7 design,2123266-0,fi,2007-06-14,Yksityinen elinkeinonharjoittaja,,,"Mossdalintie 19
+25700 KEMIÖ",,,,Finland,Finland,2007.0
+0.7 design Oy,2655941-9,fi,2014-12-05,Osakeyhtiö,,,Toimittajanpolku 2,KEMIÖ,,25700,Finland,Finland,2014.0
+007 Kuljetus Oy,1832826-6,fi,2003-06-06,Osakeyhtiö,,,"007 Kuljetus Oy
+Toukolantie 15",RAJAMÄKI,,05200,Finland,Finland,2003.0
+007Services Oy,2819273-7,fi,2017-03-07,Osakeyhtiö,,,Rantavarintie 1 A,SÄKYLÄ,,27820,Finland,Finland,2017.0
+007goldenNet,1706100-2,fi,2001-05-14,Yksityinen elinkeinonharjoittaja,,,,,,,,Finland,2001.0
+009 Investment Oy,2873133-1,fi,2017-12-15,Osakeyhtiö,,,Yli-Raakkulantie 4,HÄMEENLINNA,,13500,Finland,Finland,2017.0
+ HT NOUS ,450504196,fr,2003-07-03,Association déclarée,,True,BERENICE HAMIDI 26 RUE CLISSON,PARIS 13,PARIS,75013,FRANCE,France,2003.0
+ PRAGMAGICIELS,540049582,fr,2012-03-01,Société à responsabilité limitée (sans autre indication),,True,76 BD BERTRAN DE BORN,PERIGUEUX,DORDOGNE,24000,FRANCE,France,2012.0
+TAMBOURS,841283823,fr,2018-06-28,Association déclarée,,False,MAISON DES ASSOCIATIONS 2 PLACE DE STALINGRAD,VOIRON,ISERE,38500,FRANCE,France,2018.0
+FactureStar,945406973,fr,2025-06-17,"SASU, Société par actions simplifiée unipersonnelle",,False,56 58 56 RUE rue Barreyre,Bordeaux,,33000,FRANCE,France,2025.0
+MPROMPTU,913342697,fr,2022-06-09,"SAS, société par actions simplifiée",,False,6 RUE DES PRES,HOCHSTETT,,67170,FRANCE,France,2022.0
+""" 10 """,443274451,fr,2002-09-11,Société civile immobilière (SCI),,False,LES CAMIS,BELPECH,,11420,FRANCE,France,2002.0
+""" 1856 """,807565445,fr,2014-11-04,Autres sociétés commerciales à responsabilité limitée,,False,188 ROUTE DE CANNES,GRASSE,,06130,FRANCE,France,2014.0
+""" 2 HARD""",483468005,fr,2005-08-10,Société à responsabilité limitée (sans autre indication),,True,IMMEUBLE LE LAC BATIMENT B 2 EME ETAG 1245 AV DE LA RESISTANCE,SAINT-PAUL-LES-DAX,LANDES,40990,FRANCE,France,2005.0
+""" 5 L M S""",530070390,fr,2011-01-06,"SAS, société par actions simplifiée",,True,ZONE INDUSTRIELLE RUE LOUIS BLANQUI,GRANDE-SYNTHE,NORD,59760,FRANCE,France,2011.0
+""" A COTE """,511042293,fr,2009-03-16,Société civile immobilière (SCI),,False,18 RUE CLAIRAUT,PARIS,,75017,FRANCE,France,2009.0
+""" A VOT' SERVICE""",478146566,fr,2004-08-02,Société à responsabilité limitée (sans autre indication),,True,2 RUE DE BLERANCOURT,CUISY-EN-ALMONT,AISNE,02200,FRANCE,France,2004.0
+""" A.RIGAUD """,793176306,fr,2013-05-21,Société civile immobilière (SCI),,False,12 AVENUE GENERAL DE GAULLE,GRASSE,,06130,FRANCE,France,2013.0
+""" AC PISCINE """,793107772,fr,2013-05-21,"SASU, Société par actions simplifiée unipersonnelle",,False,PLACE CAMILLE PASSOT,SAINT-GALMIER,,42330,FRANCE,France,2013.0
+""" ACCORD """,539024299,fr,2009-09-08,Association déclarée,,False,MAIRIE,CARNAS,GARD,30260,FRANCE,France,2009.0
+""" ANDREA """,945360923,fr,2025-06-10,Société civile immobilière (SCI),,False,52 CHEMIN du Moulin,Saint-Nazaire-les-Eymes,,38330,FRANCE,France,2025.0
+""" ARV "" AUTO REPARATIONS VEHICULES",480788579,fr,2005-02-09,Société à responsabilité limitée (sans autre indication),,True,9 RUE ETHE VIRTON,DREUX,EURE-ET-LOIR,28100,FRANCE,France,2005.0
+""" AS OPTIQUE """,451664544,fr,2004-01-22,"SAS, société par actions simplifiée",,False,42 RUE GEORGES MESSIER,OLORON-SAINTE-MARIE,,64400,FRANCE,France,2004.0
+""" ASSOCIATION COMMUNALE DE CHASSE DE DINGE """,944871847,fr,1973-08-07,Association déclarée,,False,MAIRIE 2 RUE DU CANAL,DINGE,ILLE-ET-VILAINE,35440,FRANCE,France,1973.0
+""" ASSOCIATION DE PARENTS D'ELEVES - BPR ( APE - BPR ) "" , LE SIGLE BPR SIGNIFIE "" BIENVEILLANCE , PARTICIPATION , RESPO",990115651,fr,2025-07-30,Association déclarée,,False,59 RUE CLAUDINE GUERIN,LE PETIT-QUEVILLY,SEINE-MARITIME,76140,FRANCE,France,2025.0
+""" AU PORCELET""",450792577,fr,2003-11-19,Autres sociétés commerciales à responsabilité limitée,,False,18 GRANDE RUE,CLUSES,,74300,FRANCE,France,2003.0
+""" AUDE """,443011184,fr,2002-08-08,Société civile immobilière (SCI),,False,8 RUE DES VERRIATS,CHAMPFLEURY,,51500,FRANCE,France,2002.0
+""" AXE N12 IMMOBILIER """,478434673,fr,2004-09-01,Société à responsabilité limitée (sans autre indication),,False,7 RUE SAINT MARTIN,BROUE,EURE-ET-LOIR,28410,FRANCE,France,2004.0
+""" B+ """,392760351,fr,1993-10-01,Société à responsabilité limitée (sans autre indication),,True,50 AV DU DANEMARK,TOURS,INDRE-ET-LOIRE,37000,FRANCE,France,1993.0
+""" B.Y. CROSNE """,442275558,fr,2002-06-07,Société civile immobilière (SCI),,False,14 RUE TANNERY,ROUEN,,76000,FRANCE,France,2002.0
+""" BADMINTON CLUB DE TALENSAC "" [B.C.T]",934657628,fr,1996-10-08,Association déclarée,,False,1 RUE DU GENERAL DE GAULLE,TALENSAC,ILLE-ET-VILAINE,35160,FRANCE,France,1996.0
+""" BAR DE LA PLACE """,799136726,fr,2013-12-17,Autres sociétés commerciales à responsabilité limitée,,False,12 PLACE DESIRE FERAUD,GATTIERES,,06510,FRANCE,France,2013.0
+""" BEDIRAPH """,441652138,fr,2002-03-02,Autre société civile,,True,10 RUE DU MOULIN CHAUDRON,CHARMONT-SOUS-BARBUISE,AUBE,10150,FRANCE,France,2002.0
+""" BURGER HOUSE """,978500528,fr,2023-08-28,"SASU, Société par actions simplifiée unipersonnelle",,False,3 PLACE Leon Blum,Villeneuve-d'Ascq,,59650,FRANCE,France,2023.0
+""" CHEZ BROSSON """,438283608,fr,2000-06-24,Groupement foncier agricole,,False,LES SARRA 4 IMPASSE DU COUDERT,CELLES-SUR-DUROLLE,PUY-DE-DÔME,63250,FRANCE,France,2000.0
+""" CJB """,802383067,fr,2014-05-20,Autre société civile,,False,14 RUE DES BONNES,SAINT-PRIEST-EN-JAREZ,,42270,FRANCE,France,2014.0
+""" COMME UN ANGE""",843695842,fr,2018-10-26,"SAS, société par actions simplifiée",,False,237 RUE EUGENE BEREST,BREST,FINISTÈRE,29200,FRANCE,France,2018.0
+""" COURTEFOIX """,440961563,fr,2002-02-25,Autres sociétés commerciales à responsabilité limitée,,False,33 BOULEVARD DOCTEUR PONTIER,GRAULHET,,81300,FRANCE,France,2002.0
+""" DE L'ENTRAIDE """,479864241,fr,2004-11-24,Société en nom collectif,,True,2 CHE DU COURET,SINZOS,HAUTES-PYRÉNÉES,65190,FRANCE,France,2004.0
+""" DE LA HALTE """,801784836,fr,2014-04-17,Société civile immobilière (SCI),,False,263 CHEMIN DE LA HALTE,GATTIERES,,06510,FRANCE,France,2014.0
+""" DEVINE QUI VIENT DÉJEUNER """,983759119,fr,2024-01-30,"SASU, Société par actions simplifiée unipersonnelle",,False,5 BOULEVARD géneral Leclerc,Limours,,91470,FRANCE,France,2024.0
+""" DIAM'OR """,484270418,fr,2005-09-15,Société à responsabilité limitée (sans autre indication),,True,17 PL ALEXANDRE VEILLARD,SAINT-AUBIN-DU-CORMIER,ILLE-ET-VILAINE,35140,FRANCE,France,2005.0
+""" DU BOIS DE VILLERS""",895205987,fr,2021-04-21,"GF, Groupement forestier",,False,63 RUE DU MARECHAL FOCH,VILLERS-SAINT-BARTHELEMY,,60650,FRANCE,France,2021.0
+""" DU VAL """,442149233,fr,2002-05-28,Société civile immobilière de construction-vente,,False,4 RUE LABEDA,TOULOUSE,,31000,FRANCE,France,2002.0
+""" E L C """,830973319,fr,2017-08-03,"SAS, société par actions simplifiée",,False,155 RUE DE LA GARENNE,VENDARGUES,,34740,FRANCE,France,2017.0
+""" E.M.A""",441899861,fr,2002-05-17,Société civile immobilière (SCI),,False,1996 ROUTE DE BELLEVILLE,TAPONAS,,69220,FRANCE,France,2002.0
+""" E.P.M.T.""",834236408,fr,2017-12-21,Société civile immobilière,,False,7 AVENUE DU RHONE,ANNECY,HAUTE-SAVOIE,74000,FRANCE,France,2017.0
+""" EAUX DE L'OURCHE ET DU GRAND EST """,928129170,fr,1991-10-31,Association déclarée,,False,MAIRIE 22 RUE DES ABBES MATHIS ET MARION,HENNEZEL,VOSGES,88260,FRANCE,France,1991.0
+""" ET POURQUOI PAS ? """,534721634,fr,2011-08-22,Association déclarée,,False,ECOLE DES GRANDS LE VILLAGE,VALAURIE,DRÔME,26230,FRANCE,France,2011.0
+""" ETRE-LA EURE OUEST """,925226771,fr,2024-03-12,Association déclarée,,False,CENTRE HOSPITALIER DE LA RISLE 64 ROUTE DE LISIEUX (PONT-AUDEMER),PONT-AUDEMER,EURE,27500,FRANCE,France,2024.0
+""" EURL J.M.S."".",482178407,fr,2005-03-18,Société à responsabilité limitée (sans autre indication),,True,LE VIEUX MOULIN,LE FERRE,ILLE-ET-VILAINE,35420,FRANCE,France,2005.0
+""" F P S """,434825386,fr,2001-03-14,"SAS, société par actions simplifiée",,False,ZAC DU PRE A VAROIS,CUSTINES,,54670,FRANCE,France,2001.0
+""" F.D""",433150794,fr,2000-10-12,Société civile immobilière (SCI),,False,18 AVENUE 18 bis Avenue du Comminges,Cugnaux,,31270,FRANCE,France,2000.0
+""" FJC """,934275736,fr,2024-10-23,"SNC, Société en nom collectif",,False,15 PLACE GENERAL LECLERC,Le Quesnoy,,59530,FRANCE,France,2024.0
+""" FRITES ET SPORTS """,931576748,fr,2024-08-20,"SASU, Société par actions simplifiée unipersonnelle",,False,138 RUE Henri Durre,Raismes,,59590,FRANCE,France,2024.0
+""" GARAGE FABIEN PONS """,326035276,fr,1982-04-01,"SASU, Société par actions simplifiée unipersonnelle",,False,64 AVENUE de Conthe,Aurillac,,15000,FRANCE,France,1982.0
+"   0.00-24.00H AB&AUFSCHLIEßDIENST - ""SCHLÜSSELNOTDIENST-ZENTRALE"" - A. Bauer e.K.",R1504_HRA5470,de,,,,True,,,,,,Germany,
+"   Schloss u. Schlüsselnotdienst Tag u. Nacht Fa. Wülfken, Inh. Manfred Wülfken e.K.",K1101R_HRA100199,de,,,,True,,,,,,Germany,
+  0 - 0  ADLER Aufsperrdienst Schlüsseldienst Rohrreinigung 24 Std. Rufuml. n. Trudering e. K.,R3306_HRA26855,de,,,,True,"Scharnhorststraße 8, 51377 Leverkusen.",,,,Germany,Germany,
+ - 0 - 24 Stunden Schlüsseldienst A.K. e.K.,F1103R_HRA44471,de,,,,False,"Warschauer Straße 27, 10243 Berlin Inhaber:1) Krause, Andreas, *04.04.1970, Berlin Rechtsform: Einzelunternehmen.",,,,Germany,Germany,
+ - 00.00 - 24.00 Uhr PP Peter Pintaske Türöffnung Tresoröffnung Autoöffnung Schlüsseldienst & Schlüsselnotdienst e.K.,F1103R_HRA47345,de,,,,False,"Grumsiner Straße 33, 12679 Berlin Inhaber:1) Pintaske, Peter, *29.09.1955, Berlin Rechtsform: Einzelunternehmen.",,,,Germany,Germany,
+ - 00.00 - 24.00 Uhr Schlüsseldienst & Schlüsselnotdienst Andreas Krause e.K.,F1103R_HRA37074,de,,,,True,Warschauer Str.,,,,Germany,Germany,
+ - 030 - 24 H Schlüsseldienst & Schlüsselnotdienst Klaus Schulze e.K.,F1103R_HRA44021,de,,,,False,"Platanenweg 58, 12347 Berlin Inhaber:1) Schulze, Klaus, *19.03.1973, Berlin Rechtsform: Einzelunternehmen.",,,,Germany,Germany,
+" - Aalpha "" Schlüsseldienst & Schlüsselnotdienst 24 Std. e. K.",R3306_HRA20772,de,,,,False,,,,,,Germany,
+ 0 - 0  AAB Schlüsseldienst Absicherungen & Notdienst 24 h Rufuml. n. Weesen e.K.,P2507_HRA201793,de,,,,True,"Postweg 2, 29320 Hermannsburg.",,,,Germany,Germany,
+ 0 - 0  AB & www.AUFSCHLIESSPROFI.de EINBRUCHSCHUTZ SCHLÜSSELDIENST & SCHLÜSSELNOTDIENST 0-24 H Rufweiterleitung e.K.,R1304_HRA4068,de,,,,True,"Am Schulzenhof 25, 46509 Xanten.",,,,Germany,Germany,
+ 0 - 0  Schlüsseldienst Seibel Türöffnung Autoöffnung Vermittlung e.K.,D2601V_HRA95081,de,,,,True,Agathenstr.,,,,Germany,Germany,
+ 0 - 0 h Schlüsseldienst günstiger Aufsperrdienst & PKW-Öffnung Schlüssel e.K.,D2601V_HRA86595,de,,,,True,,,,,,Germany,
+ 0 - 24  Betz Schlüsseldienst Rohrreinigung Autoöffnung 24 H. Servicenummer e.K.,D3410V_HRA8495,de,,,,True,"Beim Roten Kreuz 6 A, 93057 Regensburg.",,,,Germany,Germany,
+ 0 - 24 Uhr Abfluss NOTDIENST Klempner Sanitär Rohrbruch Heizung Weishaupt e.K.,F1103R_HRA33766,de,,,,True,,,,,,Germany,
+ 0 - 24 h Sicherheitstechnik Schlüssel Schlüsseldienst für Haus Wohnung Auto e.K.,D2601V_HRA88938,de,,,,True,,,,,,Germany,
+ 040 HAMBURGER SCHLUESSELDIENST SCHLOSS & SCHLUESSELNOTDIENST e. K.,K1101R_HRA112297,de,,,,True,Burchardstr.,,,,Germany,Germany,
+ 089 Schlüsseldienst für München 24 Std. Aufsperrdienst KFZ-Öffnung e.K.,D2601V_HRA83423,de,,,,True,,,,,,Germany,
+ 1 fix 3  Sofort und preiswert Notdienst e.K.,F1103R_HRA45047,de,,,,False,"Mindener Straße 21, 10589 Berlin Inhaber:1) Krause, Andreas, *04.04.1970, Berlin Rechtsform: Einzelunternehmen.",,,,Germany,Germany,
+ Abenteuer Amour Gesellschaft mit beschränkter Haftung Agentur für amouröse Bildabenteuer in elektronischen Medien,R2201_R2207_HRB1518,de,,,,True,,,,,,Germany,
+ Abra Cadabra  Schlüsseldienst 24 Std. Schließanlagen Briefkastenanlagen e.K.,D3410V_HRA7303,de,,,,False,,,,,,Germany,
+ EVO Online Marketing GmbH,R2108_R2102_HRB1531,de,,,,True,,,,,,Germany,
+ ResorT Baubetreuung GmbH,P2507_P2511_HRB3356,de,,,,True,,,,,,Germany,
+ ResorT Lizenz GmbH,P2507_P2511_HRB3455,de,,,,True,,,,,,Germany,
+ Soforthilfe  24 h Schlüsselnotdienst e. K.,F1103R_HRA45050,de,,,,True,"Mindener Straße 21, 10589 Berlin Inhaber:1) Krause, Andreas, *04.04.1970, Berlin Rechtsform: Einzelunternehmen.",,,,Germany,Germany,
+ imPROsant  e.V.,F1103R_VR21767,de,,,,True,,,,,,Germany,
+ ´0 - 12´ - aller Art Schlüsseldienst Tag & Nacht Türöffnung F. Imling e.K.,R1202_HRA6704,de,,,,True,,,,,,Germany,
+ HELFT UNS HELFEN  Kinderhilfe ...e.V.,X1517R_VR721SE,de,,,,True,,,,,,Germany,
+ Abflussfrei Pallas Abfluss- und Rohrreinigung Notdienst e.Kfm.,F1103R_HRA32601,de,,,,False,"Schirpitzer Weg 76, 12355 Berlin",,,,Germany,Germany,
+ Lecher GmbH,P2408_HRB598,de,,,,False,,,,,,Germany,
+ Lecher GmbH,F1103_HRB598,de,,,,False,,,,,,Germany,
+" O-Oh Schlüssel-, Schlüsseldienst Trautmann Tag & Nacht e.K.",B8534_HRA262057,de,,,,True,,,,,,Germany,
+"O-Oh Schlüssel-, Schlüsseldienst, Schlüsselnotdienst Tag & Nacht e.K.",M1103_HRA32172,de,,,,False,,,,,,Germany,
+"(ABC für Türen)  Drathjer e.K. Aufschließen, Abschließen, Absicherungen aller Art. Schlüsseldienst, Schlüsselnotdienst.",R2507_HRA2045,de,,,,False,,,,,,Germany,
+"""(O-O h.)"" Allgemeiner Schlüsselnotdienst Tag & Nacht Absicherungsdienst & Einbruchschadenbe. & Schlösser aller Art Sicherheits-Technik e. K.",R2507_HRA2097,de,,,,False,,,,,,Germany,
+-laar-und Kosmetikstudio Norbert Berkemeier GmbH,R1901_R1912_HRB250,de,,,,True,,,,,,Germany,
+0-24.h. aplus Schädlingsbekämpfung GmbH,T2210V_HRB2808,de,,,,False,"Koblenzer Straße 56, 56112 Lahnstein.",,,,Germany,Germany,
+030-Arslan Schlüsseldienst e.K.,B8534_HRA105013,de,,,,False,,,,,,Germany,
+A&C Gesellschaft für Mittelstandsberatung mbH. Auxilium et Consilium - Rat und Hilfe,T3104V_HRB52513,de,1997-04-30,Gesellschaft mit beschränkter Haftung,,False,"Sandgasse 51, 67459 Böhl-Iggelheim.",,,,Germany,Germany,1997.0
+Bailamos - Die Dresdner Tango Galerie e.V.,U1104_VR4276,de,,,,False,,,,,,Germany,
+CC HANDELS GMBH. - Zweigniederlassung Frankfurt/ Main,M1201_HRB12098,de,,,,True,,,,,,Germany,
+HEPP Höslinger Gesellschaft für Unternehmensimpulse mbH,R2713_HRB12578,de,,,,False,"Hafenweg 26b, 48155 Münster.",,,,Germany,Germany,
+Hilde Hilft,M1114_VR5367,de,,,,True,,,,,,Germany,
+K7 Publishing GmbH,F1103R_HRB121749,de,,,,False,"Gerichtstraße 35, 13347 Berlin",,,,Germany,Germany,
+M-Liner GmbH,V1109_HRB108019,de,,,,False,"Dahlienweg 6, 66636 Tholey.",,,,Germany,Germany,
+MIET MICH Motorradvermietung GmbH,D2102V_HRB17013,de,,,,True,,,,,,Germany,
+MONUMENT AG,R3306_HRB58443,de,,,,True,,,,,,Germany,
+"Parkhaus PBV Verwaltungs-GmbH""",R1304_HRB707,de,,,,True,,,,,,Germany,
+Projekt-Prävention,R2101_VR3536,de,,,,True,,,,,,Germany,
+Purple Gastrobetriebs UG (haftungsbeschränkt),R2402_HRB23055,de,2010-06-14,Gesellschaft mit beschränkter Haftung,,False,Geschwister-Scholl-Str.,,,,Germany,Germany,2010.0
+ResorT Immobilien AG,P2507_P2511_HRB111026,de,,,,True,,,,,,Germany,
+""" ''ΑΦΟΙ ΚΑΠΕΤΑ & ΣΙΑ Ο.Ε.''-''Α. ΠΕΪΤΣΗΣ- Ε. ΠΕΪΤΣΗ & ΣΙΑ Ο.Ε''. Ο.Ε.""",058989204000,gr,2007-03-03,General Partnership Company (Ομόρρυθμη Εταιρεία),,True,"16 Δ ΨΑΡΟΥ ΚΑΙ ΑΙΓΑΛΕΩ, ΘΕΣΣΑΛΟΝΙΚΗ, ΘΕΣΣΑΛΟΝΙΚΗΣ / ΘΕΣΣΑΛΟΝΙΚΗΣ",ΘΕΣΣΑΛΟΝΙΚΗΣ,,54639,Greece,Greece,2007.0
+""" 2-DOUBLE O.E.""",133763709000,gr,2015-03-12,General Partnership Company (Ομόρρυθμη Εταιρεία),,True,"Α ΠΑΠΑΝΔΡΕΟΥ, ΑΣΠΡΟΠΥΡΓΟΣ, ΑΣΠΡΟΠΥΡΓΟΥ / ΑΤΤΙΚΗΣ",ΔΥΤΙΚΗΣ ΑΤΤΙΚΗΣ,ΘΕΣΗ ΚΟΥΤΑΛΑ,19300,Greece,Greece,2015.0
+""" ALFA - REISEN"" ΤΟΥΡΙΣΤΙΚΕΣ ΕΠΙΧΕΙΡΗΣΕΙΣ ΕΤΑΙΡΕΙΑ ΠΕΡΙΩΡΙΣΜΕΝΗΣ ΕΥΘΥΝΗΣ",077146527000,gr,1992-06-18,Limited Liability Company (Εταιρεία Περιορισμένης Ευθύνης),,True,"118 Α  ΠΑΠΑΝΔΡΕΟΥ, ΓΑΖΙ, ΓΑΖΙΟΥ / ΗΡΑΚΛΕΙΟΥ",ΗΡΑΚΛΕΙΟΥ,,71414,Greece,Greece,1992.0
+""" I. ΜΠΑΤΙΣΤΑΚΗΣ - Δ. ΚΟΥΚΟΥΒΙΝΟΥ ΟΕ """,122851609000,gr,2010-02-26,General Partnership Company (Ομόρρυθμη Εταιρεία),,False,"20 Γ. ΡΟΥΣΟΥ & Α. ΔΙΑΚΟΥ, ΜΟΣΧΑΤΟ, ΜΟΣΧΑΤΟΥ / ΑΤΤΙΚΗΣ",ΑΤΤΙΚΗΣ,,18344,Greece,Greece,2010.0
+""" Α. ΛΑΖΑΡΙΔΗΣ - Ν. ΑΠΟΣΤΟΛΙΔΗΣ Ο.Ε. """,130240909000,gr,2005-11-29,General Partnership Company (Ομόρρυθμη Εταιρεία),,True,"19 ΑΛΙΚΑΡΝΑΣΣΟΥ, ΠΕΡΑΙΑΣ, ΠΕΙΡΑΙΩΣ / ΑΤΤΙΚΗΣ",ΑΤΤΙΚΗΣ,,18539,Greece,Greece,2005.0
+""" Α. ΜΙΧΑΛΙΕΡΗΣ ΚΑΙ ΣΙΑ "" Ο.Ε.",017092455000,gr,,General Partnership Company (Ομόρρυθμη Εταιρεία),,False,"21 ΠΑΥΛΟΥ ΜΕΛΑ, ΦΛΩΡΙΝΑ, ΦΛΩΡΙΝΑΣ / ΦΛΩΡΙΝΑΣ",ΦΛΩΡΙΝΑΣ,,53100,Greece,Greece,
+""" Α. ΨΟΥΝΟΠΟΥΛΟΣ Α.Τ.Ε.Β.Ε.""",010826036000,gr,,Public Limited Company (Ανώνυμη Εταιρεία),,True,"Γ ΛΕΚΚΟΥ ΚΑΙ ΑΙΑΝΝΗΣ ΓΩΝΙΑ, ΚΟΖΑΝΗ, ΚΟΖΑΝΗΣ / ΚΟΖΑΝΗΣ",ΚΟΖΑΝΗΣ,,50100,Greece,Greece,
+""" ΑΔΕΛΦΟΙ ΜΕΣΣΗΝΕΖΗ "" ΟΕ",105415802000,gr,,General Partnership Company (Ομόρρυθμη Εταιρεία),,True,"ΤΖΑΒΕΛΑ 9, ΗΡΑΚΛΕΙΟ, ΗΡΑΚΛΕΙΟΥ / ΑΤΤΙΚΗΣ",,Π ΗΡΑΚΛΕΙΟΝ,141 22,Greece,Greece,
+""" ΑΘ ΜΑΝΤΖΟΥ-ΟΛ ΠΑΠΑΝΙΚΟΛΑΟΥ Ο.Ε.""",054935909000,gr,1993-02-02,General Partnership Company (Ομόρρυθμη Εταιρεία),,True,"520 ΚΟΡΙΝΘΟΥ, ΕΛΕΥΣΙΝΑ, ΕΛΕΥΣΙΝΟΣ / ΑΤΤΙΚΗΣ",ΔΥΤΙΚΗΣ ΑΤΤΙΚΗΣ,,19200,Greece,Greece,1993.0
+""" ΑΘΑΝΑΣΑΚΗ ΕΥΓ. & ΣΙΑ Ο.Ε""",054937809000,gr,2009-07-16,General Partnership Company (Ομόρρυθμη Εταιρεία),,False,"163 ΕΘΝ ΑΝΤΙΣΤΑΣΕΩΣ, ΔΡΑΠΕΤΣΩΝΑ, ΔΡΑΠΕΤΣΩΝΑΣ / ΑΤΤΙΚΗΣ",ΠΕΙΡΑΙΑ,,18648,Greece,Greece,2009.0
+""" ΑΝΤ. ΓΑΒΡΙΛΗΣ ΚΑΙ ΣΙΑ Ε.Ε. """,129626609000,gr,1989-06-27,Limited Partnership Company (Ετερόρρυθμη Εταιρία),,False,"19 ΑΦΡΟΔΙΤΗΣ, ΠΕΙΡΑΙΑΣ, ΠΕΙΡΑΙΩΣ / ΑΤΤΙΚΗΣ",ΑΤΤΙΚΗΣ,,18539,Greece,Greece,1989.0
+""" ΑΝΤΙΠΡΟΣΩΠΕΙΕΣ ΚΑΙ ΔΙΑΝΟΜΕΣ ΤΡΟΦΙΜΩΝ ΔΥΤΙΚΗΣ ΜΑΚΕΔΟΝΙΑΣ Α.Ε.""",010826136000,gr,,Public Limited Company (Ανώνυμη Εταιρεία),,False,"4 ΧΙΛΙΟΜ ΚΟΖΑΝΗΣ ΘΕΣ/ΝΙΚΗΣ, ΚΟΖΑΝΗ, ΚΟΖΑΝΗΣ / ΚΟΖΑΝΗΣ",ΚΟΖΑΝΗΣ,,50100,Greece,Greece,
+""" ΑΡΓΥΡΗΣ - ΜΑΓΚΑΣΙΑΝΟΣ Ο.Ε. """,132439209000,gr,2014-11-13,General Partnership Company (Ομόρρυθμη Εταιρεία),,False,"50 ΣΩΤΗΡΟΣ ΔΙΟΣ, ΠΕΙΡΑΙΑΣ, ΠΕΙΡΑΙΩΣ / ΑΤΤΙΚΗΣ",ΑΤΤΙΚΗΣ,ΠΑΣΑΛΙΜΑΝΙ,18534,Greece,Greece,2014.0
+""" ΑΦΟΙ ΑΣΙΚΗ"" Ο.Ε.",017092555000,gr,2006-09-27,General Partnership Company (Ομόρρυθμη Εταιρεία),,False,"25 Π ΜΕΛΑ, ΦΛΩΡΙΝΑ, ΦΛΩΡΙΝΑΣ / ΦΛΩΡΙΝΑΣ",ΦΛΩΡΙΝΑΣ,,53100,Greece,Greece,2006.0
+""" ΑΦΟΙ Γ. ΜΠΑΖΟΥΡΑΚΗ Ο.Ε.""",054694809000,gr,,General Partnership Company (Ομόρρυθμη Εταιρεία),,False,"21 ΓΟΥΝΑΡΗ, ΠΕΙΡΑΙΑΣ, ΠΕΙΡΑΙΩΣ / ΑΤΤΙΚΗΣ",ΠΕΙΡΑΙΑ,,18531,Greece,Greece,
+""" ΑΦΟΙ ΜΑΥΡΟΜΑΤΙΔΗ"" Ε.Ε.",017092655000,gr,2008-01-07,Limited Partnership Company (Ετερόρρυθμη Εταιρία),,False,"ΜΕΛΙΤΗ, Τ.Κ ΜΕΛΙΤΗΣ, ΦΛΩΡΙΝΑΣ / ΦΛΩΡΙΝΑΣ",ΦΛΩΡΙΝΑΣ,,53071,Greece,Greece,2008.0
+""" Β. ΒΕΝΕΤΣΑΝΟΣ Ε.Ε. """,129648609000,gr,2014-03-27,Limited Partnership Company (Ετερόρρυθμη Εταιρία),,False,"51 ΘΕΣΠΙΕΩΝ, ΚΟΡΙΝΘΟΣ, ΚΟΡΙΝΘΙΩΝ / ΚΟΡΙΝΘΙΑΣ",ΑΤΤΙΚΗΣ,,20100,Greece,Greece,2014.0
+""" Β. ΠΑΠΑΝΔΡΙΚΟΠΟΥΛΟΣ-ΔΗΜ.ΚΑΡΑΓΚΟΥΝΗΣ ΟΕ.""",105954102000,gr,,General Partnership Company (Ομόρρυθμη Εταιρεία),,True,ΞΥΛΟΚΑΣΤΡΟΥ 14,,ΑΓ. ΦΑΝΟΥΡΙΟΣ-ΛΙΟΣΙΑ,,Greece,Greece,
+""" ΒΙΟΜΕΤΡΙΑ "" Γ. ΘΕΙΑΚΟΣ & ΣΙΑ ΟΕ",109921002000,gr,,General Partnership Company (Ομόρρυθμη Εταιρεία),,True,"ΓΙΑΛΟΥΡΟΥ 9, ΑΘΗΝΑ, ΑΘΗΝΑΙΩΝ / ΑΤΤΙΚΗΣ",,ΝΕΑ ΚΥΨΕΛΗ,113 63,Greece,Greece,
+""" ΒΛΑΧΑΚΗΣ ΕΥΑΓΓΕΛΟΣ-ΜΠΑΡΟΥΣ ΧΡΗΣΤΟΣ Ο.Ε.""",054694909000,gr,,General Partnership Company (Ομόρρυθμη Εταιρεία),,False,"58 ΠΟΛΥΔΕΥΚΟΥΣ, ΠΕΙΡΑΙΑΣ, ΠΕΙΡΑΙΩΣ / ΑΤΤΙΚΗΣ",ΠΕΙΡΑΙΑ,,18545,Greece,Greece,
+""" Γ. & Π. ΟΙΚΟΝΟΜΟΥ Ο.Ε. """,054695009000,gr,,General Partnership Company (Ομόρρυθμη Εταιρεία),,False,"ΒΑΣ ΓΕΩΡΓΙΟΥ Α, ΠΕΙΡΑΙΑΣ, ΠΕΙΡΑΙΩΣ / ΑΤΤΙΚΗΣ",ΠΕΙΡΑΙΑ,,18531,Greece,Greece,
+""" Γ. ΜΑΡΑΒΕΛΙΑΣ - Ν. ΧΡΥΣΑΦΙΤΗΣ Ο.Ε. """,133715009000,gr,2015-03-09,General Partnership Company (Ομόρρυθμη Εταιρεία),,True,"ΠΟΤΑΜΟΣ, ΚΥΘΗΡΑ, ΚΥΘΗΡΩΝ / ΑΤΤΙΚΗΣ",ΠΕΙΡΑΙΑ,ΠΟΤΑΜΟΣ,80200,Greece,Greece,2015.0
+""" ΓΕΩΡΓΙΟΣ ΒΛΑΣΣΗΣ & ΥΙΟΣ "" ΟΕ",105416002000,gr,,General Partnership Company (Ομόρρυθμη Εταιρεία),,True,"Γ Σ/ΒΡΙΟΥ 19, ΛΑΥΡΙΟ, ΛΑΥΡΕΩΤΙΚΗΣ / ΑΤΤΙΚΗΣ",,ΛΑΥΡΙΟΥ,195 00,Greece,Greece,
+""" Δ. ΛΑΜΠΡΙΝΑΚΟΥ -Ε.ΜΑΣΤΑΝΟΠΟΥΛΟΥ ΕΤΑΙΡΕΙΑ ΠΕΡΙΟΡΙΣΜΕΝΗΣ ΕΥΘΥΝΗΣ ΑΣΦΑΛΙΣΤΙΚΗΣ ΠΡΑΚΤΟΡΕΥΣΗΣ ΚΑΙ ΣΥΝΤΟΝΙΣΜΟΥ ΑΣΦΑΛΙΣΤΙΚΩΝ ΣΥΜΒΟΥΛΩΝ""",054909609000,gr,2010-04-08,Limited Liability Company (Εταιρεία Περιορισμένης Ευθύνης),,False,"178 Π ΡΑΛΛΗ, ΝΙΚΑΙΑ, ΝΙΚΑΙΑΣ / ΑΤΤΙΚΗΣ",ΠΕΙΡΑΙΑ,,18450,Greece,Greece,2010.0
+""" ΔΗΜΗΤΡΟΠΟΥΛΟΣ ΓΕΩΡΓΙΟΣ ΚΑΙ ΣΙΑ ΟΕ """"DIMITROPOULOS GEORGIOS KAI SΙΑ IA OE""",123845009000,gr,2013-01-15,General Partnership Company (Ομόρρυθμη Εταιρεία),,False,"527 ΠΕΤΡΟΥ ΡΑΛΛΗ, ΝΙΚΑΙΑ, ΝΙΚΑΙΑΣ / ΑΤΤΙΚΗΣ",ΑΤΤΙΚΗΣ,,18451,Greece,Greece,2013.0
+""" ΕΜΜ.ΜΑΝΩΛΑΚΗΣ & ΣΙΑ "" ΕΕ",103929702000,gr,,Limited Partnership Company (Ετερόρρυθμη Εταιρία),,True,ΒΟΥΛΙΑΓΜΕΝΗΣ & ΟΡΦΕΩΣ,,Κ.ΗΛΙΟΥΠΟΛΗ,,Greece,Greece,
+""" ΕΜΜΑΝΟΥΗΛ ΑΛΙΦΡΑΓΚΗΣ και ΣΙΑ Ε.Ε.""",054695109000,gr,,Limited Partnership Company (Ετερόρρυθμη Εταιρία),,False,"122 ΣΑΛΑΜΙΝΟΜΑΧΩΝ, ΠΕΙΡΑΙΑΣ, ΠΕΙΡΑΙΩΣ / ΑΤΤΙΚΗΣ",ΠΕΙΡΑΙΑ,,18539,Greece,Greece,
+""" ΕΝΩΣΗ ΠΑΝΤΟΠΩΛΩΝ ΦΛΩΡΙΝΑΣ "" Ε.Π.Ε",017092755000,gr,,Limited Liability Company (Εταιρεία Περιορισμένης Ευθύνης),,False,"37 ΚΑΣΤΡΙΣΙΑΝΑΚΗ, ΦΛΩΡΙΝΑ, ΦΛΩΡΙΝΑΣ / ΦΛΩΡΙΝΑΣ",ΦΛΩΡΙΝΑΣ,,53100,Greece,Greece,
+""" ΕΥΣΤΡΑΤΙΟΣ ΜΑΚΡΥΩΝΙΤΗΣ & ΣΙΑ "" ΟΕ",105416102000,gr,,General Partnership Company (Ομόρρυθμη Εταιρεία),,True,ΠΕΙΡΑΙΩΣ 48,,ΜΟΣΧΑΤΟΝ,,Greece,Greece,
+""" ΘΕΣΣΑΛΙΚΗ ΥΠΗΡΕΣΙΩΝ & ΕΠΕΝΔΥΣΕΩΝ ΜΟΝΟΠΡΟΣΩΠΗ ΕΤΑΙΡΙΑ ΠΕΡΙΟΡΙΣΜΕΝΗΣ ΕΥΘΥΝΗΣ """,121652653000,gr,2012-07-06,Limited Liability Company (Εταιρεία Περιορισμένης Ευθύνης),,False,"10 ΚΟΛΟΚΟΤΡΩΝΗ, ΤΡΙΚΑΛΑ, ΤΡΙΚΚΑΙΩΝ / ΤΡΙΚΑΛΩΝ",ΤΡΙΚΑΛΩΝ,ΤΡΙΚΑΛΑ,42100,Greece,Greece,2012.0
+""" Κ. Α. ΠΑΓΩΝΗΣ ΚΑΙ ΣΙΑ Ε.Ε. """,130648709000,gr,1965-02-11,Limited Partnership Company (Ετερόρρυθμη Εταιρία),,False,"20 ΙΕΡΑ ΟΔΟΣ, ΕΛΕΥΣΙΝΑ, ΕΛΕΥΣΙΝΟΣ / ΑΤΤΙΚΗΣ",ΑΤΤΙΚΗΣ,,19200,Greece,Greece,1965.0
+""" Κ. ΠΕΠΠΑΣ-Π. ΣΤΡΑΙΤΟΥΡΗΣ Ο.Ε.",054695209000,gr,,General Partnership Company (Ομόρρυθμη Εταιρεία),,False,"ΔΗΜΗΤΡΟΣ 39 ΚΑΙ ΕΘΝ ΑΝΤΙΣΤΑΣΕΩΣ, ΕΛΕΥΣΙΝΑ, ΕΛΕΥΣΙΝΟΣ / ΑΤΤΙΚΗΣ",ΔΥΤΙΚΗΣ ΑΤΤΙΚΗΣ,,19200,Greece,Greece,
+""" Κ.ΛΙΑΠΑΚΗΣ - Ε. ΚΥΡΚΟΥ Ο.Ε.""",030303629000,gr,,General Partnership Company (Ομόρρυθμη Εταιρεία),,False,"Κ ΦΡΟΝΤΖΟΥ, ΙΩΑΝΝΙΝΑ, ΙΩΑΝΝΙΤΩΝ / ΙΩΑΝΝΙΝΩΝ",ΙΩΑΝΝΙΝΩΝ,,45221,Greece,Greece,
+""" ΚΕΝΤΡΑ ΞΕΝΩΝ ΓΛΩΣΣΩΝ Γ. ΣΙΟΤΡΟΠΟΥ - Α. ΒΑΣΙΛΑΚΗ - Μ. ΧΡΥΣΟΧΟΙΔΗΣ ΚΑΙ ΣΙΑ ΕΕ""",124420103000,gr,1989-08-02,Limited Partnership Company (Ετερόρρυθμη Εταιρία),,False,"42 ΑΡΤΑΚΗΣ 42, ΑΘΗΝΑ, ΝΕΑΣ ΣΜΥΡΝΗΣ / ΑΤΤΙΚΗΣ",ΑΤΤΙΚΗΣ,,17124,Greece,Greece,1989.0
+""" ΚΩΝ. ΜΠΟΥΡΔΑΚΟΣ - ΑΝΤ. ΠΟΡΙΧΗΣ Ο.Ε""",094864109000,gr,,General Partnership Company (Ομόρρυθμη Εταιρεία),,False,"ΜΕΛ.ΖΑΧΑΡΙΑ, ΜΕΓΑΡΑ, ΜΕΓΑΡΕΩΝ / ΑΤΤΙΚΗΣ",ΑΤΤΙΚΗΣ,,19100,Greece,Greece,
+""" ΚΩΝΣΤΑΝΤΙΝΟΣ ΒΡΑΧΝΑΣ ΚΑΙ ΣΙΑ Ο.Ε. """,129637209000,gr,1978-10-17,General Partnership Company (Ομόρρυθμη Εταιρεία),,False,"50 ΑΙΣΩΠΟΥ, ΝΙΚΑΙΑ, ΝΙΚΑΙΑΣ / ΑΤΤΙΚΗΣ",ΑΤΤΙΚΗΣ,,18451,Greece,Greece,1978.0
+""" ΜΑΡΙΑ ΔΑΜΙΓΟΥ - ΧΡΥΣΟΥΛΑ ΔΗΜΟΥ Ο.Ε. """,129972909000,gr,2014-04-17,General Partnership Company (Ομόρρυθμη Εταιρεία),,False,"64 ΑΚΤΗ ΚΟΝΔΥΛΗ, ΠΕΙΡΑΙΩΣ / ΑΤΤΙΚΗΣ",ΑΤΤΙΚΗΣ,,18545,Greece,Greece,2014.0
+""" ΜΑΡΙΝΟΣ ΑΘΑΝΑΣΙΟΥ ΚΑΙ ΣΙΑ Ε.Ε. """,129572709000,gr,2014-03-20,Limited Partnership Company (Ετερόρρυθμη Εταιρία),,False,"ΒΟΥΛΓΑΡΗ, ΝΙΚΑΙΑΣ / ΑΤΤΙΚΗΣ",ΑΤΤΙΚΗΣ,,18452,Greece,Greece,2014.0
+""" ΝΟΒΑΣ ΣΤΑΥΡΟΣ- ΜΑΣΙΩΤΗ ΑΡΕΤΗ "" ΟΕ",017092855000,gr,2006-09-27,General Partnership Company (Ομόρρυθμη Εταιρεία),,True,"10 7ΗΣ ΝΟΕΜΒΡΙΟΥ, ΦΛΩΡΙΝΑ, ΦΛΩΡΙΝΑΣ / ΦΛΩΡΙΝΑΣ",ΦΛΩΡΙΝΑΣ,,53100,Greece,Greece,2006.0
+""" ΞΕΝΟΣ Θ. ΚΟΥΜΑΝΤΑΡΟΣ Η. Ο.Ε""",054746709000,gr,2006-06-06,General Partnership Company (Ομόρρυθμη Εταιρεία),,False,"70 ΡΗΓΑ ΦΕΡΡΑΙΟΥ, ΚΕΡΑΤΣΙΝΙ, ΚΕΡΑΤΣΙΝΙΟΥ / ΑΤΤΙΚΗΣ",ΠΕΙΡΑΙΑ,,18757,Greece,Greece,2006.0
+""" Π. ΣΤΑΘΟΠΟΥΛΟΣ -Χ. ΚΛΕΩΝΑΚΟΣ Ο.Ε""",054706109000,gr,2008-10-07,General Partnership Company (Ομόρρυθμη Εταιρεία),,False,"127 ΑΙΤΩΛΙΚΟΥ, ΠΕΙΡΑΙΑΣ, ΠΕΙΡΑΙΩΣ / ΑΤΤΙΚΗΣ",ΠΕΙΡΑΙΑ,,18544,Greece,Greece,2008.0
+""" ΠΑΠΑΝΙΚΟΛΑΟΥ Ε. - ΒΗΧΟΥ Χ. ΕΠΙΧΕΙΡΗΣΗ ΛΙΑΝΙΚΗΣ & ΧΟΝΔΡΙΚΗΣ ΔΙΑΘΕΣΗΣ ΤΡΟΦΙΜΩΝ ΚΑΙ ΠΟΤΩΝ ΚΕΙ ΕΠΙΧΕΙΡΗΣΗ ΜΑΖΙΚΗΣ ΕΣΤΙΑΣΗΣ ΠΡΟΧΕΙΡΟΥ ΓΕΥΜΑΤΟΣ Ο.Ε. """,133034809000,gr,2015-01-15,General Partnership Company (Ομόρρυθμη Εταιρεία),,False,"90 ΑΓ. ΣΟΦΙΑΣ & ΑΙΤΩΛΙΚΟΥ, ΠΕΙΡΑΙΑΣ, ΠΕΙΡΑΙΩΣ / ΑΤΤΙΚΗΣ",ΑΤΤΙΚΗΣ,,18544,Greece,Greece,2015.0
+""" ΠΑΡΑΔΕΙΣΗΣ Ν. & ΣΙΑ Ο.Ε.""",125357409000,gr,2013-05-13,General Partnership Company (Ομόρρυθμη Εταιρεία),,False,"43 ΙΕΡΑ ΟΔΟΣ, ΕΛΕΥΣΙΝΑ, ΕΛΕΥΣΙΝΟΣ / ΑΤΤΙΚΗΣ",ΑΤΤΙΚΗΣ,ΕΛΕΥΣΙΝΑ,19200,Greece,Greece,2013.0
+""" ΠΡΟΜΕΤ "" ΟΕ Β ΣΤΡΑΓΑΛΗΣ & ΣΙΑ",105416302000,gr,,General Partnership Company (Ομόρρυθμη Εταιρεία),,True,"ΛΕΩΦ ΣΥΓΓΡΟΥ 36, ΑΘΗΝΑ, ΑΘΗΝΑΙΩΝ / ΑΤΤΙΚΗΣ",,ΜΑΚΡΥΓΙΑΝΝΗ,117 42,Greece,Greece,
+""" Πελίγκος Α. & Σία "" Ε.Ε.",010595153000,gr,1982-03-10,Limited Partnership Company (Ετερόρρυθμη Εταιρία),,True,"ΔΕΛΗΓΙΩΡΓΗ, ΤΡΙΚΑΛΑ, ΤΡΙΚΚΑΙΩΝ / ΤΡΙΚΑΛΩΝ",ΤΡΙΚΑΛΩΝ,,42100,Greece,Greece,1982.0
+""" ΡΟΥΣΣΟΣ ΚΩΝ/ΝΟΣ & ΣΙΑ "" ΟΕ",103930302000,gr,,General Partnership Company (Ομόρρυθμη Εταιρεία),,True,ΠΕΙΡΑΙΩΣ 186,,Ν.ΣΦΑΓΕΙΑ,,Greece,Greece,
+""" ΣΚΥΔΡΑ FRUIT ΑΝΩΝΥΜΗ ΕΤΑΙΡΙΑ""",134795347000,gr,2015-06-02,Public Limited Company (Ανώνυμη Εταιρεία),,False,"ΑΣΠΡΟ, ΣΚΥΔΡΑ, ΣΚΥΔΡΑΣ / ΠΕΛΛΗΣ",ΠΕΛΛΗΣ,ΣΚΥΔΡΑ,58500,Greece,Greece,2015.0
+""" ΣΥΣΤΕΓΑΣΜΕΝΑ ΦΑΡΜΑΚΕΙΑ ΠΑΝΑΓΙΩΤΗ Γ. ΚΑΡΤΕΡΟΛΙΩΤΗ-ΓΕΩΡΓΙΟΥ Π. ΚΑΡΤΕΡΟΛΙΩΤΗ Ο.Ε.""",145861045000,gr,2018-04-04,General Partnership Company (Ομόρρυθμη Εταιρεία),,False,"21 ΔΗΜ ΚΟΥΤΣΙΚΑ, ΜΕΣΣΗΝΗ, ΜΕΣΣΗΝΗΣ / ΜΕΣΣΗΝΙΑΣ",ΜΕΣΣΗΝΙΑΣ,ΜΕΣΣΗΝΗ,24200,Greece,Greece,2018.0
+""" ΤΕΡΙΑΚΙΔΗ ΟΥΡΑΝΙΑ & ΣΙΑ "" ΟΕ",103928402000,gr,,General Partnership Company (Ομόρρυθμη Εταιρεία),,True,ΑΓ.ΠΑΡΑΣΚΕΥΗΣ 21,,ΧΑΛΑΝΔΡΙ,,Greece,Greece,
+""" ΤΕΤΡΑΣ - ΕΜΠΟΡΙΚΕΣ, ΒΙΟΤΕΧΝΙΚΕΣ, ΒΙΟΜΗΧΑΝΙΚΕΣ ΚΑΙ ΤΟΥΡΙΣΤΙΚΕΣ ΕΠΙΧΕΙΡΗΣΕΙΣ - ΕΤΑΙΡΕΙΑ ΠΕΡΙΩΡΙΣΜΕΝΗΣ ΕΥΘΥΝΗΣ (Ε.Π.Ε.)""",129225809000,gr,1988-06-22,Limited Liability Company (Εταιρεία Περιορισμένης Ευθύνης),,False,"19 ΜΙΚΡΑΣ ΑΣΙΑΣ, ΚΟΡΥΔΑΛΛΟΣ, ΚΟΡΥΔΑΛΛΟΥ / ΑΤΤΙΚΗΣ",ΑΤΤΙΚΗΣ,,18121,Greece,Greece,1988.0
+METTLE INTERNATIONAL LIMITED,297763,ie,1998-12-03,Single member private company limited by shares,,True,"Riverside One, Sir John Rogerson's Quay, Dublin 2, DUBLIN, DUBLIN, IRELAND",,,,Ireland,Ireland,1998.0
+""" DIAL A DRINK "" LIMITED",308893,ie,1999-06-30,Private limited by shares,,True,"193 LOWER KIMMAGE ROAD, DUBLIN 6W, KIMMAGE, DUBLIN, IRELAND",,,,Ireland,Ireland,1999.0
+""" SUPREMO RECORDINGS LIMITED """,279256,ie,1998-01-26,Private limited by shares,,True,"CANAL HOUSE, 26 GROVE ISLAND, CORBALLY LIMERICK, LIMERICK CITY. CO. LIMERICK., LIMERICK, IRELAND",,,,Ireland,Ireland,1998.0
+"""98"" BAR LIMITED",30036,ie,,Unknown,,True,,,,,,Ireland,
+"""A"" GUARD SECURITY SCREENS LIMITED",355553,ie,2002-04-10,Private limited by shares,,True,"39 CABINTEELY WAY, DUBLIN 18, CABINTEELY, DUBLIN, IRELAND",,,,Ireland,Ireland,2002.0
+"""A"" TRANSPORT LIMITED",14269,ie,1952-04-22,LTD - Private Company Limited by Shares,,False,"""ARDREW"", CO. KILDARE., ATHY, KILDARE",,,,Ireland,Ireland,1952.0
+"""AMP"" LE LIGHTS LIMITED",510201,ie,2012-02-28,LTD - Private Company Limited by Shares,,True,"10 BRUCE MANOR, DRUMALT, ARVA CO CAVAN, CO. CAVAN, CAVAN, H12FY81, IRELAND, H12FY81",,,,Ireland,Ireland,2012.0
+"""ASGARD"" RESIDENTS COMPANY LIMITED BY GUARANTEE",234539,ie,1995-06-13,CLG - Company Limited by Guarantee,,False,"5 ASGARD APARTMENTS, BALSCADDEN ROAD, DUBLIN 13, DUBLIN, D13T6F4, D13T6F4",,,,Ireland,Ireland,1995.0
+"""B.N.B."" WIRELESS LIMITED",900419,ie,1926-04-16,External company,F,True,"51 WILLIAM STREET, DUBLIN 2, DUBLIN, DUBLIN, D02KW22, Ireland, D02KW22",,,,Ireland,Ireland,1926.0
+"""BEAR"" COAL CORPORATION LIMITED",254791,ie,1996-10-01,Private limited by shares,,True,"FIRST FLOOR, 17 DAME STREET, DUBLIN 2, DUBLIN, DUBLIN, Ireland",,,,Ireland,Ireland,1996.0
+"""BLANCHE""",69276,ie,1979-06-08,Private unlimited,,True,"36 WATERLOO RD., DUBLIN 4., DUBLIN 4, DUBLIN",,,,Ireland,Ireland,1979.0
+"""CALL OF THE WILD"" OUTDOOR ACTIVITIES LIMITED",129942,ie,1988-03-10,Private limited by shares,,True,"MONEYSTOWN, NORTH ROUNDWOOD, CO. WICKLOW., BRAY, WICKLOW",,,,Ireland,Ireland,1988.0
+"""CHARTRIER""",77232,ie,1980-08-25,Private unlimited,,True,"123 ASHBOURNE INDUSTRIAL, ESTATE, ASHBOURNE CO. MEATH., ASHBOURNE, MEATH",,,,Ireland,Ireland,1980.0
+"""CLEAN AND SHEEN"" CONTRACT CLEANING LIMITED",338282,ie,2001-02-02,Single member private company limited by shares,,True,"RATHCAHILL HOUSE, SHINRONE, BIRR CO. OFFALY, BIRR, OFFALY, IRELAND",,,,Ireland,Ireland,2001.0
+"""COMPANY DIRECTOR"" MAGAZINES LIMITED",121009,ie,1987-03-26,Private limited by shares,,True,"4 LOWER HATCH STREET, DUBLIN 2., DUBLIN 2, DUBLIN",,,,Ireland,Ireland,1987.0
+"""CORONA"", LIMITED",12800,ie,,Unknown,,True,,,,,,Ireland,
+"""CROSS-GATE"" SHALLOWDRAUGHT, LIMITED TO PRO",7043,ie,,Unknown,,True,,,,,,Ireland,
+"""CUMANN MUINTIR REDESDALE TEORANTA"" (REDESDALE RESIDENTS ASSOCIATION LIMITED).",15835,ie,1955-10-06,Guarantee,,True,"7 DALE ROAD, STILLORGAN, CO. DUBLIN., DUBLIN, DUBLIN, Ireland",,,,Ireland,Ireland,1955.0
+"""CUTS & COLOURS"" LIMITED",347409,ie,2001-09-05,Private limited by shares,,True,"GLENCURRAN, CARRICKABOY, CAVAN, CAVAN, IRELAND",,,,Ireland,Ireland,2001.0
+"""CÁIRDEAS"" KILMOVEE FAMILY RESOURCE CENTRE COMPANY LIMITED BY GUARANTEE",420194,ie,2006-05-16,CLG - Company Limited by Guarantee,,False,"KILMOVEE FAMILY RESOURCE CENTRE, KILMOVEE COMMUNITY CENTRE, KILMOVEE BALLAGHADERREEN   CO MAYO, KILMOVEE, MAYO, F45HE62, IRELAND, F45HE62",,,,Ireland,Ireland,2006.0
+"""DUBLIN OPINION"" LIMITED",7562,ie,,Unknown,,True,,,,,,Ireland,
+"""EL-MANAR"" ENTERPRISE FOR HALAL MEATS LIMITED",212689,ie,1994-02-07,Private limited by shares,,True,"19 SYNGE STREET, DUBLIN 2., DUBLIN 2, DUBLIN",,,,Ireland,Ireland,1994.0
+"""EMERALD-MEDIA"" LIMITED",162359,ie,1990-07-26,Private limited by shares,,True,"2 BEAUFORT VILLAS, RATHFARNHAM, DUBLIN 14., DUBLIN, DUBLIN, Ireland",,,,Ireland,Ireland,1990.0
+"""EXPERT EDGE COMPUTER SYSTEMS LIMITED""",117389,ie,1986-10-13,Single member private company limited by shares,,True,"C/O MAZARS, HARCOURT CENTRE, BLOCK 3 HARCOURT ROAD DUBLIN 2, DUBLIN 2, DUBLIN",,,,Ireland,Ireland,1986.0
+"""EXPOSURE"" FILM AND VIDEO PRODUCTIONS LIMITED",144475,ie,1989-05-01,Guarantee company without a share capital (public),,True,"I.D.A. COMPLEX, UNIT 4 PRUSSIA STREET, DUBLIN 7., DUBLIN, DUBLIN, Ireland",,,,Ireland,Ireland,1989.0
+"""FINANCIAL & REAL-ESTATE INVESTMENT CORPORATION LIMITED""",155809,ie,1990-03-05,Private limited by shares,,True,"2 CLANWILLIAM TERRACE, DUBLIN 2., DUBLIN, DUBLIN, Ireland",,,,Ireland,Ireland,1990.0
+"""FORTUNE'S FORTUNE"" FILMS LIMITED",77762,ie,,Unknown,,True,,,,,,Ireland,
+"""FREE"" MENTAL HEALTH CAMPAIGN LIMITED",457932,ie,2008-05-27,Guarantee company without a share capital (public),,True,"10 HIGHFIELD DRIVE, MARLEY GRANGE, RATHFARNHAM DUBLIN 16, CO. DUBLIN, DUBLIN, IRELAND",,,,Ireland,Ireland,2008.0
+"""FRESH FOR YOU"" LIMITED",76122,ie,1980-06-20,Private,,True,"UNIT 10, RATHMINES TOWN CENTRE, RATHMINES DUBLIN 6., DUBLIN, DUBLIN, Ireland",,,,Ireland,Ireland,1980.0
+"""GARDEN IRELAND"" THE VERY BEST OF IRISH GARDEN PRODUCTS LIMITED",342732,ie,2001-05-04,LTD - Private Company Limited by Shares,,False,"BUTLERSLAND, NEW ROSS, WEXFORD, IRELAND",,,,Ireland,Ireland,2001.0
+"""GLEN ABHAINN"" PHASE 2 MANAGEMENT COMPANY LIMITED",403196,ie,2005-06-02,Guarantee company without a share capital (public),,True,"85 MAIN STREET, LEIXLIP, KILDARE, IRELAND",,,,Ireland,Ireland,2005.0
+"""GO TO"" COMPUTER CENTRE LIMITED",164191,ie,1990-09-14,Private limited by shares,,True,"7 SULLIVANS QUAY, CORK, CORK",,,,Ireland,Ireland,1990.0
+"""GREENACRES"" (ARKLOW) LIMITED",151470,ie,1989-11-09,LTD - Private Company Limited by Shares,,False,"Moneylands Farm, Arklow, WICKLOW, Y14 F858, Ireland, Y14 F858",,,,,Ireland,1989.0
+"""HAYDEN MEDIA PRODUCTIONS LIMITED""",113498,ie,1986-04-18,Private limited by shares,,True,"GROUND FLOOR, MARINE HOUSE, CLANWILLIAM PLACE DUBLIN 2., DUBLIN, DUBLIN, Ireland",,,,Ireland,Ireland,1986.0
+"""HINDU CULTURAL CENTRE (IRELAND)"" COMPANY LIMITED BY GUARANTEE",445725,ie,2007-09-05,CLG - Company Limited by Guarantee,,False,"20 HERMITAGE GROVE, GRANGE ROAD, RATHFARNHAM DUBLIN 16, RATHFARNHAM, DUBLIN, D16R671, IRELAND, D16R671",,,,Ireland,Ireland,2007.0
+"""IRBEL""BELGO-IRISH HORSEMEAT CORPORATION LIMITED",16453,ie,,Unknown,,True,,,,,,Ireland,
+"""IRISH GENEALOGY LIMITED""",207339,ie,1993-09-21,Guarantee company without a share capital (public),,True,"Shelbourne House, Shelbourne Road, Ballsbridge Dublin 4, DUBLIN, DUBLIN, IRELAND",,,,Ireland,Ireland,1993.0
+"""IRISH MANAGEMENT INSTITUTE"" (FORAS BAINISTIOCHTA NA H-EIREANN)",15151,ie,1954-03-31,CLG-Company Limited by Guarantee (licenced company),,False,"SANDYFORD ROAD, DUNDRUM., DUBLIN 14., DUNDRUM, DUBLIN",,,,Ireland,Ireland,1954.0
+"""IRISH TRUTH"" COMPANY LIMITED TO PRO",7294,ie,,Unknown,,True,,,,,,Ireland,
+"""IRISH WHEELMAN"" PRINTING AND PUBLISHING COMPANY LIMITED",900004,ie,1923-08-31,External company,F,True,"11/13 FINDLATER PLACE, DUBLIN 1., DUBLIN, DUBLIN, D01X2X0, Ireland, D01X2X0",,,,Ireland,Ireland,1923.0
+"""JEANETTE"" FUTURES BROKERS (IRELAND) LIMITED",174279,ie,1991-05-22,Private limited by shares,,True,"41 CENTRAL CHAMBERS, DAME COURT, DUBLIN 2, DUBLIN",,,,Ireland,Ireland,1991.0
+"""K"" CONSULTING LIMITED",277416,ie,1997-12-17,LTD - Private Company Limited by Shares,,False,"21 IDRONE TERRACE, BLACKROCK, DUBLIN, A94F6H3, A94F6H3",,,,Ireland,Ireland,1997.0
+"""K"" ESTATES LIMITED",33760,ie,1971-03-23,Private,,True,"56 LOWER O'CONNELL STREET, DUBLIN 1., DUBLIN, DUBLIN, Ireland",,,,Ireland,Ireland,1971.0
+"""K"" SHOES LIMITED",11628,ie,1946-09-23,Private limited by shares,,True,"1 STOKES PLACE, ST. STEPHENS GREEN, DUBLIN 2., DUBLIN, DUBLIN, Ireland",,,,Ireland,Ireland,1946.0
+"""KIMSEY""",69772,ie,1979-07-03,Private unlimited,,True,"36 WATERLOO ROAD, DUBLIN 4., DUBLIN, DUBLIN, Ireland",,,,Ireland,Ireland,1979.0
+"""KONDOPOGABUMPROM"" NEWSPRINT PAPER LIMITED",179731,ie,1991-10-11,Private limited by shares,,True,"41 CENTRAL CHAMBERS, DAME COURT, DUBLIN 2, DUBLIN",,,,Ireland,Ireland,1991.0
+"""KRUSTY NONE"" CATERING COMPANY LIMITED",322929,ie,2000-03-13,Private limited by shares,,True,"RERE 32 MAIN STREET, OFF NOVARA AVENUE, BRAY CO. WICKLOW, IRELAND",,,,Ireland,Ireland,2000.0
+"""LECALE ASSOCIATES LIMITED""",263404,ie,1997-03-20,Private limited by shares,,True,"FIRST FLOOR, 17 DAME STREET, DUBLIN 2., DUBLIN, DUBLIN, Ireland",,,,Ireland,Ireland,1997.0
+"""LES TAPISSERIES D'ART D'AUBUSSON"" LIMITED",159074,ie,1990-05-16,Private limited by shares,,True,"2 BEAUFORT VILLAS, DUBLIN 14, RATHFARNHAM, DUBLIN",,,,Ireland,Ireland,1990.0
+"""LIFE WATER"" CHURCH LIMITED",305597,ie,1999-04-20,Private limited by shares,,True,"SUITE 6, DURKAN HOUSE, 1/3 SANDFORD ROAD DUBLIN 6, DUBLIN 6, DUBLIN, IRELAND",,,,Ireland,Ireland,1999.0
+"""""Auzulejas"" Horse Sport Park""",40008328853,lv,2023-09-25,Biedrība,,,"""Auzulejas"", Baldones pag., Ķekavas nov.",,,,Latvia,Latvia,2023.0
+"""""BHAKTI JOGA"" LIEPĀJAS DRAUDZE""",90000906585,lv,2000-05-18,Draudze,,,"Mucenieku iela 3A, Liepāja",,,,Latvia,Latvia,2000.0
+"""""BIRZĪTES"" - 10""",40008254412,lv,2016-08-03,Biedrība,,,"""Birzītes"" - 10, Zaube, Zaubes pag., Cēsu nov.",,,,Latvia,Latvia,2016.0
+"""""CENTRS"" KRISTĪNES LAPIŅAS BIROJS"" IK",40002099760,lv,2003-11-14,Individuālais komersants,,True,"Slokas iela 189-10, Rīga",,,,Latvia,Latvia,2003.0
+"""""CENTRUS"" Dzīvokļu īpašnieku biedrība""",40008237412,lv,2015-05-06,Biedrība,,,"Dzirnavu iela 68 k-2, Rīga",,,,Latvia,Latvia,2015.0
+"""""DRAUDZE ""TALSU KRISTĪGĀ SADRAUDZĪBA""""",99500000094,lv,2003-02-12,Draudze,,,"""Efatas"", Jaunzemes, Ģibuļu pag., Talsu nov.",,,,Latvia,Latvia,2003.0
+"""""Dadža"" pārliekamais sienas kalendārs 1992.gadam""",000740020,lv,1991-10-03,Masu informācijas līdzeklis,,,"Balasta dambis 3, Rīga",,,,Latvia,Latvia,1991.0
+"""""DanceSTAR"", balles deju studija""",40008182260,lv,2011-08-19,Biedrība,,,"Lielais prospekts 28A, Jūrmala",,,,Latvia,Latvia,2011.0
+"""""Dzēses"" tautas deju klubs""",40008181566,lv,2011-08-02,Biedrība,,,"Andreja Upīša iela 1, Skrīveri, Skrīveru pag., Aizkraukles nov.",,,,Latvia,Latvia,2011.0
+"""""EKSPRESS"" RIŽSKIJ DOROŽNIJ ŽURNAL""",000702471,lv,2000-07-07,Masu informācijas līdzeklis,,True,"Brīvības iela 48/50-306, Rīga",,,,Latvia,Latvia,2000.0
+"""""GENESIS""-LABU LIETU SĀKUMS""",40008081565,lv,2004-04-08,Sabiedriskā organizācija,,True,"Ozolu iela 15-19, Iecava, Iecavas pagasts, Iecavas novads, Bauskas rajons",,,,Latvia,Latvia,2004.0
+"""""Jaunceltnes"" māja Cempos""",40008175095,lv,2011-03-22,Biedrība,,,"""Jaunceltnes"" - 6, Cempi, Brenguļu pag., Valmieras nov.",,,,Latvia,Latvia,2011.0
+"""""JĒZUS KRISTUS ATKALNĀKŠANAS"" BALVU BAPTISTU DRAUDZE""",99500000056,lv,2000-12-05,Draudze,,,"Pārupes iela 13 - 1, Tilža, Tilžas pag., Balvu nov.",,,,Latvia,Latvia,2000.0
+"""""KAULIŅU"" ATTĪSTĪBAS BIEDRĪBA""",40008134190,lv,2008-11-26,Biedrība,,True,"""Kauliņi"", Mazozoli, Mazozolu pag., Ogres nov.",,,,Latvia,Latvia,2008.0
+"""""LexisLab"" valodu laboratorija"" IK",40002223194,lv,2025-06-12,Individuālais komersants,,,"Liepu iela 3 - 15, Mežciems, Jaunsvirlaukas pag., Jelgavas nov.",,,,,Latvia,2025.0
+"""""Mieram tuvu"" Solidaritātes fonds""",50008109231,lv,2006-12-14,Nodibinājums,,,"Melnsila iela 26 - 29, Rīga",,,,Latvia,Latvia,2006.0
+"""""Nano SEC"" kartinga komanda""",40008113038,lv,2007-03-21,Biedrība,,,"Pulkveža Brieža iela 76A, Sigulda, Siguldas nov.",,,,Latvia,Latvia,2007.0
+"""""Ozolzīle"" Apes izglītības attīstībai""",40008189589,lv,2012-02-06,Biedrība,,,"Pasta iela 26, Ape, Smiltenes nov.",,,,Latvia,Latvia,2012.0
+"""""SORIG"" Meditācijas un dziedniecības centrs""",40008110421,lv,2007-01-19,Biedrība,,,"Tomsona iela 21 - 3, Rīga",,,,Latvia,Latvia,2007.0
+"""""Smaidiņš"" fonds bērnu attīstībai un izglītībai""",50008161171,lv,2010-06-08,Nodibinājums,,,"""Krāces"" - 4, Daugmale, Daugmales pag., Ķekavas nov.",,,,Latvia,Latvia,2010.0
+"""""United Animal Care"" fonds""",40008310230,lv,2021-09-15,Nodibinājums,,,"Dravnieku iela 4 - 23, Rīga",,,,Latvia,Latvia,2021.0
+"""""Ķer un servē bumbu"" Ogres novada ""Salamandras""""",40008342594,lv,2024-12-18,Biedrība,,,"Saules iela 4, Ķegums, Ogres nov.",,,,Latvia,Latvia,2024.0
+"""0 1 Kalna8"" SIA",45403048809,lv,2017-11-14,Sabiedrība ar ierobežotu atbildību,,,"Rīgas iela 19A - 6, Bauska, Bauskas nov.",,,,Latvia,Latvia,2017.0
+"""0 FORTŪNA"" SIA",40203220855,lv,2019-07-17,Sabiedrība ar ierobežotu atbildību,,,"Merķeļa iela 17/19 - 3, Rīga",,,,Latvia,Latvia,2019.0
+"""1 1 A SOLLERTIA"" SIA",40103210051,lv,2009-01-14,Sabiedrība ar ierobežotu atbildību,,,"Riču iela 6, Siguļi, Carnikavas pag., Ādažu nov.",,,,Latvia,Latvia,2009.0
+"""1 Dollar Mission Fonds""",40008222883,lv,2014-04-07,Nodibinājums,,,"Strēlnieku iela 9 - 7, Rīga",,,,Latvia,Latvia,2014.0
+"""1, 2, 3 - Sākam"" SIA",44103113176,lv,2017-09-14,Sabiedrība ar ierobežotu atbildību,,,"""Kurpnieki"", Stalbe, Stalbes pag., Cēsu nov.",,,,Latvia,Latvia,2017.0
+"""1. Akords""",40008155135,lv,2010-03-08,Biedrība,,,"""Ceļmalas"", Prauliena, Praulienas pag., Madonas nov.",,,,Latvia,Latvia,2010.0
+"""1.Maija iela 3""",40008282187,lv,2018-11-22,Biedrība,,,"1. maija iela 3 - 4, Emburga, Salgales pag., Jelgavas nov.",,,,Latvia,Latvia,2018.0
+"""1.bulvāris"" IK",40002121402,lv,2006-08-18,Individuālais komersants,,True,"Krišjāņa Barona iela 76/33, Rīga",,,,Latvia,Latvia,2006.0
+"""10 PPM"" SIA",40103935884,lv,2015-10-05,Sabiedrība ar ierobežotu atbildību,,,"Lizuma iela 1 k-12, Rīga",,,,Latvia,Latvia,2015.0
+"""100 labie darbi""",40008149321,lv,2009-11-09,Biedrība,,True,"Partijas iela ""Ciņi"", Renda, Rendas pag., Kuldīgas nov.",,,,Latvia,Latvia,2009.0
+"""1000 sekretov""",000740518,lv,2022-05-10,Masu informācijas līdzeklis,,,,,,,,Latvia,2022.0
+"""1001 krossvord""",000740567,lv,2024-03-20,Masu informācijas līdzeklis,,,,,,,,Latvia,2024.0
+"""100SaulesVikingi"" IK",40002203910,lv,2023-05-11,Individuālais komersants,,,"Saules iela 100, Grobiņa, Dienvidkurzemes nov.",,,,Latvia,Latvia,2023.0
+"""108 IZAUGSMES"" SIA",40203265751,lv,2020-10-08,Sabiedrība ar ierobežotu atbildību,,,"Dundagas iela 12 - 6, Talsi, Talsu nov.",,,,Latvia,Latvia,2020.0
+"""108"" SIA",40103291885,lv,2010-05-14,Sabiedrība ar ierobežotu atbildību,,,"Zeltiņu iela 82A, Mārupe, Mārupes nov.",,,,,Latvia,2010.0
+"""109 NOVADI.LV""",40008161574,lv,2010-06-17,Biedrība,,,"Lubānas iela 20 - 6, Rīga",,,,Latvia,Latvia,2010.0
+"""10it risinājumi""",40008279543,lv,2018-08-22,Biedrība,,,"Mātera iela 33 - 65, Jelgava",,,,Latvia,Latvia,2018.0
+"""11. NOVEMBRIS""",40008311804,lv,2021-11-28,Biedrība,,,"""Krastkalni"", Mālpils pag., Siguldas nov.",,,,Latvia,Latvia,2021.0
+"""112"" SIA",50003800181,lv,2006-02-02,Sabiedrība ar ierobežotu atbildību,,True,"""Dzintarkrasti"" - 16, Loja, Sējas pag., Saulkrastu nov.",,,,Latvia,Latvia,2006.0
+"""115 Kaimiņi""",40008153505,lv,2010-02-05,Biedrība,,True,"Cialkovska iela 14 - 85, Daugavpils",,,,Latvia,Latvia,2010.0
+"""12 Kalnieši""",40008172173,lv,2011-02-08,Biedrība,,,"Kalna iela 37 - 6, Madona, Madonas nov.",,,,Latvia,Latvia,2011.0
+"""12 krasti""",40008126259,lv,2008-04-07,Biedrība,,,"Skolas iela 4, Ventspils",,,,Latvia,Latvia,2008.0
+"""12.māja""",40008269102,lv,2017-10-05,Biedrība,,,"Čiekurkalna 4. šķērslīnija 12 k-2 - 92, Rīga",,,,Latvia,Latvia,2017.0
+"""1234.LV""",40008126117,lv,2008-04-03,Biedrība,,,"Dzirnavu iela 140-4, Rīga",,,,Latvia,Latvia,2008.0
+"""13 Palmu nams""",40008298648,lv,2020-07-09,Biedrība,,,"Palmu iela 13 - 5, Rīga",,,,Latvia,Latvia,2020.0
+"""13 rajons""",40008201699,lv,2012-11-20,Biedrība,,,"Valmieras iela 13 - 8, Zilaiskalns, Zilākalna pag., Valmieras nov.",,,,Latvia,Latvia,2012.0
+"""13. janvāris""",40008152247,lv,2010-01-11,Biedrība,,,"Lastādijas iela 54, Rīga",,,,Latvia,Latvia,2010.0
+"""13.promociju padome-mehi""",40008106271,lv,2006-09-18,Biedrība,,,"Ezermalas iela 6, Rīga",,,,Latvia,Latvia,2006.0
+"""CMG BRAZIL"" S.à r.l., SPF",B182833,lu,2013-12-24,Société à responsabilité limitée,,,"58, rue Charles Martel
+L - 2134 Luxembourg",,,,Luxembourg,Luxembourg,2013.0
+"""LANDSIS GEIE"" / Land Statistical Information Systems GEIE",D53,lu,1998-09-25,Groupement européen d'intérêt économique,,,,,,,,Luxembourg,1998.0
+"""LIEWENsBÜHN - Konscht a Bildung"" a.s.b.l.",F8149,lu,2009-11-23,Association sans but lucratif,,,,,,,,Luxembourg,2009.0
+"""Starfish S.à.r.l.""",B222260,lu,2018-03-01,Société à responsabilité limitée,,,"3, route du Vin
+L - 6794 Grevenmacher",,,,Luxembourg,Luxembourg,2018.0
+#BeHuman Luxembourg A.s.b.l.,F10538,lu,2015-10-07,Association sans but lucratif,,,,,,,,Luxembourg,2015.0
+#Luxusbuerg a.s.b.l.,F2385,lu,2006-06-28,Association sans but lucratif,,,,,,,,Luxembourg,2006.0
+#play14 A.s.b.l.,F11335,lu,2017-05-22,Association sans but lucratif,,,,,,,,Luxembourg,2017.0
+&coll SARL,B148263,lu,2009-09-29,Société à responsabilité limitée,,True,"19, Parc d'activité Syrdall
+L - 5365 Munsbach",,,,Luxembourg,Luxembourg,2009.0
+"(Association des) Ancien(ne)s et Ami(e)s du LTMA, a.s.b.l.",F9755,lu,2013-11-20,Association sans but lucratif,,,,,,,,Luxembourg,2013.0
+(DS)2 S.A.,B42257,lu,1992-12-28,Société anonyme,,,"19-21, Route d'Arlon
+L - 8009 Strassen",,,,Luxembourg,Luxembourg,1992.0
+(ES)² GROUP S.A.,B179355,lu,2013-08-08,Société anonyme,,,"72, rue du Cimetière
+L - 1338 Luxembourg",,,,Luxembourg,Luxembourg,2013.0
+(ITAF) ITALIANA TURISMI AGRICOLI FABER S.A.,B72217,lu,1999-11-10,Société anonyme,,True,"38, Boulevard Napoléon Ier
+L - 2210 Luxembourg",,,,Luxembourg,Luxembourg,1999.0
+(f)Utile,B224064,lu,2018-05-08,Société à responsabilité limitée,,,"80, route de Longwy
+L - 8060 Bertrange",,,,Luxembourg,Luxembourg,2018.0
++ Impakt Luxembourg S.à r.l.,B198768,lu,2015-07-28,Société à responsabilité limitée,,,"37, rue de Canach
+L - 5368 Schuttrange",,,,Luxembourg,Luxembourg,2015.0
+...Tastiks asbl,F10777,lu,2016-04-05,Association sans but lucratif,,,,,,,,Luxembourg,2016.0
+001 invest WORLD OPPORTUNITIES FUND,B75911,lu,2000-05-30,Société d'investissement à capital variable,,True,"14, BOULEVARD ROYAL
+L - 2449 LUXEMBOURG",,,,Luxembourg,Luxembourg,2000.0
+01 Invest s.à r.l.,B158236,lu,2011-01-21,Société à responsabilité limitée,,,"2, rue Jean Engling
+L - 1466 Luxemburg",,,,Luxembourg,Luxembourg,2011.0
+01 PLIROFORIKI INTERNATIONAL S.A.,B81273,lu,2001-04-05,Société anonyme,,,"50, Val Fleuri
+L - 1526 Luxembourg",,,,Luxembourg,Luxembourg,2001.0
+02FEEL,B127667,lu,2007-05-18,Société anonyme,,True,"2, Toodlermillen
+L - 9181 Tadler",,,,Luxembourg,Luxembourg,2007.0
+03 L S.A.,B192221,lu,2014-12-01,Société anonyme,,,"12-14, Boulevard d'Avranches
+L - 1160 Luxembourg",,,,Luxembourg,Luxembourg,2014.0
+037FIN S.à r.l.,B187489,lu,2014-06-05,Société à responsabilité limitée,,,"100a, Route D'Arlon
+L - 1150 Luxembourg",,,,Luxembourg,Luxembourg,2014.0
+04 IGOR.NANCE S.à r.l.,B183590,lu,2014-01-21,Société à responsabilité limitée,,,"71, Rue de Bridel
+L - 7217 Bereldange",,,,Luxembourg,Luxembourg,2014.0
+04 RETAIL S.À R.L,B196946,lu,2015-05-21,Société à responsabilité limitée,,,"34, Rue Notre Dame
+L - 2240 Luxembourg",,,,Luxembourg,Luxembourg,2015.0
+05 IGOR.NANCE S. à r.l.,B197368,lu,2015-06-05,Société à responsabilité limitée,,,"71, rue de Bridel
+L - 7217 Bereldange",,,,Luxembourg,Luxembourg,2015.0
+05 RETAIL S.à R.L,B199905,lu,2015-09-14,Société à responsabilité limitée,,,"59, Grand-Rue
+L - 1661 Luxembourg",,,,Luxembourg,Luxembourg,2015.0
+06.06.2007 Investment,E3707,lu,2007-07-18,Société civile,,,,,,,,Luxembourg,2007.0
+0606 Investments S.à r.l.,B207143,lu,2016-06-30,Société à responsabilité limitée,,,"15, rue Edward Steichen
+L - 2540 Luxembourg",,,,Luxembourg,Luxembourg,2016.0
+0800 NETSHOP S.A.,B73876,lu,2000-02-04,Société anonyme,,True,"Rue des Scillas
+L - 2529 Howald",,,,Luxembourg,Luxembourg,2000.0
+0875 International S.A.,B188463,lu,2014-07-11,Société anonyme,,,"24, rue Saint Mathieu
+L - 2138 Luxembourg",,,,Luxembourg,Luxembourg,2014.0
+09 Generation Sàrl,B125872,lu,2007-04-16,Société à responsabilité limitée,,True,"7A, Rue Principale
+L - 6165 Ernster",,,,Luxembourg,Luxembourg,2007.0
+1 2 3 CONCEPT S. à r.l.,B114116,lu,2006-02-15,Société à responsabilité limitée,,True,"90, Rue de Hollerich
+L - 1740 Luxembourg",,,,Luxembourg,Luxembourg,2006.0
+1 2 3 LUXEMBOURG S.A.,B55215,lu,1996-06-28,Société anonyme,,,"2, rue Alphonse Weicker
+L - 2721 Luxembourg",,,,Luxembourg,Luxembourg,1996.0
+1 Day International S.à r.l.,B189104,lu,2014-08-04,Société à responsabilité limitée,,,"35, Avenue Monterey
+L - 2163 Luxembourg",,,,Luxembourg,Luxembourg,2014.0
+"1 Hotels & Residences Global Licensing (Lux), SARL",B131375,lu,2007-09-13,Société à responsabilité limitée,,True,"5, Rue Guillaume Kroll
+L - 1882 Luxembourg",,,,Luxembourg,Luxembourg,2007.0
+1 Leadenhall Investments S.à r.l.,B214702,lu,2017-05-15,Société à responsabilité limitée,,,"5, rue Guillaume Kroll
+L - 1882 Luxembourg",,,,Luxembourg,Luxembourg,2017.0
+1 Mabledon Place S.à r.l.,B194945,lu,2015-03-03,Société à responsabilité limitée,,,"121, Avenue de la Faïencerie
+L - 1511 Luxembourg",,,,Luxembourg,Luxembourg,2015.0
+1 Madison Properties (Luxembourg) S.à r.l.,B200056,lu,2015-09-21,Société à responsabilité limitée,,,"35, Boulevard Prince Henri
+L - 1724 Luxembourg",,,,Luxembourg,Luxembourg,2015.0
+1 TRADE S.à r.l.,B81513,lu,2001-04-20,Société à responsabilité limitée,,True,"14, Rue des Lilas
+L - 6454 Echternach",,,,Luxembourg,Luxembourg,2001.0
+1 VISION S.à r.l.,B157184,lu,2010-12-09,Société à responsabilité limitée,,,"16, Place du Marché
+L - 5555 Remich",,,,Luxembourg,Luxembourg,2010.0
+1'NSPIRATIONS SA,B204651,lu,2016-03-16,Société anonyme,,,"6, rue d'Arlon
+L - 8399 Windhof",,,,Luxembourg,Luxembourg,2016.0
+"1, 2, 3, Sourire S.à r.l.",B139978,lu,2008-07-16,Société à responsabilité limitée,,,"37, Allée Léopold Goebel
+L - 1635 Luxembourg",,,,Luxembourg,Luxembourg,2008.0
+"1, Inc. Lux S.A.",B184757,lu,2014-02-26,Société anonyme,,,"1, Boulevard de la Foire
+L - 1528 Luxembourg",,,,Luxembourg,Luxembourg,2014.0
+"1,2,3 SOLEIL LUXEMBOURG asbl",F7914,lu,2009-04-01,Association sans but lucratif,,,,,,,,Luxembourg,2009.0
+1-2-3 LASS,B50297,lu,1995-02-24,Société à responsabilité limitée,,,"3, Rue de la Reine
+L - 2418 Luxembourg",,,,Luxembourg,Luxembourg,1995.0
+1-DAYS S.à.r.l.,B144860,lu,2009-02-25,Société à responsabilité limitée,,True,"16, rue de la Halte
+L - 8715 Everlange",,,,Luxembourg,Luxembourg,2009.0
+1. Europäischer Sportclub,F4007,lu,2006-08-08,Association sans but lucratif,,,,,,,,Luxembourg,2006.0
+1. SIF-SCS,B198695,lu,2015-07-24,Société en commandite simple  Société d'investissement à capital variable - Fonds d'investissement spécialisé,,,"3, boulevard Royal
+L - 2449 Luxembourg",,,,Luxembourg,Luxembourg,2015.0
+1. Sicav,B96344,lu,2003-10-24,Société d'investissement à capital variable,,,"4, Rue Thomas Edison
+L - 1445 Strassen",,,,Luxembourg,Luxembourg,2003.0
+1.ARC-LUX,B172457,lu,2012-11-05,Société anonyme,,,"21, rue Glesener
+L - 1631 Luxembourg",,,,Luxembourg,Luxembourg,2012.0
+"1.FC Gruefwiss Leideleng, a.s.b.l.",F7796,lu,2008-12-09,Association sans but lucratif,,,,,,,,Luxembourg,2008.0
+"""BE-IT"" LIMITED",C47654,mt,2009-09-03,,,True,"22, SUITE 1, TOWER STREET,",MSIDA,,,Malta,Malta,2009.0
+"""DE EIK"" B.V.",OC1021,mt,2016-03-14,,,,"113B, PAOLA ROAD,",TARXIEN,,,Malta,Malta,2016.0
+"""TA GNIEDI"" PROPERTY LTD",C34558,mt,2004-09-06,,,,"SUMMERBREEZE APARTMENTS, FLAT 2, TRIQ L-IMHAR, QAWRA,",ST. PAUL'S BAY,,,Malta,Malta,2004.0
+"""WALTER VOLL"" LTD",C51864,mt,2011-02-01,,,,143 Vjal il-Blue Grotto,ZURRIEQ,,,Malta,Malta,2011.0
+''CONFIC'' LTD.,C52178,mt,2011-03-04,,,,"4, BISHOP PACE STREET,",MELLIEHA,,,Malta,Malta,2011.0
+'EDUARD MELIX' EXCLUSIVE JEWELRY LIMITED,C35815,mt,2005-03-09,,,,"MAYFLOWERS, MANS/BLK. 1/FLAT 3, BISAZZA STREET,",,,,Malta,Malta,2005.0
+(GIBRALTAR) TRUSTEES LIMITED,OC1035,mt,2016-03-10,,,,"NO. 2, GERALDU FARRUGIA STREET",ZEBBUG,,,Malta,Malta,2016.0
+(MEI) Mediterranean Engineering Innovation Ltd.,C105546,mt,2023-06-05,,,,"MAIS 1 HAMLET COURT, TRIQ GNIEN XIBLA,",XAGHRA (GOZO),,,Malta,Malta,2023.0
+(SIH) Star Invest Holdings Limited,C61006,mt,2013-07-01,,,,"VILLA MALITAH, MEDITERRANEAN STREET, THE VILLAGE,",ST. JULIANS,,,Malta,Malta,2013.0
+.KWG EMOTIONAL DESIGN LIMITED,C46840,mt,,,,False,IN-NAQQAX ROAD ,MOSTA,,,Malta,Malta,
+004 INTERNATIONAL LIMITED,C80214,mt,2017-03-29,,,,"35, ST BARBARA BASTIONS,",VALLETTA,,,Malta,Malta,2017.0
+005 ENTERTAINMENT LIMITED,C38838,mt,2006-06-01,,,,"BELMONTE HEIGHTS, BLOCK F, FLAT 15, SANT INJAZJU STREET",SLIEMA,,,Malta,Malta,2006.0
+01AS FRENCH DESK LTD,C99837,mt,2021-09-28,,,,"123, Melita Street",VALLETTA,,,Malta,Malta,2021.0
+0208 INVESTMENTS LIMITED,C37580,mt,2005-12-16,,,,"Fort Business Centre, Level 2 Mriehel Bypass",BIRKIRKARA,,,Malta,Malta,2005.0
+0700 LTD,C60305,mt,2013-05-03,,,,"175, LEVEL 1, INDEPENDENCE AVENUE,",MOSTA,,,Malta,Malta,2013.0
+08 GROUP LIMITED,C77223,mt,2016-09-13,,,False,"203, INDEPENDENCE AVENUE,",ZURRIEQ,,,Malta,Malta,2016.0
+093 FAST FERRY LEASING LIMITED,C95808,mt,2020-06-08,,,,"FIRST FLOOR, ORANGE POINT, DUN KARM STREET, BIRKIRKARA BY-PASS,",BIRKIRKARA,,,Malta,Malta,2020.0
+099LOTTO HOLDINGS LIMITED,C87976,mt,2018-08-27,,,,"THE BASTIONS OFFICES NO.2, EMVIN CREMONA STREET,",FLORIANA,,,Malta,Malta,2018.0
+099LOTTO OPERATIONS LIMITED,C87978,mt,2018-08-27,,,,THE BASTIONS OFFICE NO. 2 EMVIN CREMONA STREET,FLORIANA,,,Malta,Malta,2018.0
+0TO1 INNOVATIONS LTD,C85719,mt,2018-04-09,,,,"111, ST. TERESA, TRIQ IT-TORRI,",BIRKIRKARA,,,Malta,Malta,2018.0
+1 BOX OFFICE LIMITED,C94184,mt,2019-12-09,,,False,"First floor, Standard House, Birkirkara Hill",ST. JULIANS,,,Malta,Malta,2019.0
+1 LEVER LTD,C66242,mt,2014-08-04,,,,"15, THELMA, TRIQ SAN GAKBU,",SLIEMA,,,Malta,Malta,2014.0
+1 MEDIA PROCESSING LIMITED,C67470,mt,2014-11-05,,,,"24, WINDSOR STREET,",SLIEMA,,,Malta,Malta,2014.0
+1 SHIPPING AND CRUISES LTD,C61128,mt,2013-07-11,,,,"1, FLOOR 2, FALZUN STREET C/W NAXXAR ROAD",BIRKIRKARA,,,Malta,Malta,2013.0
+1 STEP AHEAD GROUP LTD,C58040,mt,2012-10-29,,,,"THE PENTHOUSE, CAROLINA COURT, TRIQ GUZEPPI CALI",TA' XBIEX,,,Malta,Malta,2012.0
+1 Stop Property Services Ltd,C34353,mt,2004-07-27,,,False,"5, TRIQ XEHDA,",NAXXAR,,,Malta,Malta,2004.0
+10 Management Investments Ltd.,C105488,mt,2023-06-01,,,,"36, Flat 3, Triq Abbate Savoia",NAXXAR,,,Malta,Malta,2023.0
+10 Management Limited,C84307,mt,2018-01-12,,,,"36, Flat 3 Triq Abbate Savoia",NAXXAR,,,Malta,Malta,2018.0
+10 Q 21 CORPORATION LIMITED,C96838,mt,2020-12-11,,,,"LEVEL 6- SUITE 1, PLAZA COMMERCIAL CENTRE, BISAZZA STREET",SLIEMA,,,Malta,Malta,2020.0
+10/10 BILLING LIMITED,C55375,mt,2012-02-20,,,,"14/12B, VINCENTI BUILDINGS, STRAIT STREET,",VALLETTA,,,Malta,Malta,2012.0
+100 THE WHITEHOUSE LTD,C91941,mt,2019-05-27,,,,"100, THE WHITEHOUSE, ST. RITA STREET,",RABAT,,,Malta,Malta,2019.0
+1002 LIMITED,C44895,mt,2008-08-12,,,,"14, ZACHARY STREET",VALLETTA,,,Malta,Malta,2008.0
+100BITES LIMITED,C70132,mt,2015-04-20,,,,"NO 40, ORDINANCE STREET",VALLETTA,,,Malta,Malta,2015.0
+101 INVESTMENTS (MALTA) LIMITED,C97093,mt,2020-11-02,,,,"168, ST. CHRISTOPHER STREET,",VALLETTA,,,Malta,Malta,2020.0
+101 INVESTMENTS HOLDING (MALTA) LIMITED,C97092,mt,2020-11-02,,,,"168, ST. CHRISTOPHER STREET,",VALLETTA,,,Malta,Malta,2020.0
+101 INVESTMENTS LIMITED,C57207,mt,,,,False,"119, TOWN'S SQUARE, QUI SI SANA,",,,,Malta,Malta,
+1011 HOLDINGS LIMITED,C96437,mt,2020-08-25,,,,"295, CONSTITUTION STREET,",MOSTA,,,Malta,Malta,2020.0
+102 CONVENIENCE LIMITED,C91647,mt,2019-04-30,,,,"78, TRIQ IL-KBIRA,",DINGLI,,,Malta,Malta,2019.0
+107 HOLDINGS COMPANY LIMITED,C94191,mt,2020-01-21,,,,"64, EXCALIBUR, B. BONTADINI STREET,",BIRKIRKARA,,,Malta,Malta,2020.0
+107 MANAGEMENT COMPANY LIMITED,C94205,mt,2020-01-21,,,,"64, ""EXCALIBUR"", B. BONTADINI STREET,",BIRKIRKARA,,,Malta,Malta,2020.0
+10K60 TECHNOLOGY LIMITED,C103878,mt,2023-01-03,,,,"FLAT 5, 242, TOWER ROAD,",SLIEMA,,,Malta,Malta,2023.0
+10TH MAN PICTURES LIMITED,C101424,mt,2022-02-23,,,,"19-25, CONSERVATORY STREET,",FLORIANA,,,Malta,Malta,2022.0
+11 SKY LIMITED,C97581,mt,2020-12-15,,,,"ARAGON HOUSE BUSINESS CENTRE, DRAGONARA ROAD,",ST. JULIANS,,,Malta,Malta,2020.0
+11.11. HOLDINGS (MALTA) LIMITED,C52834,mt,2011-05-12,,,True,"VINCENTI BUILDINGS, 28/19 (SUITE NO. 973) STRAIT STREET,",VALLETTA,,,Malta,Malta,2011.0
+111 Consulting Limited,C92507,mt,2019-08-02,,,,"Aster Court, Flat 6 Triq Il-Kbira",GHARGHUR,,,Malta,Malta,2019.0
+111 LIMITED,C34581,mt,2004-09-10,,,,"OFFICE 10, LEVEL 4, QUANTUM HOUSE, 75, ABATE RIGORD STREET,",TA' XBIEX,,,Malta,Malta,2004.0
+111 PLUS LIMITED,C86840,mt,2018-06-15,,,,"LEVEL G (OFFICE 1/0061), QUANTUM HOUSE 75, ABATE RIGORD STREET,",TA' XBIEX,,,Malta,Malta,2018.0
+111 TECHNOLOGY LIMITED,C37854,mt,2006-01-20,,,,"Office 1, Level 4, Quantum House, 75, Abate Rigord Street,",TA' XBIEX,,,Malta,Malta,2006.0
+114 THE STRAND COMPANY LIMITED,C27972,mt,,,,False,"COBALT HOUSE, FLOOR 1, NOTABILE ROAD,",BIRKIRKARA,,,Malta,Malta,
+11433 SOLUTIONS HOLDINGS LTD,C83611,mt,2017-11-22,,,,"THE PLAZA COMMERCIAL CENTRE, LEVEL 8, SUITE 5, BISAZZA STREET,",SLIEMA,,,Malta,Malta,2017.0
+ Bien Buro Installatie en Netwerken B.V.,27233394,nl,,Besloten Vennootschap,,False,Industrieweg 8 B,Maassluis,,3144CH,Netherlands,Netherlands,
+ KIJK coaching,73430137,nl,,,,False,Oude Brinkweg 37,Haren Gn,,9751RJ,Netherlands,Netherlands,
+ Manna,14092326,nl,,,,False,Mw van der Meijstraat 6,Geulle,,6243AP,Netherlands,Netherlands,
+ Mooi-Handgemaakt ,56198884,nl,,,,True,Lepelblad 113,Purmerend,,1441VH,Netherlands,Netherlands,
+Bewust sociaal op web,73674400,nl,,,,False,Oranjehof 62,Utrecht,,3511RZ,Netherlands,Netherlands,
+Dea training en coaching,70939063,nl,,,,False,Cornelis van Beverenstr 42,Dordrecht,,3311LJ,Netherlands,Netherlands,
+Direct Incassobureau B.V.,24318524,nl,,Besloten Vennootschap,,True,Celsiuslaan 10,Utrecht,,3553HM,Netherlands,Netherlands,
+DuSucre B.V.,61841366,nl,,Besloten Vennootschap,,True,,,,,,Netherlands,
+EIK CONSULTANCY,27235498,nl,,,,True,OUDRAADTWEG 5,DELFT,,2612SL,Netherlands,Netherlands,
+Fuzz,56225741,nl,,,,True,Ambachtsherenstraat 11,Valkenburg,,2235VE,Netherlands,Netherlands,
+Heller B.V.,75002957,nl,,Besloten Vennootschap,,False,,,,,,Netherlands,
+Houdoe,51434768,nl,,,,True,Bisschopsmolenstraat 61,Etten-Leur,,4876AJ,Netherlands,Netherlands,
+M Infra Management B.V.,81367805,nl,,Besloten Vennootschap,,False,,,,,,Netherlands,
+Make,08161336,nl,,,,True,Blauwgras 24,Stroe,,3776NC,Netherlands,Netherlands,
+Mercure Advies,24319584,nl,,,,True,Hoogstraat 98 e,Rotterdam,,3011PT,Netherlands,Netherlands,
+Mira Marketing,34213026,nl,,,,True,Sterrelaan 32 A,Hilversum,,1217PS,Netherlands,Netherlands,
+Pet panden B.V.,04027689,nl,,Besloten Vennootschap,,False,Hoofdstraat 83 - 87,Hoogeveen,,7902EC,Netherlands,Netherlands,
+RDB Timmerwerken,33234277,nl,,,,False,Meloenenstraat 7,Amsterdam,,1033SZ,Netherlands,Netherlands,
+STRAAL stralend sterk,75938197,nl,,,,False,Pieter Koppesstraat 10 A,Spierdijk,,1641LS,Netherlands,Netherlands,
+Sotto,17132608,nl,,,,False,Narcissenlaan 12,Sint-Michielsgestel,,5271PA,Netherlands,Netherlands,
+Strictly B.V.,33282171,nl,,Besloten Vennootschap,,True,Postbus 29718 KvK KwalZorg,'s-Gravenhage,,2502LS,Netherlands,Netherlands,
+T-Sounds,55073166,nl,,,,False,Grotestraat 198,Borne,,7622GS,Netherlands,Netherlands,
+WOW,64409406,nl,,,,False,Gronausestraat 979,Enschede,,7534AD,Netherlands,Netherlands,
+compu-Ask,24269175,nl,,,,True,Batavierlaan 107,Nieuwerkerk ad IJssel,,2912SE,Netherlands,Netherlands,
+d;samen,39096333,nl,,,,False,Ambachtsmark 153,Almere,,1355EN,Netherlands,Netherlands,
+ets Anders,75849526,nl,,,,True,van Heemstraweg 78,Winssen,,6645KJ,Netherlands,Netherlands,
+fk,27174310,nl,,,,False,Laan van Zeestraten 20,Maasland,,3155DM,Netherlands,Netherlands,
+lse B.V.,87814951,nl,,Besloten Vennootschap,,False,,,,,,Netherlands,
+lse Marketing & Communicatie,74583077,nl,,,,False,Kanteklaarpad 21,Amersfoort,,3813KR,Netherlands,Netherlands,
+magine,50174371,nl,,,,True,Noorderhoeve 8,Barendrecht,,2993TP,Netherlands,Netherlands,
+mpact,62136038,nl,,,,False,Parallelweg 3,Heino,,8141RS,Netherlands,Netherlands,
+mpuls B.V.,67692710,nl,,Besloten Vennootschap,,False,,,,,,Netherlands,
+newTingeling,33290220,nl,,,,False,Nieuwe Teertuinen 17 A,Amsterdam,,1013LV,Netherlands,Netherlands,
+ngGenious,63594226,nl,,,,False,Boterkarn 11,Hellevoetsluis,,3223LS,Netherlands,Netherlands,
+ntegratio (Integratio),50828738,nl,,,,True,Schellinglaan 25,Voorburg,,2271VD,Netherlands,Netherlands,
+pet boekhandel B.V.,04001026,nl,,Besloten Vennootschap,,False,Hoofdstraat 122,Hoogeveen,,7901JV,Netherlands,Netherlands,
+pet consultancy B.V.,04044885,nl,,Besloten Vennootschap,,True,Hoofdstraat 122,Hoogeveen,,7901JV,Netherlands,Netherlands,
+pet groningen B.V.,02060173,nl,,Besloten Vennootschap,,True,Hoofdstraat 122 -126,Hoogeveen,,7901JV,Netherlands,Netherlands,
+pet handel B.V.,05062607,nl,,Besloten Vennootschap,,False,Hoofdstraat 122,Hoogeveen,,7901JV,Netherlands,Netherlands,
+pet librarius B.V.,04030514,nl,,Besloten Vennootschap,,False,Hoofdstraat 122,Hoogeveen,,7901JV,Netherlands,Netherlands,
+pet projectinrichters B.V.,04027688,nl,,Besloten Vennootschap,,False,Hoofdstraat 122,Hoogeveen,,7901JV,Netherlands,Netherlands,
+pet uitgeverij B.V.,04078812,nl,,Besloten Vennootschap,,True,Hoofdstraat 83 - 87,Hoogeveen,,7902EC,Netherlands,Netherlands,
+pet visuele communicatie B.V.,04062977,nl,,Besloten Vennootschap,,False,Hoofdstraat 122,Hoogeveen,,7901JV,Netherlands,Netherlands,
+qms Nederland B.V.,09085016,nl,,Besloten Vennootschap,,True,Postbus 5078 p/a KvK,Arnhem,,6802EB,Netherlands,Netherlands,
+ssyDesign,55150500,nl,,,,False,Perkstraat 36,Zwijndrecht,,3333VG,Netherlands,Netherlands,
+xxie haar,09177344,nl,,,,False,Zwartenhof 31,Elst,,6662ZT,Netherlands,Netherlands,
+zest B.V.,33301807,nl,,Besloten Vennootschap,,True,Van Baerlestraat 158,Amsterdam,,1071BG,Netherlands,Netherlands,
+"""HET REMBRANDTTERRAS""",33167498,nl,,,,True,REMBRANDTPLEIN 5 -1HG,AMSTERDAM,,1017CT,Netherlands,Netherlands,
+"""MIPS AUTOMATISERING""",33218233,nl,,,,True,PARKHOF 1,AMSTERDAM ZUIDOOST,,1106SX,Netherlands,Netherlands,
+"""Muziekvereniging Eensgezindheid""",01106039,nl,,,,False,Dyksicht 2,Tjerkwerd,,8765LX,Netherlands,Netherlands,
+ ZAKŁAD POGRZEBOWY STYKS I. M. WOJTUŚ SPÓŁKA JAWNA,0000331904,pl,2009-06-22,SPÓŁKA JAWNA,,,,,,,,Poland,2009.0
+BUZZPR SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ,0000309690,pl,2008-07-25,SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ,,,,,,,,Poland,2008.0
+GAŁECKI SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ,0000393866,pl,2011-08-22,SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ,,,,,,,,Poland,2011.0
+""" 4 PORY ROKU"" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",0000142551,pl,2002-12-16,SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ,,,,,,,,Poland,2002.0
+""" ABM - INVEST "" - USŁUGI ARCHITEKTONICZNO - BUDOWLANE JANISZEWSKI & SPÓŁKA. SPÓŁKA JAWNA.",0000147278,pl,2003-02-20,SPÓŁKA JAWNA,,,,,,,,Poland,2003.0
+""" AF SEKO SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ """,0000009922,pl,2001-05-14,SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ,,,,,,,,Poland,2001.0
+""" AGRO-GUMIEŃCE "" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",0000089663,pl,2002-02-12,SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ,,,,,,,,Poland,2002.0
+""" ALBRECHT POLSKA "" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ W LIKWIDACJI",0000016645,pl,2001-06-07,SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ,,,,,,,,Poland,2001.0
+""" ALTA INTERNATIONAL IMPORT-EXPORT "" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",0000210302,pl,2004-06-18,SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ,,,,,,,,Poland,2004.0
+""" ALUZARO "" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",0000145267,pl,2003-01-07,SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ,,,,,,,,Poland,2003.0
+""" ANIMARPOZ "" SPÓŁKA AKCYJNA",0000049300,pl,2001-10-03,SPÓŁKA AKCYJNA,,,,,,,,Poland,2001.0
+""" ART OF LINE MODE DESIGN SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ """,0000214557,pl,2004-08-11,SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ,,,,,,,,Poland,2004.0
+""" ART-CER "" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ W LIKWIDACJI",0000127228,pl,2002-08-30,SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ,,,,,,,,Poland,2002.0
+""" B&J EXPO-BAU "" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",0000034197,pl,2001-08-23,SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ,,,,,,,,Poland,2001.0
+""" BAG GROUP "" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",0000026970,pl,2001-07-12,SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ,,,,,,,,Poland,2001.0
+""" BAVECK POLEN ""  SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",0000049379,pl,2001-10-02,SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ,,,,,,,,Poland,2001.0
+""" BE TRADING COMPANY"" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ W LIKWIDACJI",0000084653,pl,2002-01-23,SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ,,,,,,,,Poland,2002.0
+""" C & M CENTROMED"" SPÓŁKA JAWNA",0000277084,pl,2007-03-27,SPÓŁKA JAWNA,,,,,,,,Poland,2007.0
+""" COS TRADE ""-SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",0000244976,pl,2005-12-19,SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ,,,,,,,,Poland,2005.0
+""" DAM- ROB"" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",0000060779,pl,2001-11-10,SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ,,,,,,,,Poland,2001.0
+""" DAN - EL "" TOWAROWY TRANSPORT SAMOCHODOWY SŁAWOMIR I ELŻBIETA DOMAŃSCY",0000002603,pl,2001-03-05,SPÓŁKA JAWNA,,,,,,,,Poland,2001.0
+""" DEPO "" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ "" W LIKWIDACJI """,0000013543,pl,2001-06-28,SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ,,,,,,,,Poland,2001.0
+""" DOM WYDAWNICZY MEDIAL SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ""",0000068504,pl,2001-12-06,SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ,,,,,,,,Poland,2001.0
+""" DOMEX"" CHMIELEWSCY I SYN SPÓŁKA JAWNA",0000080374,pl,2002-01-21,SPÓŁKA JAWNA,,,,,,,,Poland,2002.0
+""" DR ZDROWIE "" SPÓŁKA AKCYJNA",0000010657,pl,2001-05-25,SPÓŁKA AKCYJNA,,,,,,,,Poland,2001.0
+""" EDMARK "" EDYTA STYPUŁKOWSKA I MAREK STYPUŁKOWSKI SPÓŁKA JAWNA",0000002855,pl,2001-03-08,SPÓŁKA JAWNA,,,,,,,,Poland,2001.0
+""" EDMASZ "" EDWARD NOWACKI SPÓŁKA JAWNA",0000003326,pl,2001-03-28,SPÓŁKA JAWNA,,,,,,,,Poland,2001.0
+""" ELCO -EXIM "" J.KALISZUK I L.STANISZ SPÓŁKA JAWNA",0000006344,pl,2001-04-11,SPÓŁKA JAWNA,,,,,,,,Poland,2001.0
+""" ELFA POLSKA"" SPÓŁKA Z OGRANICZONA ODPOWIEDZIALNOŚCIĄ W LIKWIDACJI",0000105125,pl,2002-04-08,SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ,,,,,,,,Poland,2002.0
+""" ELPE "" PRZEDSIĘBIORSTWO PRODUKCYJNO - HANDLOWESPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",0000028163,pl,2001-07-19,SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ,,,,,,,,Poland,2001.0
+""" EUROWIN "" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",0000030119,pl,2001-07-23,SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ,,,,,,,,Poland,2001.0
+""" FARMEX A "" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",0000018014,pl,2001-06-11,SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ,,,,,,,,Poland,2001.0
+""" FENIKS "" WIELOBRANŻOWA SPÓŁDZIELNIA SOCJALNA",0000241567,pl,2005-09-19,SPÓŁDZIELNIA,,,,,,,,Poland,2005.0
+""" FILM PRODUKCJA"" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",0000271194,pl,2007-01-03,SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ,,,,,,,,Poland,2007.0
+""" FISKUS - M. ZAJKOWSKA"" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",0000105356,pl,2002-04-08,SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ,,,,,,,,Poland,2002.0
+""" FITBO "" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",0000023129,pl,2001-06-26,SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ,,,,,,,,Poland,2001.0
+""" FUNDACJA CHCĘ ŻYĆ GODNIE""",0000319430,pl,2008-12-31,FUNDACJA,,,,,,,,Poland,2008.0
+""" GASTRONOM - MIKUŁA "" SPÓŁKA JAWNA",0000096241,pl,2002-03-01,SPÓŁKA JAWNA,,,,,,,,Poland,2002.0
+""" GMINNE PRZEDSIĘBIORSTWO GOSPODARKI KOMUNALNEJ "" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",0000381539,pl,2011-03-23,SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ,,,,,,,,Poland,2011.0
+""" GOURMET FOODS"" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",0000011620,pl,2001-05-15,SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ,,,,,,,,Poland,2001.0
+""" GRANIT - EX""- SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",0000186842,pl,2004-01-28,SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ,,,,,,,,Poland,2004.0
+""" HYDROBUD "" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",0000016047,pl,2001-05-30,SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ,,,,,,,,Poland,2001.0
+""" INTECH"" A.A. KRAMARCZYK SPÓŁKA JAWNA AGENCJA TECHNICZNO- HANDLOWA",0000009278,pl,2001-04-26,SPÓŁKA JAWNA,,,,,,,,Poland,2001.0
+""" INTER - KARP KRZYSZTOF KARPOWICZ "" SPÓŁKA JAWNA",0000143573,pl,2003-01-07,SPÓŁKA JAWNA,,,,,,,,Poland,2003.0
+""" INTER-VITA "" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",0000048279,pl,2001-09-28,SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ,,,,,,,,Poland,2001.0
+""" INVEST-CONSULT"" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",0000015979,pl,2001-06-05,SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ,,,,,,,,Poland,2001.0
+""" JAROSZ CONVERTERS"" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",0000034737,pl,2001-08-13,SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ,,,,,,,,Poland,2001.0
+""" KBH INVESTMENT"" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",0000287658,pl,2007-08-31,SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ,,,,,,,,Poland,2007.0
+""" LANWAR COSMETICS "" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",0000179946,pl,2003-11-21,SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ,,,,,,,,Poland,2003.0
+""" LEM PROJEKT"" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",0000011813,pl,2001-05-11,SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ,,,,,,,,Poland,2001.0
+""" CARDIOFORCE "" SRL",22724420,ro,,Societate cu răspundere limitată,,False,"Str. G-ral Candiano Popescu, Nr. 77",Bucureşti Sectorul 4,,,Romania,Romania,
+""" INOVAŢIE"" CENTRUL DE CONSULTAŢII ÎN AFACERI CU UCRAINA SRL",34256110,ro,,Societate cu răspundere limitată,,,"Comuna Beltiug, Nr. 102, Județ Satu Mare",Sat Răteşti,,,Romania,Romania,
+""" LA TASSE "" IMPEX SRL",29678,ro,,Societate cu răspundere limitată,,True,"Str. SUVEICA, Nr. 5, Etaj P",Bucureşti Sectorul 2,,,Romania,Romania,
+""" REX "" SRL COCORA IALOMITA SUCURSALA BUCURESTI",9548385,ro,,,,True,"Str. BARBU MOMULEANU, Nr. 50",Bucureşti Sectorul 2,,,Romania,Romania,
+""" SmArt Tree "" Grup SRL",17212920,ro,,Societate cu răspundere limitată,,,"Comuna Baloteşti, Str. FERMEI, Nr. 56, Județ Ilfov",Sat Săftica,,,Romania,Romania,
+""" TEOCONF "" SRL",9773743,ro,,Societate cu răspundere limitată,,False,"Sos. COLENTINA, Nr. 66, Bloc 106, Scara 1, Apartament 34",Bucureşti Sectorul 2,,,Romania,Romania,
+""" VIN LA SORIN "" SRL",27594967,ro,,Societate cu răspundere limitată,,,"Comuna Gugeşti, Str. ŞTEFAN CEL MARE, Nr. 118, Județ Vrancea",Sat Gugeşti,,,Romania,Romania,
+""" Y A M "" INTERNATIONAL FREIGHT & SHIPPING SRL",14715196,ro,,Societate cu răspundere limitată,,True,"Intr. Reconstrucţiei, Nr. 1, Bloc 24, Scara 7, Etaj P, Apartament 266",Bucureşti Sectorul 3,,,Romania,Romania,
+"""1"" EXPERT ""T"" SRL",23913060,ro,,Societate cu răspundere limitată,,,"Str. PASAJUL SCĂRILOR, Nr. 1, Apartament 10, Județ Sibiu",Municipiul Sibiu,,,Romania,Romania,
+"""3 C SOFT"" SRL",14887663,ro,,Societate cu răspundere limitată,,False,"Str. JOZEF BEM, Nr. 2, Bloc 3, Scara D, Apartament 26, Județ Covasna",Municipiul Sfântu Gheorghe,,,Romania,Romania,
+"""3M INWEST"" SRL",15205110,ro,,Societate cu răspundere limitată,,False,"Str. CONSTRUCTORILOR, Nr. 3, Județ Covasna",Municipiul Sfântu Gheorghe,,,Romania,Romania,
+"""3U"" EVAL CONSULTANTA SRL",16357825,ro,,Societate cu răspundere limitată,,True,"Str. Rarău, Nr. 2, Bloc V71, Scara 4, Apartament 48",Bucureşti Sectorul 3,,,Romania,Romania,
+"""4"" YOU PREST SERV SRL",10085497,ro,,Societate cu răspundere limitată,,True,"Str. VIRFURENI, Nr. 14",Bucureşti Sectorul 3,,,Romania,Romania,
+"""4Q"" SRL",13898362,ro,,Societate cu răspundere limitată,,,"B-dul NICOLAE IORGA, Nr. 34/C, Județ Covasna",Municipiul Sfântu Gheorghe,,,Romania,Romania,
+"""A & J EXPERT SERVICE"" SRL",15214398,ro,,Societate cu răspundere limitată,,False,"Str. SPITALULUI, Nr. 28, Județ Covasna",Municipiul Sfântu Gheorghe,,,Romania,Romania,
+"""A M C"" SRL",6829904,ro,,Societate cu răspundere limitată,,False,"Comuna Hăghig, Str. ROMANA, Nr. 203, Județ Covasna",Sat Hăghig,,,Romania,Romania,
+"""A.I.R."" EXPERTIZA CONTABILA SI AUDIT FINANCIAR SRL",14872166,ro,,Societate cu răspundere limitată,,False,"Aleea CISLAU, Nr. 8, Bloc 9A, Etaj 5, Apartament 65",Bucureşti Sectorul 2,,,Romania,Romania,
+"""A.T.C. INVEST"" SRL IASI FILIALA JUDETEANA COVASNA",13543742,ro,,,,,"Comuna Băţani, Str. PRINCIPALA, Nr. 130, Județ Covasna",Sat Băţanii Mari,,,Romania,Romania,
+"""ABB AG MANNHEIM GERMANIA""-SUCURSALA SIBIU",21011975,ro,,,,,"Str. ONCEŞTI, Nr. 8, Județ Sibiu",Municipiul Sibiu,,,Romania,Romania,
+"""ACNORD""-P SRL",15444630,ro,,Societate cu răspundere limitată,,True,"Comuna Macea, Nr. 14, Județ Arad",Sat Sânmartin,,,Romania,Romania,
+"""AD-JEMS IMP-EXP"" SRL",13855930,ro,,Societate cu răspundere limitată,,False,"Str. GRÓF MIKÓ IMRE, Nr. 6, centrul comercial SUGAS, Etaj 1, Județ Covasna",Municipiul Sfântu Gheorghe,,,Romania,Romania,
+"""ADINA"" SRL",13390258,ro,,Societate cu răspundere limitată,,,"Comuna Barcani, Com. BARCANI, Nr. 284, Județ Covasna",Sat Barcani,,,Romania,Romania,
+"""ADPM"" GARDAN SRL",32483892,ro,,Societate cu răspundere limitată,,,"Str. PREVEDERII, Nr. 9, Bloc PM20, Scara 1, Etaj 10, Apartament 61",Bucureşti Sectorul 3,,,Romania,Romania,
+"""ADRIANIS TRANS COMPANY"" SRL",13510885,ro,,Societate cu răspundere limitată,,,"Oraş Întorsura Buzăului, Str. CASTANILOR, Nr. 3, Județ Covasna",Loc. Întorsura Buzăului,,,Romania,Romania,
+"""AETNA"" IMPORT EXPORT SRL",8452320,ro,,Societate cu răspundere limitată,,,"Str. NICOLAE IORGA, Nr. 14, Bloc 13/B, Apartament 18, Județ Covasna",Municipiul Sfântu Gheorghe,,,Romania,Romania,
+"""AFRODITA"" FRUMUSETE DE LA A LA Z SRL",14654692,ro,,Societate cu răspundere limitată,,False,"B-dul Brâncoveanu Constantin, Nr. 113, Bloc V6, Apartament 7",Bucureşti Sectorul 4,,,Romania,Romania,
+"""AGENTIA DE CONSULTANTA AXA V"" SRL",14426236,ro,,Societate cu răspundere limitată,,False,"Str. MIHAELA RUXANDRA MARCU, Nr. 6, Bloc A3, Scara A, Etaj 1, Apartament 7",Bucureşti Sectorul 6,,,Romania,Romania,
+"""AGORA"" SRL",14976906,ro,,Societate cu răspundere limitată,,False,"Str. NICOLAE IORGA, Nr. 20, Bloc 34/C, Scara C, Apartament 10, Județ Covasna",Municipiul Sfântu Gheorghe,,,Romania,Romania,
+"""AGRICULTORUL"" COOPERATIVA DE CREDIT VINGA",1728836,ro,,,,True,"Nr. 117, Județ Arad",Comuna Vinga,,,Romania,Romania,
+"""AGRO-KOB"" SRL",2970128,ro,,Societate cu răspundere limitată,,,"Str. ROZELOR, Nr. 1, Județ Covasna",Municipiul Sfântu Gheorghe,,,Romania,Romania,
+"""AGROCHEM"" SRL",2566236,ro,,Societate cu răspundere limitată,,,"Str. CÂMPU FRUMOS, Nr. 5, au convenit prelungirea duratei închirierii până la data la care, în urma adoptării unei hotărâri cu privire la scoaterea la licitaţie publică pentru închirierea bunului de către Consiliul Local, se va finaliza procedura de atribuire., Județ Covasna",Municipiul Sfântu Gheorghe,,,Romania,Romania,
+"""AGROFARM"" SRL",13678235,ro,,Societate cu răspundere limitată,,,"Str. VULTURILOR, Nr. 7, Județ Covasna",Municipiul Sfântu Gheorghe,,,Romania,Romania,
+"""AGROMAG"" SRL",14575726,ro,,Societate cu răspundere limitată,,True,,Ghidfalău,Covasna,,Romania,Romania,
+"""AIKO GROUP"" SRL",15645064,ro,,Societate cu răspundere limitată,,,"Oraş Întorsura Buzăului, Aleea PIETII, Bloc 8, Scara D, Etaj 3, Apartament 13, Județ Covasna",Loc. Întorsura Buzăului,,,Romania,Romania,
+"""ALBA CA ZAPADA"" SRL",14016287,ro,,Societate cu răspundere limitată,,,"Comuna Comandău, Str. PRINCIPALA, Bloc 1, Etaj 2, Apartament 3, Județ Covasna",Sat Comandău,,,Romania,Romania,
+"""ALBIA"" SRL",11199503,ro,,Societate cu răspundere limitată,,True,,Baraolt,Covasna,,Romania,Romania,
+"""ALBINA"" COOPERATIVA DE CREDIT CURTICI",10815311,ro,,,,True,"Oraş Curtici, Str. REVOLUŢIEI, Nr. 51-53, Bloc 3, Scara B, Apartament 12, Județ Arad",Loc. Curtici,,,Romania,Romania,
+"""ALCO"" SA",2567355,ro,,Societate pe Acţiuni,,,"Str. CURTEA 32, Nr. 1, Județ Covasna",Municipiul Târgu Secuiesc,,,Romania,Romania,
+"""ALEF DORI"" SRL",14747317,ro,,Societate cu răspundere limitată,,False,"Oraş Întorsura Buzăului, Str. DUMBRAVEI, Nr. 2, Județ Covasna",Loc. Întorsura Buzăului,,,Romania,Romania,
+"""ALEF"" SRL",14186370,ro,,Societate cu răspundere limitată,,,"Str. PODULUI, Bloc 50, Scara A, Apartament 17, Județ Covasna",Municipiul Sfântu Gheorghe,,,Romania,Romania,
+"""ALEN COMP"" SRL",4953409,ro,,Societate cu răspundere limitată,,True,,Sfântu Gheorghe,Covasna,,Romania,Romania,
+"""ALESANALP"" SRL",15205063,ro,,Societate cu răspundere limitată,,False,"Str. 1 DECEMBRIE 1918, Bloc 1, Scara G, Etaj 4, Apartament 16, Județ Covasna",Municipiul Sfântu Gheorghe,,,Romania,Romania,
+"""ALEX & SON TRANSP."" SRL",8259206,ro,,Societate cu răspundere limitată,,,"Str. BORVIZ, Nr. 86, Județ Covasna",Municipiul Sfântu Gheorghe,,,Romania,Romania,
+"""ALEXANDRU SAVU"" ASOCIATIE FAMILIALA",13291050,ro,,Associate Familial,,,"Comuna Sita Buzăului, SITA BUZAULUI, Nr. 789, Județ Covasna",Sat Sita Buzăului,,,Romania,Romania,
+"""ALFAGLOB PRODCOM"" SRL",6605540,ro,,Societate cu răspundere limitată,,,"Str. NICOLAE BALCESCU, Nr. 4, Bloc 46, Scara C, Apartament 11, Județ Covasna",Municipiul Târgu Secuiesc,,,Romania,Romania,
+"""ALFORT"" SRL",559771,ro,,Societate cu răspundere limitată,,,"Oraş Covasna, Str. UNIRII, Nr. 5, Bloc 10, Scara B, Apartament 2, Județ Covasna",Loc. Covasna,,,Romania,Romania,
+"""ALIANTA"" COOPERATIVA DE CREDIT VIZIRU",9838060,ro,,,,,"Comuna Viziru, Județ Brăila",Sat Viziru,,,Romania,Romania,
+"""ALIMENTARA BAROTHI-CO"" SRL",556228,ro,,Societate cu răspundere limitată,,,"Str. GABOR ARON, Nr. 2, Județ Covasna",Municipiul Târgu Secuiesc,,,Romania,Romania,
+"""ALIMENTATIE PUBLICA BANDI-BAR"" SRL",3976340,ro,,Societate cu răspundere limitată,,,"Comuna Sânzieni, Nr. 163, Județ Covasna",Sat Valea Seacă,,,Romania,Romania,
+"""ALIMENTATIE PUBLICA BRADUL"" SRL",543481,ro,,Societate cu răspundere limitată,,False,"Comuna Comandău, Com. COMANDAU, Județ Covasna",Sat Comandău,,,Romania,Romania,
+"BOOOM, s.r.o.",36696625,sk,2006-11-10,Spoločnosť s ručením obmedzeným,,,Pajorova 12/1161,,Košice,040 01,Slovakia,Slovakia,2006.0
+""" 3 ANGELS """,14076578,sk,1991-09-02,Samostatne podnikajúca fyzická osoba,,True,Bez určenia,,,,Slovakia,Slovakia,1991.0
+""" 3 F "" - Forma, Funkčnosť, Fantázia, spol. s r.o.",30775213,sk,1991-12-13,Spoločnosť s ručením obmedzeným,,True,Panenská 12,,Bratislava,811 03,Slovakia,Slovakia,1991.0
+""" A L T U N "", v.o.s.",31592775,sk,1993-09-29,Verejná obchodná spoločnosť,,True,"Hotel Dolina, Škultétyho nám. 2",,Veľký Krtíš,990 01,Slovakia,Slovakia,1993.0
+""" A N D R E Š I Č """,11639717,sk,1990-05-29,Samostatne podnikajúca fyzická osoba,,True,"Warynského 17, Bratislava",,,,Slovakia,Slovakia,1990.0
+""" A a J""",13958763,sk,1991-02-01,Samostatne podnikajúca fyzická osoba,,True,,,,,,Slovakia,1991.0
+""" A.G.S.K. spol. s r.o.""",35830913,sk,2002-01-25,Spoločnosť s ručením obmedzeným,,,Colnícka 12,,Bratislava,851 10,Slovakia,Slovakia,2002.0
+""" AGROVASTA spol. s r.o."" Sečovce",31693822,sk,1994-07-27,Spoločnosť s ručením obmedzeným,,True,Štúrova 152/50,,Sečovce,078 01,Slovakia,Slovakia,1994.0
+""" AN """,17833981,sk,1991-10-02,Samostatne podnikajúca fyzická osoba,,True,Lučenec,,,,Slovakia,Slovakia,1991.0
+""" ANTONIO, s.r.o. v likvidácii""",36652415,sk,2006-07-13,Spoločnosť s ručením obmedzeným,,True,M.R.Štefánika 161,,Považská Bystrica,017 01,Slovakia,Slovakia,2006.0
+""" AVE - GINA """,17634695,sk,1991-04-22,Samostatne podnikajúca fyzická osoba,,True,Nové Zámky,,,,Slovakia,Slovakia,1991.0
+""" Ad oculus"" umelecká agentúra spol.s.r.o.",31324916,sk,1992-06-01,Spoločnosť s ručením obmedzeným,,True,Rozvodná 9,,Bratislava,831 01,Slovakia,Slovakia,1992.0
+""" Autodoprava Lednár """,11802642,sk,1991-01-15,Samostatne podnikajúca fyzická osoba,,True,Bratislava,,,,Slovakia,Slovakia,1991.0
+""" B E K A N""",30884101,sk,1991-12-27,Samostatne podnikajúca fyzická osoba,,True,"bez určenia, ...",,,,Slovakia,Slovakia,1991.0
+""" BAMEXIM """,17454638,sk,1991-10-14,Samostatne podnikajúca fyzická osoba,,True,Bratislava,,,,Slovakia,Slovakia,1991.0
+""" BARUN spol. s r. o. "" v likvidácii",17056543,sk,1991-12-31,Spoločnosť s ručením obmedzeným,,True,Hrobákova 21,,Bratislava,851 02,Slovakia,Slovakia,1991.0
+""" BD STARLIT, bytové družstvo """,35746076,sk,1998-05-11,Družstvo,,True,Kašmírska 3,,Bratislava,821 04,Slovakia,Slovakia,1998.0
+""" BOČKAY - FIGURA, spol. s r.o. "" v likvidácii",35754575,sk,1998-09-24,Spoločnosť s ručením obmedzeným,,True,Závadská 12,,Bratislava,831 06,Slovakia,Slovakia,1998.0
+""" BUDEKS "" s. r. o.",44409711,sk,2008-09-25,Spoločnosť s ručením obmedzeným,,True,Pribinova 2908/1,,Čadca,022 01,Slovakia,Slovakia,2008.0
+""" BUMA - R "", s.r.o. v likvidácii",36312266,sk,2000-03-31,Spoločnosť s ručením obmedzeným,,False,Šustekova 17,,Bratislava - mestská časť Petržalka,851 04,Slovakia,Slovakia,2000.0
+""" CCL s.r.o. """,36249165,sk,2002-05-07,Spoločnosť s ručením obmedzeným,,,Sv. Cyrila a Metoda 2,,Piešťany,921 01,Slovakia,Slovakia,2002.0
+""" CDC Foxeman """,11726903,sk,1990-11-09,Samostatne podnikajúca fyzická osoba,,True,"Lomonosova 36, Nitra",,,,Slovakia,Slovakia,1990.0
+""" Copier """,11715111,sk,1990-09-25,Samostatne podnikajúca fyzická osoba,,True,"Javorová 10, Komárno",,,,Slovakia,Slovakia,1990.0
+""" D E M O S I N T E R N A T I O N A L "" spol. s r.o.",17317657,sk,1991-05-15,Spoločnosť s ručením obmedzeným,,True,"Suvorovova 3, Bratislava",,,,Slovakia,Slovakia,1991.0
+""" D E T O U R S """,11909366,sk,1991-04-16,Samostatne podnikajúca fyzická osoba,,True,Bratislava,,,,Slovakia,Slovakia,1991.0
+""" D.V. - ALGEKOMO, spol. s r.o. """,31439667,sk,1993-07-15,Spoločnosť s ručením obmedzeným,,True,Hlavná 1022,,Horné Saliby,925 03,Slovakia,Slovakia,1993.0
+""" DUECO, spol. s r.o. """,35695307,sk,1996-07-23,Spoločnosť s ručením obmedzeným,,,Novohradská 38,,Veľký Krtíš,990 01,Slovakia,Slovakia,1996.0
+""" DUNA - CONSULT , s.r.o.""",35924128,sk,2005-03-05,Spoločnosť s ručením obmedzeným,,True,"Nám. SNP  15, Bratislava 811 01",,,,Slovakia,Slovakia,2005.0
+""" Družstvo DAN"" v likvidácii",00687007,sk,1990-04-18,Družstvo,,True,"Steinerova 46, Bratislava",,,,Slovakia,Slovakia,1990.0
+""" Družstvo zavlažovateľov Podunajska "" - v likvidácii",36246123,sk,2001-11-14,Družstvo,,True,"8, Hubice 930 39",,,,Slovakia,Slovakia,2001.0
+""" Dáni """,13994697,sk,1991-11-04,Samostatne podnikajúca fyzická osoba,,True,,,,,,Slovakia,1991.0
+""" E K O P R O G R E S "" - výrobné družstvo",00586374,sk,1990-03-23,Družstvo,,,Zamarovská 260,,Zamarovce,911 05,Slovakia,Slovakia,1990.0
+""" E S P O L """,10983881,sk,1990-12-11,Samostatne podnikajúca fyzická osoba,,True,"Borová 26/14, Žilina",,,,Slovakia,Slovakia,1990.0
+""" E S T A """,12690767,sk,1990-10-26,Samostatne podnikajúca fyzická osoba,,True,"Veterná, Poľná 5, 3, Trnava",,,,Slovakia,Slovakia,1990.0
+""" EMO "" - Oldrich Synek",11671921,sk,1991-02-21,Samostatne podnikajúca fyzická osoba,,True,Bratislava,,,,Slovakia,Slovakia,1991.0
+""" EURO BIZNIS - Export import """,17390681,sk,1991-11-28,Samostatne podnikajúca fyzická osoba,,True,Bratislava,,,,Slovakia,Slovakia,1991.0
+""" EUROTECHNA spol. s r.o.""",34100148,sk,1994-04-25,Spoločnosť s ručením obmedzeným,,True,Botanická 1,,Trnava,917 01,Slovakia,Slovakia,1994.0
+""" EVA """,30691125,sk,1991-12-05,Samostatne podnikajúca fyzická osoba,,True,Čsfr,,,,Slovakia,Slovakia,1991.0
+""" EVONA, spol.s r.o.""",30840619,sk,1991-12-30,Spoločnosť s ručením obmedzeným,,True,Bratislava,,,,Slovakia,Slovakia,1991.0
+""" EXTRA """,11987855,sk,1990-11-22,Samostatne podnikajúca fyzická osoba,,True,neurčené,,,,Slovakia,Slovakia,1990.0
+""" Eli-tech"" Eliaš František",11881950,sk,1991-10-04,Samostatne podnikajúca fyzická osoba,,True,"Čsl.armády, Galanta",,,,Slovakia,Slovakia,1991.0
+""" F e k e t e """,30511208,sk,1991-12-18,Samostatne podnikajúca fyzická osoba,,True,"68, Biskupice",,,,Slovakia,Slovakia,1991.0
+""" F.I.M. spol. s r.o.""",31104142,sk,1991-12-30,Spoločnosť s ručením obmedzeným,,True,Vajanského 8,,Trnava,917 01,Slovakia,Slovakia,1991.0
+""" FERRWOOD spol.s r.o."" v likvidácii",31105475,sk,1991-12-31,Spoločnosť s ručením obmedzeným,,True,"Hospodárska 72, Trnava",,,,Slovakia,Slovakia,1991.0
+""" FOTINA - Slovakia "" spol. s r.o.",31397344,sk,1995-06-14,Spoločnosť s ručením obmedzeným,,,Radošovce 240,,Senica,908 63,Slovakia,Slovakia,1995.0
+""" Federmayer - BREAG """,11808403,sk,1990-06-22,Samostatne podnikajúca fyzická osoba,,True,,,,,,Slovakia,1990.0
+""" GALIMPEX - S, s.r.o """,31340431,sk,1993-01-25,Spoločnosť s ručením obmedzeným,,True,Vápenka 1,,Bratislava,841 07,Slovakia,Slovakia,1993.0
+""" GRIMPLINI - stavebné práce s.r.o."" Košice",31705081,sk,1995-03-16,Spoločnosť s ručením obmedzeným,,True,Ku Bangortu 37,,Košice - mestská časť Myslava,040 16,Slovakia,Slovakia,1995.0
+""" GROSYMA spol. s r. o. """,31105467,sk,1991-12-30,Spoločnosť s ručením obmedzeným,,,Topoľová 626/21,,Veľké Bielice,958 04,Slovakia,Slovakia,1991.0
+""" GS TEAM v.o.s. "" v likvidácii",31683851,sk,1994-01-18,Verejná obchodná spoločnosť,,True,Mnoheľova 825/5,,Poprad,058 01,Slovakia,Slovakia,1994.0
+"""A. MENARINI DIAGNOSTICS S.R.L., PODRUŽNICA, PRODAJA MEDICINSKIH PRIPOMOČKOV IN ZDRAVIL NA DEBELO""",6259600000,si,,legal entity,,,"DOLENJSKA CESTA 242 C, 1000 LJUBLJANA",,,,Slovenia,Slovenia,
+"""AKTIV"" EMIRA, GRADBENIŠTVO IN STORITVE, D.O.O.",3725120000,si,,legal entity,,,"PRVAČINA 146, 5297 PRVAČINA",,,,Slovenia,Slovenia,
+"""AKVASPORT"" DRUŠTVO SA OGRANIČENOM ODGOVORNOŠĆU GRADAČAC, PODRUŽNICA KORTINE",9277285000,si,,,,,"KORTINE 1, 6275 ČRNI KAL",,,,Slovenia,Slovenia,
+"""ASCENDANT DRUŠTVO S OGRANIČENOM ODGOVORNOŠĆU ZA SAVJETOVANJE"", PODRUŽNICA LJUBLJANA",6128084000,si,,legal entity,,,"DALMATINOVA ULICA 2, 1000 LJUBLJANA",,,,Slovenia,Slovenia,
+"""ASSER-KOMERS""EOOD - PODRUŽNICA V SLOVENIJI",6887996000,si,,,,,"ULICA HEROJA VERDNIKA 22, 4270 JESENICE",,,,Slovenia,Slovenia,
+"""B-TOURS"" DRUŠTVO ZA PROIZVODNJU PROMET ROBE I USLUGA D.O.O. KISELJAK",51-01-2106,si,,,,,"ZENIČKA CESTA B.B., 75211 KISELJAK",,,,Slovenia,Slovenia,
+"""BLUE&BERRY, INŠTITUT ZA BOROVNICE IN JAGODIČEVJE""",7122497000,si,,,,,"RIMSKA CESTA 26 A, 1353 BOROVNICA",,,,Slovenia,Slovenia,
+"""CENTROTRANS-EUROLINES"" D.O.O. LJUBLJANA, DRUŽBA ZA PREVOZ, TURIZEM, TRGOVINO IN SVETOVANJE",5841984000,si,,,,,"DUNAJSKA CESTA 63, 1000 LJUBLJANA",,,,Slovenia,Slovenia,
+"""CHARTER - JADRALNI KLUB CELJE""",4023455000,si,,,,,"LJUBLJANSKA CESTA 94, 3000 CELJE",,,,Slovenia,Slovenia,
+"""COOPERATIVA DI SOLIDARIETA´ LAUTARI"", PODRUŽNICA KOPER",6640192000,si,,,,,"PRISTANIŠKA ULICA 2, 6000 KOPER - CAPODISTRIA",,,,Slovenia,Slovenia,
+"""DE-AN"" D.O.O. ZA PROMET ROBA I USLUGA BAR",02413612,si,,,,,"IVA NOVAKOVIĆA 5A, 85355 SUTOMORE",,,,Slovenia,Slovenia,
+"""DOBRINE IZ BELE KRAJINE"", ZADRUGA ZA PRIDELAVO HRANE IN RAZVOJ PODEŽELJA, Z.O.O.- V LIKVIDACIJI",6160654000,si,,,,False,"GRIBLJE 81, 8332 GRADAC",,,,Slovenia,Slovenia,
+"""DOLOMITI COMMERCE"" TRGOVSKO PODJETJE, D.O.O.",5310938000,si,,Družba z omejeno odgovornostjo,,,"NA VASI 6 A, 1351 BREZOVICA PRI LJUBLJANI",,,,Slovenia,Slovenia,
+"""DRUŠTVO ZA RAZVOJ DRUŽABNE IN GLASBENE SCENE - KLUB AM*PM""",4059395000,si,,,,,"JAKŠIČEVA ULICA 2, 1000 LJUBLJANA",,,,Slovenia,Slovenia,
+"""DUZD"" M.Z. PODJETJE ZA DOSTAVO, USLUGE, ZASTOPSTVA, TRGOVINO IN TRANSPORT, D.O.O.",5931720000,si,,Družba z omejeno odgovornostjo,,,"IŽANSKA CESTA 128, 1000 LJUBLJANA",,,,Slovenia,Slovenia,
+"""DUŠAN KUKANJA"", DRUŽBA ZA EKOLOŠKO KMETOVANJE, K.D.",3705382000,si,,legal entity,,,"BRJE PRI KOMNU 005, 6223 KOMEN",,,,Slovenia,Slovenia,
+"""FRIGO-MONT"" RASHLADNA I KLIMA TEHNIKA, IVICA CANJUGA",91270006,si,,,,,"JEROVEC 222, 42240 IVANEC",,,,Slovenia,Slovenia,
+"""G.S.A. ALPE ADRIA"", STORITVE, D.O.O.",3456994000,si,,legal entity,,,"KIDRIČEVA ULICA 018, 5000 NOVA GORICA",,,,Slovenia,Slovenia,
+"""GITANO-M"" ROMSKO DRUŠTVO GOMILICA",4032446000,si,,,,,"GOMILICA 58 B, 9224 TURNIŠČE",,,,Slovenia,Slovenia,
+"""IBA"" GOSPODARSKO INTERESNO ZDRUŽENJE ZA MEDNARODNO POSLOVANJE - V LIKVIDACIJI",6911943000,si,,,,False,"KRAŠKA ULICA 6, 6210 SEŽANA",,,,Slovenia,Slovenia,
+"""IDEAL DESIGN"" DRUŠTVO SA OGRANIČENOM ODGOVORNOŠĆU, SREBRENICA, PODRUŽNICA NOVO MESTO",8315213000,si,,,,,"KOČEVARJEVA ULICA 2, 8000 NOVO MESTO",,,,Slovenia,Slovenia,
+"""INSTA MARKETING"" DRUŠTVO SA OGRANIČENOM ODGOVORNOŠĆU BUDVA",2617307000,si,,,,,"MEDITERANSKA BR. 1, ZGRADA DUKLEY RESIDENCES, 85310 BUDVA",,,,Slovenia,Slovenia,
+"""INVALID"" DRUŠTVO GIBALNO OVIRANIH IN OSEB Z INVALIDNOSTJO KONOVO",1052896000,si,,,,,"KONOVSKA CESTA 21, 3320 VELENJE",,,,Slovenia,Slovenia,
+"""INVALID"" DRUŠTVO GIBALNO OVIRANIH IN OSEB Z INVALIDNOSTJO PODVELKA - BREZNO",1143395000,si,,,,,"PODVELKA 19, 2363 PODVELKA",,,,Slovenia,Slovenia,
+"""INVALID"" DRUŠTVO GIBALNO OVIRANIH IN OSEB Z INVALIDNOSTJO TEŠ ŠOŠTANJ",1461125000,si,,,,,"CESTA LOLE RIBARJA 18, 3325 ŠOŠTANJ",,,,Slovenia,Slovenia,
+"""INŠTITUT CIRPPO"", CENTER ZA IZOBRAŽEVANJE, RAZISKOVANJE, POUČEVANJE, PROIZVAJANJE IN OZAVEŠČANJE, Z",7331339000,si,,,,,"ULICA POHORSKEGA BATALJONA 45 A, 2314 ZGORNJA POLSKAVA",,,,,Slovenia,
+"""KING ADVERTISEMENT - PODRUŽNICA INTERNATIONAL"" EOOD",7198850000,si,,,,,"ERJAVČEVA ULICA 2, 5000 NOVA GORICA",,,,Slovenia,Slovenia,
+"""KLEMENT"", MONTAŽA GIPS PLOŠČ - PARKETA, D.O.O.",6495907000,si,,Družba z omejeno odgovornostjo,,,"KROŠKA ULICA 7, 9000 MURSKA SOBOTA",,,,Slovenia,Slovenia,
+"""KLUB EPI - STIL"" SLOVENSKO DRUŠTVO LJUDI Z EPILEPSIJO",4021134000,si,,,,,"GORIŠKA ULICA 1, 3000 CELJE",,,,Slovenia,Slovenia,
+"""KOLESARSKI KLUB BTT"" ""KERÉKPÁROS KLUB BTT""",4076362000,si,,,,,"DOBROVNIK 115 D, 9223 DOBROVNIK - DOBRONAK",,,,Slovenia,Slovenia,
+"""KULTURNO IN TURISTIČNO DRUŠTVO GOSKA"" SATAHOVCI",1394924000,si,,,,,"SATAHOVCI 26, 9000 MURSKA SOBOTA",,,,Slovenia,Slovenia,
+"""KULTURNO IZOBRAŽEVALNI CENTER NOTRANJSKE"" ZAVOD ZA KULTURO, VZGOJO, IZOBRAŽEVANJE IN INFORMIRANJE",3925102000,si,,,,,"DOVCE 48, 1381 RAKEK",,,,Slovenia,Slovenia,
+"""LIBRETO"" KNJIGARNA IN PAPIRNICA D.O.O.",6889751000,si,,Družba z omejeno odgovornostjo,,,"TRG SVOBODE 9, 9250 GORNJA RADGONA",,,,Slovenia,Slovenia,
+"""M.B. TRANSPORT"" D.O.O.",7700741000,si,,Družba z omejeno odgovornostjo,,,"MAČVANSKA 002, 15353 MAJUR",,,,Slovenia,Slovenia,
+"""MAI"", OBITELJSKO POLJUPRIVREDNO GOSPODARSTVO, PERICA ANĐELIĆ",000173927,si,,,,,"PUT ZLATINOVCA 17, 20355 OPUZEN",,,,Slovenia,Slovenia,
+"""MALA MALČI"" - DRUŠTVO ZA DRUŽINSKO IN DOŽIVLJAJSKO VZGOJO",4011589000,si,,legal entity,,,"ŠKOFJELOŠKA CESTA 021, 1215 MEDVODE",,,,Slovenia,Slovenia,
+"""METKO"", SERVIS LESNO OBDELOVALNIH STROJEV P.O.",5650879000,si,,,,,"KLAVŽE 6, 5216 MOST NA SOČI",,,,Slovenia,Slovenia,
+"""MISIJA *S"", DRUŠTVO ZA TRAJNOSTNI RAZVOJ POMURJA / EGYESÜLET A MURAVIDÉK FENNTARHATÓ FEJLŐDÉSÉÉRT",1163671000,si,,,,,"MLINSKA ULICA 5, 9220 LENDAVA - LENDVA",,,,Slovenia,Slovenia,
+"""MOST"" DRUŠTVO MLADIH ZA RAZVOJ POMURJA",1163663000,si,,,,,"PANONSKA ULICA 3, 9224 TURNIŠČE",,,,Slovenia,Slovenia,
+"""NACIONALNI OLIMPIJSKI INŠTITUT, ZAVOD ZA RAZVOJ ŠPORTA""",9192824000,si,,,,,"AMERIŠKA ULICA 2, 1000 LJUBLJANA",,,,Slovenia,Slovenia,
+"""NARAVOVARSTVENO DRUŠTVO ČUKOVA JAMA BOBOVEK""",4079060000,si,,,,,"BOBOVEK 36, 4000 KRANJ",,,,Slovenia,Slovenia,
+"""NEŽA"" DRUŠTVO ZA POMOČ OSEBAM Z OKVARO VIDA",4092554000,si,,,,,"STARI TRG 31, 3210 SLOVENSKE KONJICE",,,,Slovenia,Slovenia,
+"""NFASS"" D.O.O. GRADIŠKA, VIDOVDANSKA BB, GRADIŠKA, GRADIŠČA , PODRUŽNICA BOVEC",7236867000,si,,,,,"LEDINA 1, 5230 BOVEC",,,,Slovenia,Slovenia,
+"""OBSCALE"" D.O.O.SREBRENIK",32-01-0118,si,,,,,"ĆEHAJE BB, 75350 SREBRENIK",,,,Slovenia,Slovenia,
+"""ORHIDEJA "" ZAVOD ZA SPROSTITEV TELESA IN DUHA, SP. POLSKAVA-V LIKVIDACIJI",6791271000,si,,,,False,"SPODNJA POLSKAVA 264, 2331 PRAGERSKO",,,,Slovenia,Slovenia,
+"""OSTI JAREJ DRUŠTVO ZA OHRANJANJE ZDRAVJA IN VITALNOSTI""",4080696000,si,,,,,"ZGORNJE PIRNIČE 43 C, 1215 MEDVODE",,,,Slovenia,Slovenia,
+"""PETAR TURIST"" OBRT ZA PRIJEVOZ,",92806562,si,,,,,"AUGUSTA ŠENOE 50, 10432 BREGANA",,,,Slovenia,Slovenia,
+"""POGLEJ"" DRUŠTVO ZA VSEŽIVLJENSKO POMOČ",4037219000,si,,,,,"ULICA POHORSKEGA BATALJONA 229, 1000 LJUBLJANA",,,,Slovenia,Slovenia,
+"""PREVOZ - TURIST"" D.O.O. ZA PROMET I TURISTIČKE USLUGE",1-256,si,,,,,"BRODSKA BR.25, 76290 ODŽAK",,,,Slovenia,Slovenia,
+"""PRIMORCI IN ISTRANI V PREKMURJU, DRUŠTVO ZA OHRANJANJE TRADICIJE""",4017897000,si,,,,,"BENICA 1 A, 9220 LENDAVA - LENDVA",,,,Slovenia,Slovenia,
+& DANZA PRODUCCION Y MANAGEMENT DE ESPECTACULOS SL,83243162,es,,Sociedad Limitada,,,,,,,,Spain,
+& GO PROCESOS SL,83082289,es,,Sociedad Limitada,,,,,,,,Spain,
+& PARTNER EVENTS SL,62042403,es,,Sociedad Limitada,,,,,,,,Spain,
+& SAMHOUD IBERIA SL,85077964,es,,Sociedad Limitada,,,,,,,,Spain,
+& WHY NOT MENSAJE SL,84392489,es,,Sociedad Limitada,,,,,,,,Spain,
+&COMUNICACION CONSULTORES EN COMUNICACION Y RELACIONES PUBLICAS SL,83912527,es,,Sociedad Limitada,,,,,,,,Spain,
+&SAMHOUD ESPAÑA SL,63675037,es,,Sociedad Limitada,,,,,,,,Spain,
+'MPORDA HOME SOCIEDAD LIMITADA EN LIQUIDACION,17335571,es,,,,,,,,,,Spain,
+(UN) COMMON SOUNDS AEIE,20889481,es,,Agrupación Europea de Interés Económico,,,,,,,,Spain,
+- - - CONSTRUCCIONES VALLECOR SL,14376131,es,,Sociedad Limitada,,True,,,,,,Spain,
+---INTERNATIUM---COMPANY---SEEDS---SL---NO---VALE,14522213,es,,,,,,,,,,Spain,
+--WILD DRA-GON SPORT S.L.,14611339,es,,Sociedad Limitada,,,,,,,,Spain,
+-ASTAPA S.A.- NO VALE,14044663,es,,,,,,,,,,Spain,
+-AUTOCARES LA MANZANA DE ADAN S.L. -NO VIGENTE,14722144,es,,,,,,,,,,Spain,
+-ROALCAO- SL -ANTIGUA,14094817,es,,,,,,,,,,Spain,
+.BAS LOGISTICS SL,73146961,es,,Sociedad Limitada,,,,,,,,Spain,
+.RELEA MARCOS SL,34137091,es,,Sociedad Limitada,,,,,,,,Spain,
+0 007 NUMERO SL,81824385,es,,Sociedad Limitada,,,,,,,,Spain,
+0 1 KBYTE SL,60841921,es,,,,,,,,,,Spain,
+0 90 SL,59469494,es,,Sociedad Limitada,,,,,,,,Spain,
+0 A 24 H MULTISERVICIOS GENERALES SL,81424525,es,,Sociedad Limitada,,,,,,,,Spain,
+0 A 24 MULTISERVICIO SOCIEDAD LIMITADA,96918560,es,,Sociedad Limitada,,,,,,,,Spain,
+0 A S H AGRUPACION SERVICIOS DEL HOGAR SL,61379400,es,,Sociedad Limitada,,,,,,,,Spain,
+0 GRADOS & MERIDIAN SL,81478471,es,,Sociedad Limitada,,,,,,,,Spain,
+0 INSTALACIONES ANGEL FERNANDEZ SL,41820952,es,,Sociedad Limitada,,,,,,,,Spain,
+0'3 COMUNICACION SL,79518882,es,,Sociedad Limitada,,,,,,,,Spain,
+0'95 BENISSA Y FAMILIA SL,53595708,es,,,,,,,,,,Spain,
+"0, 05 KM PRODUCCIONES SL",85113256,es,,Sociedad Limitada,,,,,,,,Spain,
+"0, U.T.E. A LAMA",36939643,es,,,,,,,,,,Spain,
+"0,2 SOLUCIONES SL",72121098,es,,Sociedad Limitada,,,,,,,,Spain,
+"0,5F ASISTENTES DE GESTION ON LINE SOCIEDAD LIMITADA",48997167,es,,Sociedad Limitada,,,,,,,,Spain,
+0-24 HORAS TENEURGE SL,38533980,es,,Sociedad Limitada,,,,,,,,Spain,
+00 ARQUITECTURA FINANZAS CONSTRUCCIONES Y MONTAJES SL,81764482,es,,Sociedad Limitada,,,,,,,,Spain,
+00 ASISTENCIA ESPECIALIZADA DEL HOGAR SL,61386405,es,,Sociedad Limitada,,,,,,,,Spain,
+00 REPARACIONES MADRID SL,81557225,es,,Sociedad Limitada,,True,,,,,,Spain,
+000 111 ACTIVA INSERTEC ESPAÑA SL,50730522,es,,Sociedad Limitada,,,,,,,,Spain,
+000 ATLAS PRO REFORMAS Y MANTENIMIENTOS SL,81637621,es,,Sociedad Limitada,,,,,,,,Spain,
+000 ESPAÑOL REALTI SL,53720314,es,,,,,,,,,,Spain,
+0000 CENTA SERVICIOS SL,63406391,es,,Sociedad Limitada,,,,,,,,Spain,
+0002 VELPRO SL,82535147,es,,Sociedad Limitada,,,,,,,,Spain,
+001 ALCANTARILLADOS Y LIMPIEZAS SL,80926959,es,,Sociedad Limitada,,,,,,,,Spain,
+001 BAZAR BEIJING SL,35869346,es,,Sociedad Limitada,,,,,,,,Spain,
+"001 TAPAS TAPAS GRAN CANARIA, SOCIEDAD LIMITADA",35850924,es,,Sociedad Limitada,,,,,,,,Spain,
+001ACADEMIA DE FORMACION CONTINUA SL,35859677,es,,Sociedad Limitada,,,,,,,,Spain,
+001TECH SL,65213472,es,,Sociedad Limitada,,,,,,,,Spain,
+0024 HORAS ALBACETE SOCIEDAD LIMITADA,02273746,es,,Sociedad Limitada,,,,,,,,Spain,
+"003 NEXO ARQUITECTURA, IDEACION, DISEÑO Y PLANIFICACION SLP",85610384,es,,,,,,,,,,Spain,
+004 DE TENERIFE SL,38416590,es,,Sociedad Limitada,,,,,,,,Spain,
+005 AVENUE SL,38743555,es,,Sociedad Limitada,,,,,,,,Spain,
+005 SL,04114203,es,,Sociedad Limitada,,,,,,,,Spain,
+""" Ekonomiska Föreningen Arrendatorn"", Lund",745000-1677,se,,,,,,,,,,Sweden,
+""" Ekonomiska Föreningen Endräkten""",743000-0344,se,,,,,,,,,,Sweden,
+""" Maxibox & Co """,556391-9694,se,,Aktiebolag,,True,,,,,,Sweden,
+"""Affären"" Hamnen Handelsbolag",916516-8916,se,,Handelsbolag,,True,,,,,,Sweden,
+"""Amir Temur"" Catering, ekonomisk förening",769624-0170,se,,ekonomisk förening,,True,,,,,,Sweden,
+"""Anna Johannas"" slöjd & present Handelsbolag",916673-7230,se,,Handelsbolag,,True,,,,,,Sweden,
+"""Avant Utbildningskonsult Handelsbolag""",916573-5565,se,,Handelsbolag,,True,,,,,,Sweden,
+"""BOOM"" HANDELSBOLAG",916425-5011,se,,Handelsbolag,,True,,,,,,Sweden,
+"""Bostadsrättsföreningen Bilen""",758500-0040,se,,,,,,,,,,Sweden,
+"""Broby Turist"", ekonomisk förening",716411-2141,se,,ekonomisk förening,,True,,,,,,Sweden,
+"""Butterfly"" Musikcafé o diskotek Kommanditbolag",916520-4950,se,,,,True,,,,,,Sweden,
+"""Cold Stores"" i Eslöv Aktiebolag",556052-5700,se,,Aktiebolag,,True,,,,,,Sweden,
+"""Da Capo"" Restaurang Aktiebolag",556361-7264,se,,Aktiebolag,,True,,,,,,Sweden,
+"""De kommunanställdas semesterhemsförening i Göteborg"" utan personlig ansvarighet",757200-4021,se,,,,True,,,,,,Sweden,
+"""EMTEK"" Handelsbolag",916754-4197,se,,Handelsbolag,,True,,,,,,Sweden,
+"""Emmis"" Kiosk & Micro Livs Handelsbolag",916961-1382,se,,Handelsbolag,,True,,,,,,Sweden,
+"""Faxe Kalkugn, filial till A/S Faxe Kalkbrud, Danmark""",516402-1130,se,,,F,True,,,,,,Sweden,
+"""Filial till"" Auto Care International AS, Norge",516402-2872,se,,,F,True,,,,,,Sweden,
+"""Föräldrakooperativet Polarna"", ekonomisk förening",716444-6234,se,,ekonomisk förening,,,,,,,,Sweden,
+"""Grillhörnan"" Kommanditbolag",916537-0611,se,,,,True,,,,,,Sweden,
+"""HANDTAGET"" FRISKVÅRDSMASSAGE Handelsbolag",916598-6671,se,,Handelsbolag,,True,,,,,,Sweden,
+"""HASSES"" KLÄDMARKNAD HANDELSBOLAG",916425-5052,se,,Handelsbolag,,True,,,,,,Sweden,
+"""HUNDBODEN"" Handelsbolag",916477-3443,se,,Handelsbolag,,True,,,,,,Sweden,
+"""Hjuviks Sanitetsförening, Ekonomisk Förening""",716408-8119,se,,ekonomisk förening,,True,,,,,,Sweden,
+"""Hovet"" Centrum Aktiebolag",556284-3424,se,,Aktiebolag,,True,,,,,,Sweden,
+"""HÄXANS HUS"" HANDELSBOLAG",916644-0298,se,,Handelsbolag,,True,,,,,,Sweden,
+"""Högt i tak ek för.""",716444-6143,se,,ekonomisk förening,,True,,,,,,Sweden,
+"""I Ur och Skur - Snögubben"", Täby Ekonomisk förening",769601-3296,se,,ekonomisk förening,,True,,,,,,Sweden,
+"""Iminna"" Diamant och Ädelstenssliperi, Sten Bergdahl & Co Handelsbolag",994000-4527,se,,Handelsbolag,,True,,,,,,Sweden,
+"""Kajsas Gästis"" Handelsbolag",916691-4128,se,,Handelsbolag,,True,,,,,,Sweden,
+"""Kanot-Olles"" Handelsbolag",916410-6859,se,,Handelsbolag,,True,,,,,,Sweden,
+"""Kioskis"" Vingåker Handelsbolag",916515-2894,se,,Handelsbolag,,True,,,,,,Sweden,
+"""Klipperian Handelsbolag""",916753-1194,se,,Handelsbolag,,True,,,,,,Sweden,
+"""Kusin Vitamin, ek för""",716414-8061,se,,ekonomisk förening,,True,,,,,,Sweden,
+"""LUCULLUS"" Grill-Pizza-Kiosk Handelsbolag",916516-4907,se,,Handelsbolag,,True,,,,,,Sweden,
+"""Libbes Läder"" Evert o Eva Fransson Handelsbolag",916569-0331,se,,Handelsbolag,,,,,,,,Sweden,
+"""Lilla Garnstugan Handelsbolag""",916681-0391,se,,Handelsbolag,,True,,,,,,Sweden,
+"""Lilla My"" Pizza Cemil Yildirim Handelsbolag",916520-1642,se,,Handelsbolag,,True,,,,,,Sweden,
+"""Låset"" Henriksson Aktiebolag",556334-8738,se,,Aktiebolag,,True,,,,,,Sweden,
+"""NOUVEAUX"" Aktiebolag",556434-4587,se,,Aktiebolag,,True,,,,,,Sweden,
+"""Ordförrådet"" Handelsbolag",916754-3702,se,,Handelsbolag,,,,,,,,Sweden,
+"""Parfymeri Air"" Handelsbolag",916453-1387,se,,Handelsbolag,,True,,,,,,Sweden,
+"""Rally Harry"" Bil Aktiebolag",556198-3981,se,,Aktiebolag,,True,,,,,,Sweden,
+"""Rogers Mack"" Handelsbolag",916752-5972,se,,Handelsbolag,,True,,,,,,Sweden,
+"""Rossbols blandning ekonomisk förening""",716461-8600,se,,ekonomisk förening,,True,,,,,,Sweden,
+"""STUDIO CALUFSEN"" HANDELSBOLAG",916533-3155,se,,Handelsbolag,,True,,,,,,Sweden,
+"""SWEDECAMION"" Handelsbolag",916752-8554,se,,Handelsbolag,,True,,,,,,Sweden,
+"""Sawa-Eema"" Handelsbolag",969607-5630,se,,Handelsbolag,,True,,,,,,Sweden,
+"""Skärkälls andelsförening ek.för.""",716444-9212,se,,,,,,,,,,Sweden,
+"""Sysslebäcks'Hemläkarverksamhet Handelsbolag""",916573-0210,se,,Handelsbolag,,True,,,,,,Sweden,

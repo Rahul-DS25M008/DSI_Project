@@ -1,0 +1,131 @@
+import requests
+import pandas as pd
+# ----------------------------
+# API configuration
+# ----------------------------
+API_TOKEN = "wxBirM8Mp30WaDdjAxep"
+BASE_URL = "https://api.opencorporates.com/v0.4"
+
+# ----------------------------
+# Function to search for companies
+# ----------------------------
+def search_companies(
+    country_code,
+    query="",
+    incorporation_from=None,
+    page=1,
+    per_page=50
+):
+    """
+    Search companies in a given country with optional query, incorporation date filter,
+    and paging (page + per_page).
+    """
+    params = {
+        "jurisdiction_code": country_code,
+        "q": query,
+        "api_token": API_TOKEN,
+        "page": page,            # <-- page number
+        "per_page": per_page     # <-- results per page
+    }
+
+    if incorporation_from:
+        params["incorporation_from"] = incorporation_from
+
+    resp = requests.get(f"{BASE_URL}/companies/search", params=params)
+    resp.raise_for_status()
+    return resp.json()
+
+
+# ----------------------------
+# Function to get details of a specific company
+# ----------------------------
+def get_company(country_code, company_number):
+    """
+    Retrieve detailed information for a specific company.
+    """
+    resp = requests.get(
+        f"{BASE_URL}/companies/{country_code}/{company_number}",
+        params={"api_token": API_TOKEN}  # Include API token
+    )
+    resp.raise_for_status()  # Raise exception if API call fails
+    return resp.json()       # Return JSON response
+
+# ----------------------------
+# List of European country codes for API queries
+# ----------------------------
+eu_country_codes = [
+    "at", "be", "bg", "hr", "cy", "cz", "dk", "ee", "fi", "fr", "de",
+    "gr", "hu", "ie", "it", "lv", "lt", "lu", "mt", "nl", "pl", "pt",
+    "ro", "sk", "si", "es", "se"
+]
+
+# ----------------------------
+# Loop through each EU country to fetch companies incorporated from 2000-01-01
+# ----------------------------
+
+max_companies = 500000  # limit to companies
+company_count = 0
+
+# List to store company data
+companies_list = []
+
+for country_code in eu_country_codes:
+    results = search_companies(country_code, incorporation_from="2000-01-01")
+    for company_wrapper in results["results"]["companies"]:
+        companies_list.append(company_wrapper["company"])  # <-- flatten "company"
+        company_count += 1
+        if company_count >= max_companies:
+            break
+    if company_count >= max_companies:
+        break
+
+# Convert list of dicts to DataFrame
+df = pd.DataFrame(companies_list)
+print(df.columns)
+import pandas as pd
+
+columns_to_keep = [
+    "name", "company_number", "jurisdiction_code",
+    "incorporation_date", "company_type", "branch", "inactive"
+]
+
+for col in columns_to_keep:
+    if col not in df.columns:
+        df[col] = None  # or np.nan
+
+# Registered address columns (nested)
+address_cols = ["street_address", "locality", "region", "postal_code", "country"]
+
+# Flatten nested registered_address safely
+address_df = pd.json_normalize(df.get("registered_address", [{}]))
+address_df.columns = [f"registered_address_{c}" for c in address_df.columns]
+
+# Combine main columns and flattened address
+df_cleaned = pd.concat([df[columns_to_keep], address_df], axis=1)
+
+# Add country based on jurisdiction_code (example mapping for EU countries)
+jurisdiction_to_country = {
+    "at": "Austria", "be": "Belgium", "bg": "Bulgaria", "hr": "Croatia",
+    "cy": "Cyprus", "cz": "Czech Republic", "dk": "Denmark", "ee": "Estonia",
+    "fi": "Finland", "fr": "France", "de": "Germany", "gr": "Greece",
+    "hu": "Hungary", "ie": "Ireland", "it": "Italy", "lv": "Latvia",
+    "lt": "Lithuania", "lu": "Luxembourg", "mt": "Malta", "nl": "Netherlands",
+    "pl": "Poland", "pt": "Portugal", "ro": "Romania", "sk": "Slovakia",
+    "si": "Slovenia", "es": "Spain", "se": "Sweden"
+}
+
+df_cleaned["country"] = df_cleaned["jurisdiction_code"].map(jurisdiction_to_country)
+
+# Add started_in_year based on incorporation_date
+df_cleaned["started_in_year"] = pd.to_datetime(df_cleaned["incorporation_date"], errors="coerce").dt.year
+
+# Remove ! from name
+df_cleaned["name"] = df_cleaned["name"].str.replace("!", "", regex=False)
+
+# ----------------------------
+# Save to temporary CSV
+# ----------------------------
+df_cleaned.to_csv("/workspaces/dsi-ws2025-project-grpab-weigl-mds1ab-awp-proj2/2. Data Cleaning/data/temporary_startup_info_api_call_cleaned.csv", index=False)
+
+print("Saved cleaned data to temporary_startup_info_api_call_cleaned.csv")
+print(df_cleaned.head())
