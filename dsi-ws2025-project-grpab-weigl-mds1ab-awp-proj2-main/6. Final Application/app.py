@@ -14,6 +14,7 @@ import plotly.express as px
 from wordcloud import WordCloud
 from sklearn.linear_model import LinearRegression
 from sklearn.feature_extraction.text import TfidfVectorizer
+from pathlib import Path
 
 # Global configs and secrets loading.
 sns.set(style="whitegrid")
@@ -180,7 +181,11 @@ def render_home():
         )
 
     with col_image:
-        st.image("static/landing_page_1.jpg")
+        img_path = Path(__file__).resolve().parent / "static" / "landing_page_1.jpg"
+        if img_path.exists():
+            st.image(str(img_path))
+        else:
+            st.warning(f"Landing image not found at: {img_path}")
 
     st.markdown("---")
     st.markdown("## **Fascinating Facts from the Start-up Ecosystem** ")
@@ -835,9 +840,11 @@ def render_industry():
     safe_title("Industry & Theme Analysis")
 
     st.sidebar.header("Industry/NLP Controls")
+    APP_DIR = Path(__file__).resolve().parent
+    DEFAULT_NLP_PATH = APP_DIR.parent / "5. Data Analysis" / "data" / "failory_nlp_clusters.csv"
     nlp_csv_path = st.sidebar.text_input(
         "Path to `failory_nlp_clusters.csv`",
-        value="/workspaces/dsi-ws2025-project-grpab-weigl-mds1ab-awp-proj2/5. Data Analysis/data/failory_nlp_clusters.csv"
+        value=str(DEFAULT_NLP_PATH)
     )
 
     df_industry_base = load_industry_base()
